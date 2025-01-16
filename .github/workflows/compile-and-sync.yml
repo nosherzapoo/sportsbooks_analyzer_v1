@@ -10,6 +10,8 @@ jobs:
   save-odds:
     runs-on: ubuntu-latest
     if: github.event.schedule != '55 23 * * *'  # Only run at midnight
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -33,17 +35,20 @@ jobs:
         run: python scripts/save_odds.py
 
       - name: Commit and push odds data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data/
           git commit -m "Update odds data" || exit 0
-          git remote set-url origin https://${{ secrets.PAT }}@github.com/${{ github.repository }}
           git push
 
   results-and-sync:
     runs-on: ubuntu-latest
     if: github.event.schedule != '0 0 * * *'  # Only run at 23:55
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -59,7 +64,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r scripts/requirements.txt
+          pip install requests beautifulsoup4 pandas tzdata python-dotenv
 
       - name: Run results
         env:
@@ -91,10 +96,11 @@ jobs:
           from: GitHub Actions
 
       - name: Commit and push results
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data/
           git commit -m "Update results and sync data" || exit 0
-          git remote set-url origin https://${{ secrets.PAT }}@github.com/${{ github.repository }}
           git push
