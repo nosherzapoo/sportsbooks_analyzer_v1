@@ -45,13 +45,17 @@ jobs:
 
       - name: Send email with results
         uses: dawidd6/action-send-mail@v3
+        env:
+          MAIL_SERVER: ${{secrets.MAIL_SERVER}}
+          MAIL_USERNAME: ${{secrets.MAIL_USERNAME}}
+          MAIL_PASSWORD: ${{secrets.MAIL_PASSWORD}}
         with:
-          server_address: smtp.gmail.com
+          server_address: ${{env.MAIL_SERVER}}
           server_port: 587
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
+          username: ${{env.MAIL_USERNAME}}
+          password: ${{env.MAIL_PASSWORD}}
           subject: Daily Betting Analysis - ${{ env.date }}
           body: Please find attached the betting analysis report for ${{ env.date }}
           attachments: ./synced_results_${{ env.date }}.csv
-          to: ${{ secrets.RECIPIENT_EMAIL }}
+          to: ${{secrets.RECIPIENT_EMAIL}}
           from: GitHub Actions
