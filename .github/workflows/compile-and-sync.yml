@@ -53,3 +53,28 @@ jobs:
           body: file://synced_results_$(date +'%Y%m%d').csv
           to: your-email@example.com
           from: GitHub Actions 
+
+name: Test Email Configuration
+
+on: 
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  test-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test email
+        uses: dawidd6/action-send-mail@v3
+        env:
+          MAIL_SERVER: ${{secrets.MAIL_SERVER}}
+          MAIL_USERNAME: ${{secrets.MAIL_USERNAME}}
+          MAIL_PASSWORD: ${{secrets.MAIL_PASSWORD}}
+        with:
+          server_address: ${{env.MAIL_SERVER}}
+          server_port: 587
+          username: ${{env.MAIL_USERNAME}}
+          password: ${{env.MAIL_PASSWORD}}
+          subject: GitHub Actions - Test Email
+          body: This is a test email from GitHub Actions to verify email configuration
+          to: ${{env.MAIL_USERNAME}}  # Sending to the same email
+          from: GitHub Actions 
