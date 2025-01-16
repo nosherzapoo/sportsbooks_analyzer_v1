@@ -96,7 +96,7 @@ jobs:
           subject: Daily Betting Analysis - ${{ env.date }}
           body: Please find attached the betting analysis report for ${{ env.date }}
           attachments: ./data/synced_results_${{ env.date }}.csv
-          to: ${{secrets.RECIPIENT_EMAIL}}
+          to: ${{secrets.RECIPIENT_EMAIL}}, ${{secrets.RECIPIENT_EMAIL_2}}, ${{secrets.RECIPIENT_EMAIL_3}}
           from: GitHub Actions
 
       - name: Commit and push results
