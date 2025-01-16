@@ -1,17 +1,21 @@
-name: Compile and Sync Workflow
+name: Daily Betting Data Collection
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 0 * * *'  # Run save_odds at midnight UTC
+    - cron: '55 23 * * *'  # Run results and sync at 23:55 UTC
+  workflow_dispatch:
 
 jobs:
-  process-and-email:
+  save-odds:
     runs-on: ubuntu-latest
+    if: github.event.schedule != '55 23 * * *'  # Only run at midnight
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
      
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,23 +25,48 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests beautifulsoup4 python-dotenv
+          pip install -r requirements.txt
 
-      - name: Run compiler
+      - name: Run save_odds
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python compiler.py
+        run: python scripts/save_odds.py
 
-      - name: Run today_list
-        run: python today_list.py
+      - name: Commit and push odds data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Update odds data" || exit 0
+          git push
+
+  results-and-sync:
+    runs-on: ubuntu-latest
+    if: github.event.schedule != '0 0 * * *'  # Only run at 23:55
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+     
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run results
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python results.py
+        run: python scripts/results.py
 
       - name: Run sync
-        run: python sync.py
+        run: python scripts/sync.py
 
       - name: Get current date
         id: date
@@ -56,6 +85,14 @@ jobs:
           password: ${{env.MAIL_PASSWORD}}
           subject: Daily Betting Analysis - ${{ env.date }}
           body: Please find attached the betting analysis report for ${{ env.date }}
-          attachments: ./synced_results_${{ env.date }}.csv
+          attachments: ./data/synced_results_${{ env.date }}.csv
           to: ${{secrets.RECIPIENT_EMAIL}}
           from: GitHub Actions
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Update results and sync data" || exit 0
+          git push

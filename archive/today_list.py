@@ -13,8 +13,8 @@ today = datetime.now().date()
 # Filter for games happening today
 today_games = df[df['Match Date'].dt.date == today]
 
-# Get unique games (remove duplicate rows for different bookmakers)
-today_unique = today_games.groupby(['Sport', 'Match Date', 'Home Team', 'Away Team']).first().reset_index()
+# Keep all games and bookmakers
+today_unique = today_games.copy()
 
 # Sort by date/time
 today_unique = today_unique.sort_values('Match Date')

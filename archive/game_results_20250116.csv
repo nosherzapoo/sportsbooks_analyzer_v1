@@ -1,0 +1,126 @@
+Sport,Event Time,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+ATP Australian Open,2025-01-16T05:00:00Z,Alex Michelsen,James McCabe,,,Scheduled,61dd50055280e6abcf707e599374e319
+ATP Australian Open,2025-01-16T05:22:00Z,Fabian Marozsan,Frances Tiafoe,,,Scheduled,e740b781da8014134d1a01fef09971b5
+ATP Australian Open,2025-01-16T05:50:00Z,Joao Fonseca,Lorenzo Sonego,,,Scheduled,8dab6614a8fbe00541e3a3ed40c60262
+ATP Australian Open,2025-01-16T06:30:00Z,Matteo Berrettini,Holger Rune,,,Scheduled,48179a14c2796a744c5d7b2078d4724e
+ATP Australian Open,2025-01-16T08:00:00Z,Jannik Sinner,Tristan Schoolkate,,,Scheduled,a080258188bff35b2f1bdcf971cf8a47
+ATP Australian Open,2025-01-16T10:00:00Z,Learner Tien,Daniil Medvedev,,,Scheduled,cf5ba7f430931f8549d614bde15cebfb
+ATP Australian Open,2025-01-17T00:00:00Z,Jakub Mensik,Alejandro Davidovich Fokina,,,Scheduled,2944d0372cc1da954b57c62f3db91b67
+ATP Australian Open,2025-01-17T00:00:00Z,Jack Draper,Aleksandar Vukic,,,Scheduled,cd5eaec72786670f682cb679854a85ef
+ATP Australian Open,2025-01-17T00:00:00Z,Jacob Fearnley,Alexander Zverev,,,Scheduled,a29fb0c26f0f3d07998bbe53c928f20c
+ATP Australian Open,2025-01-17T00:00:00Z,Ugo Humbert,Arthur Fils,,,Scheduled,7c646bef14acd39aa6bf74991b9ca8f3
+ATP Australian Open,2025-01-17T00:00:00Z,Jiri Lehecka,Benjamin Bonzi,,,Scheduled,e60e5a495aec582791757c02ea95492e
+ATP Australian Open,2025-01-17T00:00:00Z,Nuno Borges,Carlos Alcaraz,,,Scheduled,3c516a8e12ddfe696765386b3d1ca74a
+ATP Australian Open,2025-01-17T00:00:00Z,Novak Djokovic,Tomas Machac,,,Scheduled,ef9cd7e0449878f65ce688b25adafe87
+ATP Australian Open,2025-01-17T00:00:00Z,Roberto Carballes Baena,Tommy Paul,,,Scheduled,8742bd93ca5a0484bba57e2075bbb336
+WTA Australian Open,2025-01-16T06:00:00Z,Elina Svitolina,Caroline Dolehide,,,Scheduled,31480f8e637cfa5add32a7c6baa82603
+WTA Australian Open,2025-01-16T07:00:00Z,Veronika Kudermetova,Katie Boulter,,,Scheduled,a6cdf12e4000d40cdee0516ff4759876
+WTA Australian Open,2025-01-16T07:30:00Z,Destanee Aiava,Danielle Collins,,,Scheduled,c22c3981a60f98d24a1fc54f80500e20
+WTA Australian Open,2025-01-16T08:00:00Z,Madison Keys,Elena Gabriela Ruse,,,Scheduled,226cf2b25042a38f18198bf430d747ee
+WTA Australian Open,2025-01-16T09:40:00Z,Renata Zarazua,Jasmine Paolini,,,Scheduled,a803301c09187a8a3a602bd7d95e35ab
+WTA Australian Open,2025-01-17T00:00:00Z,Anastasia Pavlyuchenkova,Laura Siegemund,,,Scheduled,acca1f1ac8c437e36b9a1ddd80566436
+WTA Australian Open,2025-01-17T00:00:00Z,Aryna Sabalenka,Clara Tauson,,,Scheduled,72e7a39049504824e8ac9b58518588ef
+WTA Australian Open,2025-01-17T00:00:00Z,Naomi Osaka,Belinda Bencic,,,Scheduled,a69fc75dc446bea403e1515c7c9a7219
+WTA Australian Open,2025-01-17T00:00:00Z,Coco Gauff,Leylah Fernandez,,,Scheduled,803e087c156478e424e3248e5c8e662c
+WTA Australian Open,2025-01-17T00:00:00Z,Diana Shnaider,Donna Vekic,,,Scheduled,6e7ba31b708c420feb8b0a9256053ad4
+WTA Australian Open,2025-01-17T00:00:00Z,Emma Raducanu,Iga Swiatek,,,Scheduled,c369696391367110912b171bd7cf072d
+WTA Australian Open,2025-01-17T00:00:00Z,Olga Danilovic,Jessica Pegula,,,Scheduled,bf5dfc1bf79abaa2a2fcb53063f31e3a
+WTA Australian Open,2025-01-17T00:00:00Z,Magdalena Frech,Mirra Andreeva,,,Scheduled,0af99084131e0448c46c71e19b9bf979
+WTA Australian Open,2025-01-17T00:00:00Z,Paula Badosa,Marta Kostyuk,,,Scheduled,d4f5a55b0fc22b2b54c5e4719f9cb85c
+NBL,2025-01-16T06:30:00Z,New Zealand Breakers,Tasmania JackJumpers,,,Scheduled,dce44322782ce929563e9e0e91eff35a
+Big Bash,2025-01-16T08:30:00Z,Brisbane Heat,Hobart Hurricanes,,,Scheduled,abbf3d1ced13b6e94db5f130e76f1a59
+NCAAB,2025-01-16T16:00:00Z,NJIT Highlanders,Maine Black Bears,,,Scheduled,a30260483b4d223f3dbb0a670ddd3db2
+NCAAB,2025-01-16T23:00:00Z,UMBC Retrievers,New Hampshire Wildcats,,,Scheduled,f794a776ca2bbcf98572fc77d949b457
+NCAAB,2025-01-16T23:30:00Z,Albany Great Danes,Bryant Bulldogs,,,Scheduled,7cc5f82834b7837f0d5a623af73ecd12
+NCAAB,2025-01-16T23:30:00Z,Bellarmine Knights,Lipscomb Bisons,,,Scheduled,d2b17d460be05fddea8695e1ba6e38bc
+NCAAB,2025-01-16T23:30:00Z,Delaware Blue Hens,Stony Brook Seawolves,,,Scheduled,037a1c1559972d1184956f92694bb053
+NCAAB,2025-01-16T23:30:00Z,Florida Gulf Coast Eagles,West Georgia Wolves,,,Scheduled,f03440389b696050ec8569f137906d7c
+NCAAB,2025-01-17T00:00:00Z,Old Dominion Monarchs,Appalachian St Mountaineers,,,Scheduled,4752a5de268fb7e9e4f73224b9d74b48
+NCAAB,2025-01-17T00:00:00Z,Vermont Catamounts,Binghamton Bearcats,,,Scheduled,e8268b56553bcfe0839671ad8728a571
+NCAAB,2025-01-17T00:00:00Z,Campbell Fighting Camels,Charleston Cougars,,,Scheduled,e558f5ee3702085ae92a6ff8262c7a14
+NCAAB,2025-01-17T00:00:00Z,Iona Gaels,Canisius Golden Griffins,,,Scheduled,177a97b6adf7a81208c4b35f36560371
+NCAAB,2025-01-17T00:00:00Z,North Florida Ospreys,Central Arkansas Bears,,,Scheduled,129ab392f838d2a383fb68c2af2db3ee
+NCAAB,2025-01-17T00:00:00Z,Coastal Carolina Chanticleers,Georgia Southern Eagles,,,Scheduled,322f40eb04ad912a278006ea54751761
+NCAAB,2025-01-17T00:00:00Z,Drexel Dragons,Elon Phoenix,,,Scheduled,19d8086452475daa4b36874d0f0b8217
+NCAAB,2025-01-17T00:00:00Z,Fairfield Stags,Niagara Purple Eagles,,,Scheduled,34d828a0c977168ec869c72eab8ced31
+NCAAB,2025-01-17T00:00:00Z,Florida Int'l Golden Panthers,New Mexico St Aggies,,,Scheduled,9657c466edc433a6a735dcd054bd3bb6
+NCAAB,2025-01-17T00:00:00Z,Hampton Pirates,William & Mary Tribe,,,Scheduled,81a91ef0fd66ed02f549b601cf368ba2
+NCAAB,2025-01-17T00:00:00Z,Longwood Lancers,High Point Panthers,,,Scheduled,7f79dd4b49dc02e0aaabfb6f06c78632
+NCAAB,2025-01-17T00:00:00Z,Towson Tigers,Hofstra Pride,,,Scheduled,77ac5ae2469b506744190323706f79f9
+NCAAB,2025-01-17T00:00:00Z,Jacksonville Dolphins,North Alabama Lions,,,Scheduled,789b76f12aa43700fd0725fe332fb3cc
+NCAAB,2025-01-17T00:00:00Z,Jacksonville St Gamecocks,Louisiana Tech Bulldogs,,,Scheduled,25486b70bf26e8b1aa78b49c265ef568
+NCAAB,2025-01-17T00:00:00Z,James Madison Dukes,Marshall Thundering Herd,,,Scheduled,ce6f60cbed0e4f3f4358bd522cacad57
+NCAAB,2025-01-17T00:00:00Z,Kennesaw St Owls,Sam Houston St Bearkats,,,Scheduled,81102047d90e582f5a10e12343b12b97
+NCAAB,2025-01-17T00:00:00Z,Saint Peter's Peacocks,Marist Red Foxes,,,Scheduled,3101527ee3c6deb4313a4055f4062e79
+NCAAB,2025-01-17T00:00:00Z,Temple Owls,Memphis Tigers,,,Scheduled,0a3bdaf90c3c5c7165219205e81a97a4
+NCAAB,2025-01-17T00:00:00Z,Quinnipiac Bobcats,Merrimack Warriors,,,Scheduled,7a559edbd3031602510e522abf58ea2d
+NCAAB,2025-01-17T00:00:00Z,Minnesota Golden Gophers,Michigan Wolverines,,,Scheduled,6fa346d4d20145f21b1e18918a70a666
+NCAAB,2025-01-17T00:00:00Z,North Carolina A&T Aggies,Monmouth Hawks,,,Scheduled,50a14f415d1c2832cd0690843a10b674
+NCAAB,2025-01-17T00:00:00Z,Rider Broncs,Mt. St. Mary's Mountaineers,,,Scheduled,2b7b572a6839f15b160f64302729ec0d
+NCAAB,2025-01-17T00:00:00Z,UNC Wilmington Seahawks,Northeastern Huskies,,,Scheduled,50090fa444c89759fa1e62e1237f25d8
+NCAAB,2025-01-17T00:00:00Z,Stetson Hatters,Queens University Royals,,,Scheduled,05c234564ccfc3295688c3745721c5be
+NCAAB,2025-01-17T00:00:00Z,Siena Saints,Sacred Heart Pioneers,,,Scheduled,82c0766235f02d71d17b72f115fe0876
+NCAAB,2025-01-17T00:30:00Z,Morehead St Eagles,Western Illinois Leathernecks,,,Scheduled,a49fbdd6ede47c3ba2581e2264e75b75
+NCAAB,2025-01-17T01:00:00Z,Arkansas St Red Wolves,Louisiana Ragin' Cajuns,,,Scheduled,fea089c17961d1c1872ba7fa723805fc
+NCAAB,2025-01-17T01:00:00Z,Austin Peay Governors,Eastern Kentucky Colonels,,,Scheduled,29482fe959b14823c11c0e20dca37cec
+NCAAB,2025-01-17T01:00:00Z,Tarleton State Texans,Cal Baptist Lancers,,,Scheduled,487e3f0e465b9ed9b6eb379bd9058400
+NCAAB,2025-01-17T01:00:00Z,N Colorado Bears,Portland St Vikings,,,Scheduled,6b551ba5af525310ae90b97242d9d411
+NCAAB,2025-01-17T01:00:00Z,South Dakota St Jackrabbits,North Dakota Fighting Hawks,,,Scheduled,5cc38568f57e1ce9f77b76fa2d070a84
+NCAAB,2025-01-17T01:00:00Z,North Dakota St Bison,UMKC Kangaroos,,,Scheduled,1b60e698999d479a00f577c7f29d2baa
+NCAAB,2025-01-17T01:00:00Z,Northern Arizona Lumberjacks,Sacramento St Hornets,,,Scheduled,7bfa77e26e5f6fc6b3819026ebc6b481
+NCAAB,2025-01-17T01:00:00Z,South Dakota Coyotes,Oral Roberts Golden Eagles,,,Scheduled,047fe044bcfca1d838f625af4e342cc5
+NCAAB,2025-01-17T01:00:00Z,UT-Arlington Mavericks,Utah Valley Wolverines,,,Scheduled,b9d289d6c36a2dca057b35443fa378ef
+NCAAB,2025-01-17T01:30:00Z,Tenn-Martin Skyhawks,Eastern Illinois Panthers,,,Scheduled,af70a80495dab1080ce8f86ce5126ac9
+NCAAB,2025-01-17T01:30:00Z,Southern Indiana Screaming Eagles,Lindenwood Lions,,,Scheduled,77b6349425d4fa6d510fd78e771ea8f5
+NCAAB,2025-01-17T01:30:00Z,Tennessee Tech Golden Eagles,SE Missouri St Redhawks,,,Scheduled,3fbb48db60a2c0fcdcbf5004777192d2
+NCAAB,2025-01-17T01:30:00Z,Tennessee St Tigers,SIU-Edwardsville Cougars,,,Scheduled,6f7561c85da743c733b8b75a67a69aa3
+NCAAB,2025-01-17T02:00:00Z,Grand Canyon Antelopes,Abilene Christian Wildcats,,,Scheduled,4070576c6d3485efe1342a02d4fbfd71
+NCAAB,2025-01-17T02:00:00Z,Idaho State Bengals,Montana St Bobcats,,,Scheduled,5421c82ba00a91fec300592e125674b6
+NCAAB,2025-01-17T02:00:00Z,Liberty Flames,UTEP Miners,,,Scheduled,eca9b172a5fd712e545935d3485d06e8
+NCAAB,2025-01-17T02:00:00Z,Northwestern Wildcats,Maryland Terrapins,,,Scheduled,76eac071bb2260d17d0f3dbaf7e67944
+NCAAB,2025-01-17T02:00:00Z,Weber State Wildcats,Montana Grizzlies,,,Scheduled,a5e3892b0897713bfc47a2e374c53d98
+NCAAB,2025-01-17T02:00:00Z,Nebraska Cornhuskers,Rutgers Scarlet Knights,,,Scheduled,4b1bdb33a4ee8e99707e0f6a0bf5f696
+NCAAB,2025-01-17T03:00:00Z,UC Irvine Anteaters,CSU Fullerton Titans,,,Scheduled,a8767e10f07acb8e443529d8a771045d
+NCAAB,2025-01-17T03:00:00Z,Cal Poly Mustangs,UC Davis Aggies,,,Scheduled,5a349452d7a511e13404190d0b0fb225
+NCAAB,2025-01-17T03:00:00Z,Long Beach St 49ers,UC San Diego Tritons,,,Scheduled,ec3bc8c4b75efabf967fc9eaa669b31a
+NCAAB,2025-01-17T03:00:00Z,Loyola Marymount Lions,Santa Clara Broncos,,,Scheduled,e7e47dc0d1e887490b7eb60f1d8e6355
+NCAAB,2025-01-17T03:00:00Z,Portland Pilots,Pacific Tigers,,,Scheduled,6a08cb55126edb589f060a05d6a4d5e1
+NCAAB,2025-01-17T03:00:00Z,Pepperdine Waves,San Francisco Dons,,,Scheduled,18b1dcee099e2e6965f2d591b09d6c2e
+NCAAB,2025-01-17T03:00:00Z,San Diego Toreros,Washington St Cougars,,,Scheduled,16eae5cea297b095d5c9f22ab64a0cb3
+NCAAB,2025-01-17T03:00:00Z,Seattle Redhawks,Utah Tech Trailblazers,,,Scheduled,39597957a50bc2b7282bc9270c8fe93f
+NCAAB,2025-01-17T03:00:00Z,UC Santa Barbara Gauchos,UC Riverside Highlanders,,,Scheduled,27e6d200cd6dd04aad026b451e0a45ae
+NCAAB,2025-01-17T04:00:00Z,Oregon St Beavers,Gonzaga Bulldogs,,,Scheduled,b19ca2ab9afe18ab7908fe4dba81db2e
+NCAAB,2025-01-17T04:59:00Z,Hawai'i Rainbow Warriors,CSU Northridge Matadors,,,Scheduled,7294c571971c47e34877e2f4d7c33439
+SHL,2025-01-16T18:00:00Z,Luleå HF,Brynäs IF,,,Scheduled,2f8e254b483f83e51006a13e978a7b6a
+SHL,2025-01-16T18:00:00Z,Rögle BK,Frölunda HC,,,Scheduled,babec42bddcdfa4250796e72c83895f0
+SHL,2025-01-16T18:00:00Z,HV71,Färjestad BK,,,Scheduled,914be75ebd9487407216cd89d8d81c18
+SHL,2025-01-16T18:00:00Z,Leksands IF,Örebro HK,,,Scheduled,9068348bfd809680deac76623ce701f4
+SHL,2025-01-16T18:00:00Z,Modo Hockey,Linköping HC,,,Scheduled,4611fcd291658c44dc4e208d985ae3f4
+SHL,2025-01-16T18:00:00Z,Timrå IK,Malmö Redhawks,,,Scheduled,07c1c393902216ffcccb3fd44af06d9e
+SHL,2025-01-16T18:00:00Z,Skellefteå AIK,Växjö Lakers,,,Scheduled,e7b73a11b558252382aa037710a9580b
+Basketball Euroleague,2025-01-16T19:00:00Z,ASVEL Lyon Villeurbanne,ALBA Berlin,,,Scheduled,4b6d13d6fc7d907a927d8e341fd6f20f
+Basketball Euroleague,2025-01-16T19:30:00Z,Pallacanestro Olimpia Milano,KK Partizan NIS,,,Scheduled,99de0a39cb769bca3bd106f1e680f808
+Basketball Euroleague,2025-01-16T19:30:00Z,Paris Basketball,Maccabi Tel Aviv,,,Scheduled,8d5124171477cfe3ff58f4479ed0ac1c
+Basketball Euroleague,2025-01-16T19:45:00Z,Real Madrid,Olympiacos,,,Scheduled,714bd73f90a1e362739cb6ad1638b2f4
+NHL,2025-01-16T01:52:00Z,Minnesota Wild,Edmonton Oilers,3,5,Completed,cf2c75904e9a02a343cd1ab44f241525
+NHL,2025-01-17T00:00:00Z,Tampa Bay Lightning,Anaheim Ducks,,,Scheduled,874b121edc96c29d7f3351abbd8b89d8
+NHL,2025-01-17T00:00:00Z,Columbus Blue Jackets,San Jose Sharks,,,Scheduled,5432cf9b42b41bbee107a5245e24f159
+NHL,2025-01-17T00:00:00Z,Florida Panthers,Detroit Red Wings,,,Scheduled,fedfa2b85db342576050e02a1ae0e116
+NHL,2025-01-17T00:00:00Z,Toronto Maple Leafs,New Jersey Devils,,,Scheduled,8abca4300fad0a05a8e632cea3438038
+NHL,2025-01-17T00:00:00Z,Ottawa Senators,Washington Capitals,,,Scheduled,591896580785b51ce6bc47ead3adf3df
+NHL,2025-01-17T00:30:00Z,New York Islanders,Philadelphia Flyers,,,Scheduled,0ab1e4913d761cc5b7cd6fd28307ac12
+NHL,2025-01-17T01:00:00Z,St Louis Blues,Calgary Flames,,,Scheduled,b08e8ec69fee51401f02535b558fb175
+NHL,2025-01-17T01:00:00Z,Nashville Predators,Chicago Blackhawks,,,Scheduled,89a6126048760923084e95fca71eabeb
+NHL,2025-01-17T01:00:00Z,Dallas Stars,Montréal Canadiens,,,Scheduled,1b8e3e3a67da5245cdd7985f94ed772f
+NHL,2025-01-17T01:00:00Z,Winnipeg Jets,Seattle Kraken,,,Scheduled,66a8b45350f44ab4cd568dd3b56eeab4
+NHL,2025-01-17T02:00:00Z,Utah Hockey Club,New York Rangers,,,Scheduled,381a6dabf618ffcc5417f7ccefba2958
+NHL,2025-01-17T02:30:00Z,Colorado Avalanche,Edmonton Oilers,,,Scheduled,5e1121f3376c47c6afc0b4afb8fbb71e
+NHL,2025-01-17T03:00:00Z,Vancouver Canucks,Los Angeles Kings,,,Scheduled,5545a1e17e7325beea46099d1a13705a
+NBA,2025-01-16T02:10:00Z,Denver Nuggets,Houston Rockets,108,128,Completed,b7c5ff2c3662554161017cd57626a387
+NBA,2025-01-16T03:40:40Z,Los Angeles Clippers,Brooklyn Nets,96,47,Scheduled,6c9223009357137ab41128c696aba7e3
+NBA,2025-01-17T00:00:00Z,Detroit Pistons,Indiana Pacers,,,Scheduled,5fa4e5331caf83bcafb2eabead3515e1
+NBA,2025-01-17T00:00:00Z,Washington Wizards,Phoenix Suns,,,Scheduled,5eca5e45e635e3195ab9050b0f54a564
+NBA,2025-01-17T00:30:00Z,Oklahoma City Thunder,Cleveland Cavaliers,,,Scheduled,84c7b056cda9684496beb8d9c9f5423e
+NBA,2025-01-17T03:00:00Z,Sacramento Kings,Houston Rockets,,,Scheduled,2447040fa8cf0f436f6f9d621eae8823
+NBA,2025-01-17T03:00:00Z,Portland Trail Blazers,Los Angeles Clippers,,,Scheduled,1abb6dbd0df740709fc98cba57f0494e
+Test Matches,2025-01-17T04:30:00Z,Pakistan,West Indies,,,Scheduled,515e069dc84790f40bb1e5959ca7a12f
