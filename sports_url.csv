@@ -1,0 +1,60 @@
+Sport,URL
+NCAAF,/odds/americanfootball_ncaaf/moneyline
+NFL,/odds/americanfootball_nfl/moneyline
+NFL Super Bowl Winner,/odds/americanfootball_nfl_super_bowl_winner/moneyline
+AFL,/odds/aussierules_afl/moneyline
+MLB World Series Winner,/odds/baseball_mlb_world_series_winner/moneyline
+Basketball Euroleague,/odds/basketball_euroleague/moneyline
+NBA,/odds/basketball_nba/moneyline
+NBA Championship Winner,/odds/basketball_nba_championship_winner/moneyline
+NBL,/odds/basketball_nbl/moneyline
+NCAAB,/odds/basketball_ncaab/moneyline
+NCAAB Championship Winner,/odds/basketball_ncaab_championship_winner/moneyline
+WNCAAB,/odds/basketball_wncaab/moneyline
+Boxing,/odds/boxing_boxing/moneyline
+Big Bash,/odds/cricket_big_bash/moneyline
+Test Matches,/odds/cricket_test_match/moneyline
+Masters Tournament Winner,/odds/golf_masters_tournament_winner/moneyline
+PGA Championship Winner,/odds/golf_pga_championship_winner/moneyline
+The Open Winner,/odds/golf_the_open_championship_winner/moneyline
+US Open Winner,/odds/golf_us_open_winner/moneyline
+NHL,/odds/icehockey_nhl/moneyline
+NHL Championship Winner,/odds/icehockey_nhl_championship_winner/moneyline
+SHL,/odds/icehockey_sweden_hockey_league/moneyline
+MMA,/odds/mma_mixed_martial_arts/moneyline
+NRL,/odds/rugbyleague_nrl/moneyline
+Primera División - Argentina,/odds/soccer_argentina_primera_division/moneyline
+A-League,/odds/soccer_australia_aleague/moneyline
+Austrian Football Bundesliga,/odds/soccer_austria_bundesliga/moneyline
+Belgium First Div,/odds/soccer_belgium_first_div/moneyline
+Copa Libertadores,/odds/soccer_conmebol_copa_libertadores/moneyline
+Denmark Superliga,/odds/soccer_denmark_superliga/moneyline
+Championship,/odds/soccer_efl_champ/moneyline
+EFL Cup,/odds/soccer_england_efl_cup/moneyline
+League 1,/odds/soccer_england_league1/moneyline
+League 2,/odds/soccer_england_league2/moneyline
+EPL,/odds/soccer_epl/moneyline
+FA Cup,/odds/soccer_fa_cup/moneyline
+FIFA World Cup Winner,/odds/soccer_fifa_world_cup_winner/moneyline
+Ligue 1 - France,/odds/soccer_france_ligue_one/moneyline
+Ligue 2 - France,/odds/soccer_france_ligue_two/moneyline
+Bundesliga - Germany,/odds/soccer_germany_bundesliga/moneyline
+Bundesliga 2 - Germany,/odds/soccer_germany_bundesliga2/moneyline
+3. Liga - Germany,/odds/soccer_germany_liga3/moneyline
+Super League - Greece,/odds/soccer_greece_super_league/moneyline
+Serie A - Italy,/odds/soccer_italy_serie_a/moneyline
+Serie B - Italy,/odds/soccer_italy_serie_b/moneyline
+League of Ireland,/odds/soccer_league_of_ireland/moneyline
+Liga MX,/odds/soccer_mexico_ligamx/moneyline
+Dutch Eredivisie,/odds/soccer_netherlands_eredivisie/moneyline
+Primeira Liga - Portugal,/odds/soccer_portugal_primeira_liga/moneyline
+La Liga - Spain,/odds/soccer_spain_la_liga/moneyline
+La Liga 2 - Spain,/odds/soccer_spain_segunda_division/moneyline
+Premiership - Scotland,/odds/soccer_spl/moneyline
+Swiss Superleague,/odds/soccer_switzerland_superleague/moneyline
+Turkey Super League,/odds/soccer_turkey_super_league/moneyline
+UEFA Champions League,/odds/soccer_uefa_champs_league/moneyline
+UEFA Europa Conference League,/odds/soccer_uefa_europa_conference_league/moneyline
+UEFA Europa League,/odds/soccer_uefa_europa_league/moneyline
+ATP Australian Open,/odds/tennis_atp_aus_open_singles/moneyline
+WTA Australian Open,/odds/tennis_wta_aus_open_singles/moneyline
