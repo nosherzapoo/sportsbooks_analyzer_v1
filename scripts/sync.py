@@ -53,7 +53,7 @@ def sync_data():
         merged_df['Winner'] = merged_df.apply(determine_winner, axis=1)
         
         # Save all games, completed or not
-        output_file = f'data/synced_results_{today}.csv'
+        output_file = f'data/sportsbook_performance_{today}.csv'
         merged_df.to_csv(output_file, index=False)
         print(f"Synced results saved to {output_file}")
         return True
