@@ -9,7 +9,7 @@ on:
 jobs:
   save-odds:
     runs-on: ubuntu-latest
-    if: github.event.schedule != '55 23 * * *'  # Only run at midnight
+    if: github.event.schedule != '55 23 * * *'  # Only run at midnight or manual trigger
     permissions:
       contents: write
     
@@ -36,7 +36,7 @@ jobs:
 
       - name: Commit and push odds data
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -45,8 +45,9 @@ jobs:
           git push
 
   results-and-sync:
+    needs: save-odds  # This makes it wait for save-odds to complete when manually triggered
     runs-on: ubuntu-latest
-    if: github.event.schedule != '0 0 * * *'  # Only run at 23:55
+    if: github.event.schedule != '0 0 * * *'  # Only run at 23:55 or manual trigger
     permissions:
       contents: write
     
