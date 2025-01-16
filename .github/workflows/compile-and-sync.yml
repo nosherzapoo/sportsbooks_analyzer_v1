@@ -2,14 +2,14 @@ name: Daily Betting Data Collection
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run save_odds at midnight UTC
-    - cron: '55 23 * * *'  # Run results and sync at 23:55 UTC
+    - cron: '0 5 * * *'  # Run save_odds at midnight EST (5:00 UTC)
+    - cron: '55 4 * * *'  # Run results and sync at 23:55 EST (4:55 UTC)
   workflow_dispatch:
 
 jobs:
   save-odds:
     runs-on: ubuntu-latest
-    if: github.event.schedule != '55 23 * * *'  # Only run at midnight or manual trigger
+    if: github.event.schedule != '55 4 * * *'  # Only run at midnight or manual trigger
     permissions:
       contents: write
     
@@ -50,7 +50,7 @@ jobs:
   results-and-sync:
     needs: save-odds  # This makes it wait for save-odds to complete when manually triggered
     runs-on: ubuntu-latest
-    if: github.event.schedule != '0 0 * * *'  # Only run at 23:55 or manual trigger
+    if: github.event.schedule != '0 5 * * *'  # Only run at 23:55 or manual trigger
     permissions:
       contents: write
     
