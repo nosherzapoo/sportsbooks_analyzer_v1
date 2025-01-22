@@ -28,8 +28,9 @@ jobs:
       - name: Get yesterday's date
         id: date
         run: |
-          echo "date=$(date -d "yesterday" +'%Y%m%d')" >> $GITHUB_ENV
-          echo "Using date: $(date -d "yesterday" +'%Y%m%d')"
+          date -d "yesterday" +'%Y%m%d' > date.txt
+          echo "date=$(cat date.txt)" >> $GITHUB_ENV
+          echo "Using date: $(cat date.txt)"
 
       - name: Run results
         env:
