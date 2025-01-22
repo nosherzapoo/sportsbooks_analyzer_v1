@@ -25,6 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas tzdata python-dotenv
 
+      - name: Get yesterday's date
+        id: date
+        run: |
+          echo "date=$(date -d "yesterday" +'%Y%m%d')" >> $GITHUB_ENV
+          echo "Using date: $(date -d "yesterday" +'%Y%m%d')"
+
       - name: Run results
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
@@ -32,10 +38,6 @@ jobs:
 
       - name: Run sync
         run: python scripts/sync.py
-
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
       - name: Send email with results
         uses: dawidd6/action-send-mail@v3
@@ -50,8 +52,8 @@ jobs:
           password: ${{env.MAIL_PASSWORD}}
           subject: Daily Betting Analysis - ${{ env.date }}
           body: Please find attached the betting analysis report for ${{ env.date }}
-          attachments: ./data/synced_results_${{ env.date }}.csv
-          to: ${{secrets.RECIPIENT_EMAIL_1}},${{secrets.RECIPIENT_EMAIL_2}}
+          attachments: ./data/sportsbook_performance_${{ env.date }}.csv
+          to: ${{secrets.RECIPIENT_EMAIL}}, ${{secrets.RECIPIENT_EMAIL_2}}, ${{secrets.RECIPIENT_EMAIL_3}}
           from: GitHub Actions
 
       - name: Commit and push results
@@ -62,5 +64,5 @@ jobs:
           git pull --rebase
           git stash pop
           git add data/
-          git commit -m "Update results and sync data" || exit 0
+          git commit -m "Update results and sync data for ${{ env.date }}" || exit 0
           git push 
