@@ -50,7 +50,7 @@ jobs:
   results-and-sync:
     needs: save-odds  # This makes it wait for save-odds to complete when manually triggered
     runs-on: ubuntu-latest
-    if: github.event.schedule != '0 5 * * *'  # Only run at 23:55 or manual trigger
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '55 4 * * *'  # Run on manual trigger or at 23:55 EST
     permissions:
       contents: write
     
