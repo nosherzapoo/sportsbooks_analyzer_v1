@@ -1,0 +1,50 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250121,Brooklyn Nets,New York Knicks,95,99,Completed,ef3f4ef25b54e90b8ccff036468e4888
+NBA,20250121,Toronto Raptors,Orlando Magic,109,93,Completed,5c456f4536f90b8d9a31a8a5b996abd2
+NBA,20250121,Miami Heat,Portland Trail Blazers,107,116,Completed,fca5b6086018ef187eba8868f30c874e
+NBA,20250121,Denver Nuggets,Philadelphia 76ers,144,109,Completed,dca2e08e1bd82602ba0e716fa519d2d9
+NBA,20250121,Los Angeles Lakers,Washington Wizards,111,88,Completed,3dbc3307c4fed7a173051c2d8f07741b
+NCAAB,20250121,Eastern Michigan Eagles,Ohio Bobcats,94,87,Completed,10896552c0c1dc399ae08c5ac853cccb
+NCAAB,20250121,Alabama Crimson Tide,Vanderbilt Commodores,103,87,Completed,443c8a67e81dbe1534372287156d699a
+NCAAB,20250121,Virginia Cavaliers,Boston College Eagles,74,56,Completed,416e68fdbc7e94dd26ed382102dcdc70
+NCAAB,20250121,Cincinnati Bearcats,Texas Tech Red Raiders,71,81,Completed,5de7425a1e80f324435a56c158c4df67
+NCAAB,20250121,Tennessee Volunteers,Mississippi St Bulldogs,68,56,Completed,c6a89341d5d870688f5b972cf059399d
+NCAAB,20250121,UConn Huskies,Butler Bulldogs,80,78,Completed,59b47cced25e4b4799688f76dbdbdf3b
+NCAAB,20250121,Buffalo Bulls,Akron Zips,58,90,Completed,1e7c6d151a4e19aad460053a72800984
+NCAAB,20250121,Davidson Wildcats,Saint Joseph's Hawks,61,78,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210
+NCAAB,20250121,Toledo Rockets,Kent State Golden Flashes,64,83,Completed,7c75b84a09de34d79784fa0c914298cd
+NCAAB,20250121,Western Michigan Broncos,Northern Illinois Huskies,72,70,Completed,dadf99506044705c7b95c736a1ea2519
+NCAAB,20250121,Miami (OH) RedHawks,Bowling Green Falcons,84,76,Completed,58f5bdccd1c98fb705db07d277cbcb5d
+NCAAB,20250121,Central Michigan Chippewas,Ball State Cardinals,80,82,Completed,98b8499b577c09209b9cebba7a54bb0c
+NCAAB,20250121,Duquesne Dukes,Dayton Flyers,62,82,Completed,731ccd4e3bbf5b143a61db464c0fc471
+NCAAB,20250121,St. Bonaventure Bonnies,George Mason Patriots,62,75,Completed,7a4b2a4a2d8a2079429441a03d4e9b02
+NCAAB,20250121,Rhode Island Rams,VCU Rams,57,81,Completed,7f621f4066869d753f9ecc2bae4e0b06
+NCAAB,20250121,UAB Blazers,UTSA Roadrunners,81,78,Completed,5afe2aecb932d86099472b6879dbcf1a
+NCAAB,20250121,Belmont Bruins,Bradley Braves,77,89,Completed,9b5469615e4038d1e414af1892d888c1
+NCAAB,20250121,Purdue Boilermakers,Ohio State Buckeyes,70,73,Completed,1cfff6b9dc984554fa8f56a50ea20624
+NCAAB,20250121,Iowa State Cyclones,UCF Knights,108,83,Completed,77cf1e5060cf62292e3ec118b0fc886d
+NCAAB,20250121,Northern Iowa Panthers,Missouri St Bears,79,68,Completed,dac1bc7bef1cbedfab1f681d9f9b7364
+NCAAB,20250121,Illinois St Redbirds,Indiana St Sycamores,85,81,Completed,144ee2bd633c28c29dbe7fe251ac6499
+NCAAB,20250121,Seton Hall Pirates,Marquette Golden Eagles,59,76,Completed,42c7a3d6b4218024761d1da116060727
+NCAAB,20250121,Tulsa Golden Hurricane,East Carolina Pirates,76,85,Completed,095f863976b5ef91850dc58fa0ab75cd
+NCAAB,20250121,Tennessee St Tigers,Tenn-Martin Skyhawks,81,80,Completed,aeab148a2f7a97dd17c0d730e166c580
+NCAAB,20250121,Texas Longhorns,Missouri Tigers,61,53,Completed,24210cd14906dc90b2bcaf8f0545e2b6
+NCAAB,20250121,Iowa Hawkeyes,Minnesota Golden Gophers,67,72,Completed,e36805597d2df2204a316f136652409f
+NCAAB,20250121,West Virginia Mountaineers,Arizona St Sun Devils,57,65,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2
+NCAAB,20250121,Oklahoma St Cowboys,Arizona Wildcats,78,92,Completed,d1ab98ece219eda7942b6991a706148c
+NCAAB,20250121,DePaul Blue Demons,Creighton Bluejays,49,73,Completed,bf24616b7666862ba48c1742c594dae4
+NCAAB,20250121,Wake Forest Demon Deacons,North Carolina Tar Heels,67,66,Completed,52857d9d69b5d678765032229b32460f
+NCAAB,20250121,SMU Mustangs,Louisville Cardinals,73,98,Completed,de9821a9bb0a048c30e139351e8da7fb
+NCAAB,20250121,UCLA Bruins,Wisconsin Badgers,85,83,Completed,bd1de984e3b548d0f656828810e6ca19
+NCAAB,20250121,Oregon Ducks,Washington Huskies,82,71,Completed,24753016fb6662703526c38cae8001af
+NCAAB,20250121,UNLV Rebels,Wyoming Cowboys,61,63,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c
+NCAAB,20250121,Colorado Buffaloes,BYU Cougars,67,83,Completed,03032f0b2a8b4418a595e74c98bca076
+NHL,20250121,Montréal Canadiens,Tampa Bay Lightning,3,2,Completed,f347a2347fb39ba645db5032fa6fd0e5
+NHL,20250121,New York Rangers,Ottawa Senators,5,0,Completed,c79540c26d0f4c594b5ec9c66f194bfa
+NHL,20250121,Philadelphia Flyers,Detroit Red Wings,2,1,Completed,0d96a09b942c216e6cbe774f299b7341
+NHL,20250121,Dallas Stars,Carolina Hurricanes,1,2,Completed,4c356fb5889ef66c1835035f0a48bcac
+NHL,20250121,Nashville Predators,San Jose Sharks,7,5,Completed,a0e9fd0e05b236c4538605839e81c600
+NHL,20250121,Edmonton Oilers,Washington Capitals,2,3,Completed,63964843251ca5f47797fb3bfc72daae
+NHL,20250121,Anaheim Ducks,Florida Panthers,2,5,Completed,6de086055e0fb11b9f69c173222b34c0
+NHL,20250121,Vancouver Canucks,Buffalo Sabres,2,3,Completed,efda6a6808ec067472fbebe1971ffc59
+ATP Australian Open,20250121,Ben Shelton,Lorenzo Sonego,,,Unknown,d85158bac89453d771f99e8432aafa89

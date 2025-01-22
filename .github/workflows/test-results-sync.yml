@@ -32,13 +32,13 @@ jobs:
           echo "date=$(cat date.txt)" >> $GITHUB_ENV
           echo "Using date: $(cat date.txt)"
 
-      - name: Run results
+      - name: Run yesterday's results
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python scripts/results.py
+        run: python scripts/yesterdays_results.py
 
-      - name: Run sync
-        run: python scripts/sync.py
+      - name: Run yesterday's sync
+        run: python scripts/yesterdays_sync.py
 
       - name: Send email with results
         uses: dawidd6/action-send-mail@v3

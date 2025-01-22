@@ -20,6 +20,10 @@ def sync_data():
         odds_df = pd.read_csv(odds_file)
         results_df = pd.read_csv(results_file)
         
+        # Convert Match Date to string in both dataframes
+        odds_df['Match Date'] = odds_df['Match Date'].astype(str)
+        results_df['Match Date'] = results_df['Match Date'].astype(str)
+        
         # Convert scores to numeric, replacing empty strings with NaN
         results_df['Home Score'] = pd.to_numeric(results_df['Home Score'], errors='coerce')
         results_df['Away Score'] = pd.to_numeric(results_df['Away Score'], errors='coerce')
@@ -60,6 +64,11 @@ def sync_data():
             
     except Exception as e:
         print(f"Error during sync: {e}")
+        print("\nDebugging information:")
+        if 'odds_df' in locals():
+            print("Match Date type in odds:", odds_df['Match Date'].dtype)
+        if 'results_df' in locals():
+            print("Match Date type in results:", results_df['Match Date'].dtype)
         return False
 
 if __name__ == "__main__":

@@ -1,0 +1,336 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At,Winner
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,5.1,1.182,DraftKings,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,5.05,1.196,LowVig.ag,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,5.0,1.182,Caesars,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,5.05,1.196,BetOnline.ag,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,5.0,1.182,BetMGM,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,4.85,1.2,FanDuel,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,4.75,1.2,BetRivers,2025-01-21 05:12:45,favorite
+nba,20250121,brooklyn nets,new york knicks,95.0,99.0,Completed,ef3f4ef25b54e90b8ccff036468e4888,4.7,1.196,Bovada,2025-01-21 05:12:45,favorite
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.24,1.676,DraftKings,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.3,1.667,LowVig.ag,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.3,1.667,BetOnline.ag,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.26,1.667,Caesars,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.25,1.645,BetMGM,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.29,1.667,BetUS,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.36,1.617,FanDuel,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.2,1.699,BetRivers,2025-01-21 05:12:45,underdog
+nba,20250121,toronto raptors,orlando magic,109.0,93.0,Completed,5c456f4536f90b8d9a31a8a5b996abd2,2.25,1.69,Bovada,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.187,5.0,DraftKings,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.182,5.3,LowVig.ag,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.167,5.3,Caesars,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.182,5.3,BetOnline.ag,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.167,5.25,BetMGM,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.182,5.25,BetUS,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.182,5.1,FanDuel,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.208,4.7,BetRivers,2025-01-21 05:12:45,underdog
+nba,20250121,miami heat,portland trail blazers,107.0,116.0,Completed,fca5b6086018ef187eba8868f30c874e,1.196,4.7,Bovada,2025-01-21 05:12:45,underdog
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.111,7.0,DraftKings,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.125,6.8,LowVig.ag,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.125,6.8,BetOnline.ag,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.111,7.0,Caesars,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.111,7.0,BetMGM,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.111,7.1,FanDuel,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.11,7.0,BetRivers,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.111,6.75,Bovada,2025-01-21 05:12:45,favorite
+nba,20250121,denver nuggets,philadelphia 76ers,144.0,109.0,Completed,dca2e08e1bd82602ba0e716fa519d2d9,1.125,6.5,BetUS,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.133,6.5,BetOnline.ag,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.133,6.5,LowVig.ag,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.125,6.5,DraftKings,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.125,6.5,Caesars,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.125,6.5,BetMGM,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.111,7.1,FanDuel,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.12,6.75,BetRivers,2025-01-21 05:12:45,favorite
+nba,20250121,los angeles lakers,washington wizards,111.0,88.0,Completed,3dbc3307c4fed7a173051c2d8f07741b,1.118,6.5,Bovada,2025-01-21 05:12:45,favorite
+ncaab,20250121,eastern michigan eagles,ohio bobcats,94.0,87.0,Completed,10896552c0c1dc399ae08c5ac853cccb,4.0,1.26,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,eastern michigan eagles,ohio bobcats,94.0,87.0,Completed,10896552c0c1dc399ae08c5ac853cccb,3.57,1.28,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,eastern michigan eagles,ohio bobcats,94.0,87.0,Completed,10896552c0c1dc399ae08c5ac853cccb,3.7,1.294,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,eastern michigan eagles,ohio bobcats,94.0,87.0,Completed,10896552c0c1dc399ae08c5ac853cccb,3.6,1.286,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.139,5.9,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.13,5.81,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.125,6.5,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.16,5.5,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.125,6.5,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,alabama crimson tide,vanderbilt commodores,103.0,87.0,Completed,443c8a67e81dbe1534372287156d699a,1.125,6.5,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.278,3.8,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.26,3.78,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.25,4.1,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.23,4.3,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.253,4.1,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,virginia cavaliers,boston college eagles,74.0,56.0,Completed,416e68fdbc7e94dd26ed382102dcdc70,1.238,4.2,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,2.02,1.82,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,2.1,1.741,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,1.943,1.719,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,2.07,1.73,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,2.05,1.8,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,cincinnati bearcats,texas tech red raiders,71.0,81.0,Completed,5de7425a1e80f324435a56c158c4df67,2.05,1.8,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.317,3.5,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.319,3.29,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.333,3.3,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.299,3.55,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.336,3.4,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee volunteers,mississippi st bulldogs,68.0,56.0,Completed,c6a89341d5d870688f5b972cf059399d,1.328,3.4,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.111,6.9,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.1,7.25,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.1,6.75,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.09,7.11,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.1,7.5,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,uconn huskies,butler bulldogs,80.0,78.0,Completed,59b47cced25e4b4799688f76dbdbdf3b,1.1,7.5,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,7.8,1.091,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,6.26,1.11,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,7.0,1.111,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,6.4,1.12,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,7.0,1.111,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,buffalo bulls,akron zips,58.0,90.0,Completed,1e7c6d151a4e19aad460053a72800984,7.0,1.111,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,2.02,1.82,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,1.971,1.813,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,2.05,1.787,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,2.02,1.82,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,2.0,1.833,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,davidson wildcats,saint joseph's hawks,61.0,78.0,Completed,a5dafa1dbbc0e9b008febb2e7fdd3210,2.0,1.833,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.719,2.09,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.769,2.1,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.885,1.926,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.769,2.1,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.714,2.12,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,toledo rockets,kent state golden flashes,64.0,83.0,Completed,7c75b84a09de34d79784fa0c914298cd,1.741,2.1,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.174,5.25,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.17,4.81,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.169,5.25,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.167,5.3,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.167,5.2,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,western michigan broncos,northern illinois huskies,72.0,70.0,Completed,dadf99506044705c7b95c736a1ea2519,1.167,5.25,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,miami (oh) redhawks,bowling green falcons,84.0,76.0,Completed,58f5bdccd1c98fb705db07d277cbcb5d,1.213,4.6,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,miami (oh) redhawks,bowling green falcons,84.0,76.0,Completed,58f5bdccd1c98fb705db07d277cbcb5d,1.18,4.68,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,miami (oh) redhawks,bowling green falcons,84.0,76.0,Completed,58f5bdccd1c98fb705db07d277cbcb5d,1.208,4.6,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,miami (oh) redhawks,bowling green falcons,84.0,76.0,Completed,58f5bdccd1c98fb705db07d277cbcb5d,1.192,4.7,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,miami (oh) redhawks,bowling green falcons,84.0,76.0,Completed,58f5bdccd1c98fb705db07d277cbcb5d,1.2,4.6,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.488,2.7,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.481,2.62,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.5,2.6,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.488,2.7,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.465,2.72,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,central michigan chippewas,ball state cardinals,80.0,82.0,Completed,98b8499b577c09209b9cebba7a54bb0c,1.476,2.7,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.34,1.617,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.47,1.529,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.36,1.617,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.45,1.556,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.4,1.606,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,duquesne dukes,dayton flyers,62.0,82.0,Completed,731ccd4e3bbf5b143a61db464c0fc471,2.4,1.606,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.602,2.38,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.649,2.21,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.637,2.28,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.645,2.3,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.645,2.3,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,st. bonaventure bonnies,george mason patriots,62.0,75.0,Completed,7a4b2a4a2d8a2079429441a03d4e9b02,1.645,2.25,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.35,1.339,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.55,1.299,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.28,1.319,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.2,1.37,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.15,1.375,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,rhode island rams,vcu rams,57.0,81.0,Completed,7f621f4066869d753f9ecc2bae4e0b06,3.2,1.364,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.114,6.8,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.13,5.73,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.125,6.5,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.14,5.75,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.125,6.5,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,uab blazers,utsa roadrunners,81.0,78.0,Completed,5afe2aecb932d86099472b6879dbcf1a,1.125,6.5,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,2.15,1.725,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,1.99,1.787,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,2.12,1.735,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,2.05,1.8,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,2.05,1.8,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,belmont bruins,bradley braves,77.0,89.0,Completed,9b5469615e4038d1e414af1892d888c1,2.05,1.8,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.189,4.9,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.16,5.05,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.182,5.0,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.179,5.0,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.187,5.0,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,purdue boilermakers,ohio state buckeyes,70.0,73.0,Completed,1cfff6b9dc984554fa8f56a50ea20624,1.182,5.0,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.048,11.0,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.05,9.28,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.062,9.75,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.08,8.0,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.062,10.0,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa state cyclones,ucf knights,108.0,83.0,Completed,77cf1e5060cf62292e3ec118b0fc886d,1.062,10.0,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.154,5.6,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.14,5.36,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.174,5.25,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.16,5.3,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.167,5.3,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,northern iowa panthers,missouri st bears,79.0,68.0,Completed,dac1bc7bef1cbedfab1f681d9f9b7364,1.154,5.5,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,illinois st redbirds,indiana st sycamores,85.0,81.0,Completed,144ee2bd633c28c29dbe7fe251ac6499,1.3,3.45,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,illinois st redbirds,indiana st sycamores,85.0,81.0,Completed,144ee2bd633c28c29dbe7fe251ac6499,1.308,3.6,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,illinois st redbirds,indiana st sycamores,85.0,81.0,Completed,144ee2bd633c28c29dbe7fe251ac6499,1.29,3.7,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,illinois st redbirds,indiana st sycamores,85.0,81.0,Completed,144ee2bd633c28c29dbe7fe251ac6499,1.286,3.65,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,illinois st redbirds,indiana st sycamores,85.0,81.0,Completed,144ee2bd633c28c29dbe7fe251ac6499,1.286,3.6,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,7.4,1.1,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,6.07,1.12,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,6.5,1.125,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,6.1,1.13,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,6.5,1.125,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,seton hall pirates,marquette golden eagles,59.0,76.0,Completed,42c7a3d6b4218024761d1da116060727,6.5,1.125,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.36,1.61,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.49,1.521,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.33,1.606,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.6,1.521,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.58,1.526,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,tulsa golden hurricane,east carolina pirates,76.0,85.0,Completed,095f863976b5ef91850dc58fa0ab75cd,2.55,1.526,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee st tigers,tenn-martin skyhawks,81.0,80.0,Completed,aeab148a2f7a97dd17c0d730e166c580,1.73,2.07,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee st tigers,tenn-martin skyhawks,81.0,80.0,Completed,aeab148a2f7a97dd17c0d730e166c580,1.741,2.14,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee st tigers,tenn-martin skyhawks,81.0,80.0,Completed,aeab148a2f7a97dd17c0d730e166c580,1.769,2.1,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee st tigers,tenn-martin skyhawks,81.0,80.0,Completed,aeab148a2f7a97dd17c0d730e166c580,1.725,2.12,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,tennessee st tigers,tenn-martin skyhawks,81.0,80.0,Completed,aeab148a2f7a97dd17c0d730e166c580,1.741,2.1,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.725,2.15,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.758,2.04,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.714,2.15,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.699,2.18,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.769,2.1,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,texas longhorns,missouri tigers,61.0,53.0,Completed,24210cd14906dc90b2bcaf8f0545e2b6,1.769,2.1,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.208,4.6,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.22,4.17,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.25,4.1,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.208,4.5,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.244,4.2,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,iowa hawkeyes,minnesota golden gophers,67.0,72.0,Completed,e36805597d2df2204a316f136652409f,1.238,4.2,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.303,3.6,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.29,3.55,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.333,3.4,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.299,3.3,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.36,3.25,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,west virginia mountaineers,arizona st sun devils,57.0,65.0,Completed,7116d462cfc50ddb7d2ee5dbfdcc86c2,1.351,3.28,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,4.6,1.208,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,4.18,1.22,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,4.4,1.222,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,3.9,1.26,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,4.4,1.227,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,oklahoma st cowboys,arizona wildcats,78.0,92.0,Completed,d1ab98ece219eda7942b6991a706148c,4.35,1.227,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,3.2,1.364,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,3.0,1.4,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,2.93,1.391,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,3.25,1.35,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,3.0,1.408,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,depaul blue demons,creighton bluejays,49.0,73.0,Completed,bf24616b7666862ba48c1742c594dae4,3.05,1.4,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.885,1.943,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.847,1.926,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.87,1.952,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.962,1.855,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.87,1.952,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,wake forest demon deacons,north carolina tar heels,67.0,66.0,Completed,52857d9d69b5d678765032229b32460f,1.87,1.952,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.847,1.98,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.741,2.1,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.855,1.952,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.787,1.99,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.833,2.0,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,smu mustangs,louisville cardinals,73.0,98.0,Completed,de9821a9bb0a048c30e139351e8da7fb,1.833,2.0,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.649,2.28,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.559,2.39,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.606,2.35,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.549,2.5,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.602,2.4,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,ucla bruins,wisconsin badgers,85.0,83.0,Completed,bd1de984e3b548d0f656828810e6ca19,1.606,2.4,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.1,7.4,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.111,7.0,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.1,6.69,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.12,6.4,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.111,7.0,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,oregon ducks,washington huskies,82.0,71.0,Completed,24753016fb6662703526c38cae8001af,1.111,7.0,Caesars,2025-01-21 05:12:45,favorite
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.222,4.4,FanDuel,2025-01-21 05:12:45,underdog
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.22,4.17,MyBookie.ag,2025-01-21 05:12:45,underdog
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.22,4.4,BetRivers,2025-01-21 05:12:45,underdog
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.244,4.2,DraftKings,2025-01-21 05:12:45,underdog
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.238,4.2,Caesars,2025-01-21 05:12:45,underdog
+ncaab,20250121,unlv rebels,wyoming cowboys,61.0,63.0,Completed,4d755ee2dbd6db1749c7d9a32ed4bc3c,1.25,4.1,BetMGM,2025-01-21 05:12:45,underdog
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.62,1.51,FanDuel,2025-01-21 05:12:45,favorite
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.55,1.5,MyBookie.ag,2025-01-21 05:12:45,favorite
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.5,1.541,BetMGM,2025-01-21 05:12:45,favorite
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.7,1.476,BetRivers,2025-01-21 05:12:45,favorite
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.5,1.556,DraftKings,2025-01-21 05:12:45,favorite
+ncaab,20250121,colorado buffaloes,byu cougars,67.0,83.0,Completed,03032f0b2a8b4418a595e74c98bca076,2.52,1.556,Caesars,2025-01-21 05:12:45,favorite
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.2,1.699,BetRivers,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.3,1.645,DraftKings,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.18,1.662,MyBookie.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.3,1.641,FanDuel,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.3,1.645,Caesars,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.25,1.667,BetMGM,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.3,1.667,Bovada,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.34,1.667,LowVig.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,montréal canadiens,tampa bay lightning,3.0,2.0,Completed,f347a2347fb39ba645db5032fa6fd0e5,2.34,1.667,BetOnline.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.746,2.1,BetRivers,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.769,2.1,DraftKings,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.735,2.07,MyBookie.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.8,2.11,LowVig.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.8,2.11,BetOnline.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.769,2.1,Caesars,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.8,2.04,FanDuel,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.8,2.05,BetUS,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.714,2.2,Bovada,2025-01-21 05:12:45,favorite
+nhl,20250121,new york rangers,ottawa senators,5.0,0.0,Completed,c79540c26d0f4c594b5ec9c66f194bfa,1.769,2.1,BetMGM,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.629,2.3,BetRivers,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.617,2.36,DraftKings,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.602,2.29,MyBookie.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.625,2.35,Caesars,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.625,2.42,LowVig.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.625,2.42,BetOnline.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.625,2.32,FanDuel,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.641,2.35,BetUS,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.581,2.47,Bovada,2025-01-21 05:12:45,favorite
+nhl,20250121,philadelphia flyers,detroit red wings,2.0,1.0,Completed,0d96a09b942c216e6cbe774f299b7341,1.645,2.3,BetMGM,2025-01-21 05:12:45,favorite
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.07,BetRivers,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.1,DraftKings,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.735,2.06,MyBookie.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.82,2.02,FanDuel,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.1,Caesars,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.1,BetMGM,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.741,2.15,Bovada,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.16,BetOnline.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,dallas stars,carolina hurricanes,1.0,2.0,Completed,4c356fb5889ef66c1835035f0a48bcac,1.769,2.16,LowVig.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.29,3.65,BetRivers,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.29,3.75,DraftKings,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.286,3.55,MyBookie.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.278,3.8,FanDuel,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.29,3.7,Caesars,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.286,3.7,BetMGM,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.303,3.86,BetOnline.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.303,3.86,LowVig.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.294,3.7,Bovada,2025-01-21 05:12:45,favorite
+nhl,20250121,nashville predators,san jose sharks,7.0,5.0,Completed,a0e9fd0e05b236c4538605839e81c600,1.303,3.7,BetUS,2025-01-21 05:12:45,favorite
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.735,2.12,BetRivers,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.741,2.14,DraftKings,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.694,2.13,MyBookie.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.769,2.08,FanDuel,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.741,2.15,Caesars,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.741,2.15,BetMGM,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.752,2.12,Bovada,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.746,2.19,LowVig.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.746,2.19,BetOnline.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,edmonton oilers,washington capitals,2.0,3.0,Completed,63964843251ca5f47797fb3bfc72daae,1.746,2.14,BetUS,2025-01-21 05:12:45,underdog
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,2.9,1.417,BetRivers,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.05,1.4,DraftKings,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,2.9,1.4,MyBookie.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.06,1.429,LowVig.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.06,1.429,BetOnline.ag,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.05,1.4,Caesars,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.05,1.4,FanDuel,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.03,1.417,BetUS,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.1,1.4,Bovada,2025-01-21 05:12:45,favorite
+nhl,20250121,anaheim ducks,florida panthers,2.0,5.0,Completed,6de086055e0fb11b9f69c173222b34c0,3.0,1.4,BetMGM,2025-01-21 05:12:45,favorite
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.571,2.4,BetRivers,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.571,2.45,DraftKings,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.562,2.38,MyBookie.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.543,2.52,FanDuel,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.588,2.43,Caesars,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.526,2.55,BetMGM,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.581,2.47,Bovada,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.588,2.51,BetOnline.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.588,2.51,LowVig.ag,2025-01-21 05:12:45,underdog
+nhl,20250121,vancouver canucks,buffalo sabres,2.0,3.0,Completed,efda6a6808ec067472fbebe1971ffc59,1.588,2.46,BetUS,2025-01-21 05:12:45,underdog
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.333,3.4,FanDuel,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.339,3.4,BetRivers,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.303,3.4,DraftKings,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.351,3.25,Bovada,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.3,3.5,Caesars,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.333,3.5,LowVig.ag,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.333,3.5,BetOnline.ag,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.333,3.4,BetMGM,2025-01-21 05:12:45,
+atp australian open,20250121,ben shelton,lorenzo sonego,,,Unknown,d85158bac89453d771f99e8432aafa89,1.333,3.25,BetUS,2025-01-21 05:12:45,
