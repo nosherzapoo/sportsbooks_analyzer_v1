@@ -1,3 +1,8 @@
+Bookmaker,Underdog Win %,Favorite Win %,Unknown Games
+DraftKings,0.0,100.0,56
+Bovada,0.0,100.0,12
+BetUS,0.0,100.0,3
+
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
 ATP Australian Open,,Jannik Sinner,Alex de Minaur,,,,,2025-01-22 03:40:00,1.189,4.9,FanDuel,2025-01-22 05:12:47
 ATP Australian Open,,Jannik Sinner,Alex de Minaur,,,,,2025-01-22 03:40:00,1.174,5.0,DraftKings,2025-01-22 05:12:47

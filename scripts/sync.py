@@ -32,9 +32,52 @@ def sync_data():
         # Drop rows without odds
         merged_df = merged_df.dropna(subset=['Home Team Odds', 'Away Team Odds'])
         
-        # Save merged data
+        # Calculate win percentages for each bookmaker
+        bookmaker_stats = []
+        for bookmaker in merged_df['Bookmaker'].unique():
+            bookmaker_df = merged_df[merged_df['Bookmaker'] == bookmaker]
+            
+            # Determine favorites and underdogs based on odds
+            bookmaker_df['Favorite'] = bookmaker_df.apply(
+                lambda x: 'Home' if x['Home Team Odds'] < x['Away Team Odds'] else 'Away', axis=1
+            )
+            
+            # Calculate actual winners
+            bookmaker_df['Winner'] = bookmaker_df.apply(
+                lambda x: 'Home' if x['Home Score'] > x['Away Score'] 
+                else 'Away' if x['Away Score'] > x['Home Score']
+                else 'Draw', axis=1
+            )
+            
+            # Calculate win percentages and unknown games
+            total_games = bookmaker_df.shape[0]
+            completed_games = bookmaker_df[bookmaker_df['Status'] == 'Completed'].shape[0]
+            unknown_games = bookmaker_df[bookmaker_df['Status'] == 'Unknown'].shape[0]
+            
+            if completed_games > 0:
+                favorite_wins = bookmaker_df[
+                    (bookmaker_df['Status'] == 'Completed') & 
+                    (bookmaker_df['Favorite'] == bookmaker_df['Winner'])
+                ].shape[0]
+                underdog_wins = completed_games - favorite_wins
+                
+                bookmaker_stats.append({
+                    'Bookmaker': bookmaker,
+                    'Underdog Win %': round(underdog_wins / completed_games * 100, 2),
+                    'Favorite Win %': round(favorite_wins / completed_games * 100, 2),
+                    'Unknown Games': unknown_games
+                })
+        
+        # Create stats DataFrame
+        stats_df = pd.DataFrame(bookmaker_stats)
+        
+        # Save merged data with stats at the top
         output_file = f'data/sportsbook_performance_{today}.csv'
-        merged_df.to_csv(output_file, index=False)
+        with open(output_file, 'w') as f:
+            stats_df.to_csv(f, index=False)
+            f.write('\n')  # Add blank line between tables
+            merged_df.to_csv(f, index=False)
+            
         print(f"Synced results saved to {output_file}")
         return True
             
