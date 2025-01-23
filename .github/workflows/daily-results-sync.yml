@@ -2,8 +2,8 @@ name: Daily Results and Sync
 
 on:
   schedule:
-    # Run at 7:19 PM EST (00:19 UTC)
-    - cron: '19 0 * * *'
+    # Run at 7:25 PM EST (00:25 UTC next day)
+    - cron: '25 0 * * *'
   workflow_dispatch:  # Manual trigger option
 
 jobs:
