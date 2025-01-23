@@ -20,43 +20,19 @@ def sync_data():
         odds_df = pd.read_csv(odds_file)
         results_df = pd.read_csv(results_file)
         
-        # Convert Match Date to string in both dataframes
-        odds_df['Match Date'] = odds_df['Match Date'].astype(str)
-        results_df['Match Date'] = results_df['Match Date'].astype(str)
-        
-        # Convert scores to numeric, replacing empty strings with NaN
-        results_df['Home Score'] = pd.to_numeric(results_df['Home Score'], errors='coerce')
-        results_df['Away Score'] = pd.to_numeric(results_df['Away Score'], errors='coerce')
-        
-        # Add winner column
-        def determine_winner(row):
-            if pd.isna(row['Home Score']) or pd.isna(row['Away Score']):
-                return None
-                
-            home_odds = float(row['Home Team Odds'])
-            away_odds = float(row['Away Team Odds'])
-            
-            if row['Home Score'] > row['Away Score']:
-                return 'underdog' if home_odds > away_odds else 'favorite'
-            elif row['Away Score'] > row['Home Score']:
-                return 'underdog' if away_odds > home_odds else 'favorite'
-            return 'Draw'
-            
-        # Merge odds data with results first
+        # Merge odds data with results on Sport, Home Team, Away Team
         merged_df = pd.merge(
             results_df,
             odds_df[['Sport', 'Match Date', 'Home Team', 'Away Team', 'Home Team Odds', 'Away Team Odds', 'Bookmaker', 'Compiled_At']],
-            on=['Sport', 'Match Date', 'Home Team', 'Away Team'],
-            how='outer'
+            on=['Sport', 'Home Team', 'Away Team'],
+            how='outer',
+            suffixes=('', '_time')
         )
         
         # Drop rows without odds
         merged_df = merged_df.dropna(subset=['Home Team Odds', 'Away Team Odds'])
         
-        # Now calculate winner based on merged data
-        merged_df['Winner'] = merged_df.apply(determine_winner, axis=1)
-        
-        # Save all games, completed or not
+        # Save merged data
         output_file = f'data/sportsbook_performance_{today}.csv'
         merged_df.to_csv(output_file, index=False)
         print(f"Synced results saved to {output_file}")
@@ -64,11 +40,6 @@ def sync_data():
             
     except Exception as e:
         print(f"Error during sync: {e}")
-        print("\nDebugging information:")
-        if 'odds_df' in locals():
-            print("Match Date type in odds:", odds_df['Match Date'].dtype)
-        if 'results_df' in locals():
-            print("Match Date type in results:", results_df['Match Date'].dtype)
         return False
 
 if __name__ == "__main__":

@@ -1,0 +1,58 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+Basketball Euroleague,2025-01-22,KK Partizan NIS,Paris Basketball,92,86,Completed,6ab775d73cdf8786ef825363d2a65abb
+NBA,2025-01-22,Atlanta Hawks,Detroit Pistons,,,Unknown,33f7be6747a15f9e36d7341863907c5d
+NBA,2025-01-22,Brooklyn Nets,Phoenix Suns,,,Unknown,08506118721a1523d1e2b26c11676ec8
+NBA,2025-01-22,Dallas Mavericks,Minnesota Timberwolves,,,Unknown,d2036bb7eb58c7f9937efcb77d7f7ee0
+NBA,2025-01-22,Memphis Grizzlies,Charlotte Hornets,,,Unknown,d34a1f613c8fe3424990ff71939ac227
+NBA,2025-01-22,Houston Rockets,Cleveland Cavaliers,,,Unknown,d6ff21cfce2a414242fea9331804aa85
+NBA,2025-01-22,Oklahoma City Thunder,Utah Jazz,,,Unknown,747ca0e15fb940c8a282bd30256a1461
+NBA,2025-01-22,Sacramento Kings,Golden State Warriors,,,Unknown,baf880617d80ad47bab4a447513aa1d2
+NBA,2025-01-22,Los Angeles Clippers,Boston Celtics,,,Unknown,5960906d79cf1ed09329d2cd861c6dce
+NCAAB,2025-01-22,Holy Cross Crusaders,Army Knights,,,Unknown,72d7ecad19f4bd91b3a6c14b3b46eec8
+NCAAB,2025-01-22,Houston Cougars,Utah Utes,,,Unknown,34c10170f52ad89ff0956f71a47948a0
+NCAAB,2025-01-22,VMI Keydets,Furman Paladins,,,Unknown,7c2abf0e68357cde152253281b1a5749
+NCAAB,2025-01-22,Youngstown St Penguins,Robert Morris Colonials,,,Unknown,50a4d0a66f0d4152f16c907168b911f7
+NCAAB,2025-01-22,American Eagles,Lehigh Mountain Hawks,,,Unknown,4d6716e72bff7fa0364bed1984d159d8
+NCAAB,2025-01-22,Charlotte 49ers,South Florida Bulls,,,Unknown,a36b2d5fa5f2ee86c3b874b7abc7cc16
+NCAAB,2025-01-22,Clemson Tigers,Syracuse Orange,,,Unknown,b1487372d22ecac3886b2bb91ab42a8d
+NCAAB,2025-01-22,Cleveland St Vikings,Detroit Mercy Titans,,,Unknown,fb5004be048d934c0a4d541729a27cf3
+NCAAB,2025-01-22,Georgia Southern Eagles,Coastal Carolina Chanticleers,,,Unknown,7f8cf2b9d706f5b326401e903bc679c5
+NCAAB,2025-01-22,East Tennessee St Buccaneers,Western Carolina Catamounts,,,Unknown,06672ee6f784d1eacaea9d6b172c500b
+NCAAB,2025-01-22,South Carolina Gamecocks,Florida Gators,,,Unknown,ad2a41c3bee0c490e3f4165b1f40a9df
+NCAAB,2025-01-22,Oakland Golden Grizzlies,Fort Wayne Mastodons,,,Unknown,82b20d4993d853427ed577b5db7cd958
+NCAAB,2025-01-22,Massachusetts Minutemen,GW Revolutionaries,,,Unknown,2393aaf5ca68b280605347dd25f59f2a
+NCAAB,2025-01-22,Gardner-Webb Bulldogs,UNC Asheville Bulldogs,,,Unknown,f6972a54bbf65f2e5a3a0946aed8347b
+NCAAB,2025-01-22,Georgia Tech Yellow Jackets,Virginia Tech Hokies,,,Unknown,e4d975263fe4ce98945874027a7fda5e
+NCAAB,2025-01-22,Green Bay Phoenix,IUPUI Jaguars,,,Unknown,3f8b602397c8f7ad6ffdd2fb4f34809e
+NCAAB,2025-01-22,Northwestern Wildcats,Indiana Hoosiers,,,Unknown,325512f1de8442fcda2bacdbc0a32c57
+NCAAB,2025-01-22,Old Dominion Monarchs,James Madison Dukes,,,Unknown,590f65d65719973d84dd992580d20bb9
+NCAAB,2025-01-22,TCU Horned Frogs,Kansas Jayhawks,,,Unknown,c65b3a34b6e43d8f0d14ffcb143b4e94
+NCAAB,2025-01-22,Loyola (MD) Greyhounds,Lafayette Leopards,,,Unknown,317fc1c28d03e4f58ab4610bba2bd98a
+NCAAB,2025-01-22,Radford Highlanders,Longwood Lancers,,,Unknown,3feeec507f08c3fc620b1880fe83acf7
+NCAAB,2025-01-22,UNC Greensboro Spartans,Mercer Bears,,,Unknown,78921692ed722c8fab0b0f37d212b76b
+NCAAB,2025-01-22,Wright St Raiders,Milwaukee Panthers,,,Unknown,e1f37588c09f250b56d4ec82866eb271
+NCAAB,2025-01-22,Southern Illinois Salukis,Murray St Racers,,,Unknown,c180f19f91740d7aa556e4aec289b486
+NCAAB,2025-01-22,St. John's Red Storm,Xavier Musketeers,,,Unknown,3936cbdde474eb26336395dec7eb2a99
+NCAAB,2025-01-22,Wofford Terriers,The Citadel Bulldogs,,,Unknown,62bec8eac3239bb0bb37525fc3299141
+NCAAB,2025-01-22,Navy Midshipmen,Boston Univ. Terriers,,,Unknown,8b68798b385b89e98ed5e1e9f48eaa93
+NCAAB,2025-01-22,South Carolina Upstate Spartans,High Point Panthers,,,Unknown,a30aadc74f46965d74ba3a2c517eea50
+NCAAB,2025-01-22,Presbyterian Blue Hose,Charleston Southern Buccaneers,,,Unknown,7ac17cb3b8bcf76a3015b052d6804865
+NCAAB,2025-01-22,Drake Bulldogs,Valparaiso Beacons,,,Unknown,51441ce931c54ed53b7755181d2632a1
+NCAAB,2025-01-22,Colorado St Rams,Boise State Broncos,,,Unknown,5bacb687c7a637b76b4c43b4d70cc90e
+NCAAB,2025-01-22,Evansville Purple Aces,UIC Flames,,,Unknown,87f3e13e4b2b97f450ba32eb5dc1b624
+NCAAB,2025-01-22,Loyola (Chi) Ramblers,Fordham Rams,,,Unknown,1e193db1f9835b65fb4e5540d783f962
+NCAAB,2025-01-22,Saint Louis Billikens,La Salle Explorers,,,Unknown,b5716c1363b91ab4644f428924042f5f
+NCAAB,2025-01-22,North Texas Mean Green,Temple Owls,,,Unknown,922dd65fb14636ce768bab7f4ac3e50b
+NCAAB,2025-01-22,Arkansas Razorbacks,Georgia Bulldogs,,,Unknown,20e5ce50eeab2d0ea66c7903776c8e61
+NCAAB,2025-01-22,Baylor Bears,Kansas St Wildcats,,,Unknown,147a876043c02e157101c2d750b3fab8
+NCAAB,2025-01-22,California Golden Bears,Florida St Seminoles,,,Unknown,9ec7a5e58c5731c03787eb7ca81ed3f0
+NCAAB,2025-01-22,Nebraska Cornhuskers,USC Trojans,,,Unknown,069b162b3cbc25b26734cbfc044a1491
+NCAAB,2025-01-22,Utah State Aggies,Nevada Wolf Pack,,,Unknown,13fe9488f243c8b61e97e38dfc34a31d
+NCAAB,2025-01-22,Ole Miss Rebels,Texas A&M Aggies,,,Unknown,b76688d8bf7e6c70a94c093b49ccda26
+NCAAB,2025-01-22,Air Force Falcons,San Diego St Aztecs,,,Unknown,7247ee7921f23faaf287ecc15643723a
+NCAAB,2025-01-22,Stanford Cardinal,Miami Hurricanes,,,Unknown,6d5045c27670a4c6e4fafc76a19b71c5
+NCAAB,2025-01-22,Georgia Southern Eagles,Coastal Carolina Chanticleers,,,Unknown,941c728f4fe8d34308cd4a43297b1634
+NHL,2025-01-22,New Jersey Devils,Boston Bruins,,,Unknown,3978a19dc5ea3c400ba8638a578e7435
+NHL,2025-01-22,Toronto Maple Leafs,Columbus Blue Jackets,,,Unknown,d5eb0bdc852679892d2afda66409a40e
+NHL,2025-01-22,Colorado Avalanche,Winnipeg Jets,,,Unknown,6c259aa51c3e3cd235d583a3dc2fbe11
+NHL,2025-01-22,Los Angeles Kings,Florida Panthers,,,Unknown,c4c6a94554b841f2afe432bb45f766fc
