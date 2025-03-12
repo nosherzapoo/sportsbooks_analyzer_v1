@@ -30,7 +30,7 @@ def process_results():
         today = datetime.now().strftime('%Y%m%d')
         
         # Read today's odds file to get active leagues
-        odds_file = f'../data/game_odds_20250310.csv'
+        odds_file = f'data/game_odds_20250310.csv'
         if not os.path.exists(odds_file):
             raise FileNotFoundError(f"Could not find odds file: {odds_file}")
             
