@@ -160,7 +160,7 @@ def clean_table(df, sport):
 
 def save_daily_odds():
     # Read sports URLs
-    sports_df = pd.read_csv('../data/sports_url.csv')
+    sports_df = pd.read_csv('data/sports_url.csv')
     current_date = datetime.now().strftime('%Y%m%d')
     
     # Get tomorrow's date for filtering
