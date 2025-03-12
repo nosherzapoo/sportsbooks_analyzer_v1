@@ -1,8 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
+import logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 def download_odds_html(url):
     try:
@@ -12,12 +20,14 @@ def download_odds_html(url):
         html = response.text
         return html
     except requests.RequestException as e:
-        print(f"Error downloading odds: {e}")
+        logger.error(f"Error downloading odds: {e}")
         return None
 
 def parse_html_to_table(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     games = soup.find_all('div', class_='m-5 flex flex-col shadow-lg')
+    
+    logger.info(f"Found {len(games)} games in HTML content")
     
     all_data = []
     for game in games:
@@ -31,17 +41,21 @@ def parse_html_to_table(html_content):
             est_time = utc_time.astimezone(ZoneInfo('America/New_York'))
             match_date = est_time.strftime("%Y-%m-%d %H:%M:%S")
         except Exception as e:
-            print(f"Error converting time: {e}")
+            logger.error(f"Error converting time for {match_title}: {e}")
             pass
         
         teams = match_title.split(' vs ')
         home_team = teams[0].strip()
         away_team = teams[1].strip()
         
+        logger.info(f"Processing match: {home_team} vs {away_team} on {match_date}")
+        
         odds_sections = game.find_all('div', class_='p-3')
         for odds_section in odds_sections:
             team_name = odds_section.find('span').text.strip()
             odds_items = odds_section.find_all('div', class_='grid grid-flow-row p-3')
+            
+            logger.info(f"Found {len(odds_items)} odds entries for {team_name}")
             
             for odds_item in odds_items:
                 price = odds_item.find('span').text.strip()
@@ -60,15 +74,33 @@ def parse_html_to_table(html_content):
 
 def clean_table(df, sport):
     def american_to_decimal(american_odds):
-        american = int(american_odds.replace(' ML', ''))
-        if american > 0:
-            return round(american/100 + 1, 3)
-        else:
-            return round(100/abs(american) + 1, 3)
+        try:
+            american = int(american_odds.replace(' ML', ''))
+            if american > 0:
+                return round(american/100 + 1, 3)
+            else:
+                return round(100/abs(american) + 1, 3)
+        except Exception as e:
+            logger.error(f"Error converting odds '{american_odds}': {e}")
+            return None
     
     cleaned_data = []
     
-    for _, match in df[['Match Date', 'Home Team', 'Away Team']].drop_duplicates().iterrows():
+    # Define sports that can have draws
+    draw_sports = {
+        'Primera División - Argentina', 'A-League', 'Austrian Football Bundesliga', 
+        'Belgium First Div', 'Copa Libertadores', 'Denmark Superliga', 'Championship', 
+        'EFL Cup', 'League 1', 'League 2', 'EPL', 'FA Cup', 'Ligue 1 - France', 
+        'Ligue 2 - France', 'Bundesliga - Germany', 'Bundesliga 2 - Germany', 
+        '3. Liga - Germany', 'Super League - Greece', 'Serie A - Italy', 
+        'Serie B - Italy', 'League of Ireland', 'Liga MX', 'Dutch Eredivisie', 
+        'Primeira Liga - Portugal', 'La Liga - Spain', 'La Liga 2 - Spain', 
+        'Premiership - Scotland', 'Swiss Superleague', 'Turkey Super League', 
+        'UEFA Champions League', 'UEFA Europa Conference League', 'UEFA Europa League'
+    }
+    unique_matches = df[['Match Date', 'Home Team', 'Away Team']].drop_duplicates()
+    
+    for _, match in unique_matches.iterrows():
         match_data = df[
             (df['Match Date'] == match['Match Date']) & 
             (df['Home Team'] == match['Home Team']) &
@@ -78,11 +110,22 @@ def clean_table(df, sport):
         for bookmaker in match_data['Bookmaker'].unique():
             match_odds = match_data[match_data['Bookmaker'] == bookmaker]
             
-            if len(match_odds) == 2:
-                home_team_odds = american_to_decimal(match_odds[match_odds['Team'] == match['Home Team']]['Price'].iloc[0])
-                away_team_odds = american_to_decimal(match_odds[match_odds['Team'] == match['Away Team']]['Price'].iloc[0])
+            # Check if number of odds entries is valid for the sport
+            expected_odds = 3 if sport in draw_sports else 2
+            if len(match_odds) != expected_odds:
+                logger.warning(f"Skipping {bookmaker} for {match['Home Team']} vs {match['Away Team']} - "
+                             f"expected {expected_odds} odds entries, found {len(match_odds)}")
+                continue
+            
+            try:
+                home_odds = match_odds[match_odds['Team'] == match['Home Team']]['Price'].iloc[0]
+                away_odds = match_odds[match_odds['Team'] == match['Away Team']]['Price'].iloc[0]
                 
-                cleaned_data.append({
+                home_team_odds = american_to_decimal(home_odds)
+                away_team_odds = american_to_decimal(away_odds)
+                
+                # Create base entry
+                entry = {
                     'Sport': sport,
                     'Match Date': match['Match Date'],
                     'Home Team': match['Home Team'],
@@ -90,15 +133,41 @@ def clean_table(df, sport):
                     'Home Team Odds': home_team_odds,
                     'Away Team Odds': away_team_odds,
                     'Bookmaker': bookmaker
-                })
+                }
+                
+                # Add draw odds for sports that can have draws
+                if sport in draw_sports and expected_odds == 3:
+                    # Find the draw entry (not home team and not away team)
+                    draw_entry = match_odds[
+                        (match_odds['Team'] != match['Home Team']) & 
+                        (match_odds['Team'] != match['Away Team'])
+                    ]
+                    
+                    if not draw_entry.empty:
+                        draw_odds = draw_entry['Price'].iloc[0]
+                        draw_odds_decimal = american_to_decimal(draw_odds)
+                        entry['Draw Odds'] = draw_odds_decimal
+                    else:
+                        logger.warning(f"Draw odds not found for {match['Home Team']} vs {match['Away Team']} with {bookmaker}")
+                
+                if home_team_odds and away_team_odds:
+                    cleaned_data.append(entry)
+            except Exception as e:
+                logger.error(f"Error processing odds for {bookmaker} in {match['Home Team']} vs {match['Away Team']}: {e}")
+                continue
     
     return pd.DataFrame(cleaned_data)
 
 def save_daily_odds():
     # Read sports URLs
-    sports_df = pd.read_csv('data/sports_url.csv')
+    sports_df = pd.read_csv('../data/sports_url.csv')
     current_date = datetime.now().strftime('%Y%m%d')
-    today = datetime.now().date()
+    
+    # Get tomorrow's date for filtering
+    tomorrow = (datetime.now() + timedelta(days=1)).date()
+    tomorrow_date_str = tomorrow.strftime('%Y%m%d')
+    
+    logger.info(f"Processing odds for tomorrow's date: {tomorrow}")
     
     all_cleaned_data = []
     
@@ -106,7 +175,7 @@ def save_daily_odds():
         sport = row['Sport']
         url = row['URL']
         
-        print(f"Processing {sport} odds...")
+        logger.info(f"Processing {sport} odds from {url}...")
         
         html_content = download_odds_html(url)
         if html_content:
@@ -115,26 +184,37 @@ def save_daily_odds():
             if not raw_df.empty:
                 # Convert Match Date to datetime
                 raw_df['Match Date'] = pd.to_datetime(raw_df['Match Date'])
-                # Filter for today's games only
-                raw_df = raw_df[raw_df['Match Date'].dt.date == today]
                 
-                if not raw_df.empty:
-                    cleaned_sport_df = clean_table(raw_df, sport)
+                # Filter for tomorrow's games only
+                filtered_df = raw_df[raw_df['Match Date'].dt.date == tomorrow]
+                
+                logger.info(f"Found {len(raw_df)} total entries, {len(filtered_df)} entries for tomorrow")
+                
+                if not filtered_df.empty:
+                    cleaned_sport_df = clean_table(filtered_df, sport)
+                    logger.info(f"Cleaned data for {sport}: {len(cleaned_sport_df)} entries")
                     all_cleaned_data.append(cleaned_sport_df)
                 else:
-                    print(f"No games today for {sport}, skipping...")
+                    logger.warning(f"No games tomorrow for {sport}, skipping...")
             else:
-                print(f"No entries found for {sport}, skipping...")
+                logger.warning(f"No entries found for {sport}, skipping...")
+        else:
+            logger.error(f"Failed to download HTML content for {sport}")
 
     if all_cleaned_data:
         final_df = pd.concat(all_cleaned_data, ignore_index=True)
         # Add compilation timestamp
         final_df['Compiled_At'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        filename = f'data/game_odds_{current_date}.csv'
-        final_df.to_csv(filename, index=False)
-        print(f"Today's odds data saved to {filename}")
+        
+        logger.info(f"Total compiled odds entries: {len(final_df)}")
+        
+    
+        # Also save with tomorrow's date
+        tomorrow_filename = f'../data/game_odds_{tomorrow_date_str}.csv'
+        final_df.to_csv(tomorrow_filename, index=False)
+        logger.info(f"Tomorrow's odds data saved to {tomorrow_filename}")
     else:
-        print("No games found for today")
+        logger.warning("No games found for tomorrow")
 
 if __name__ == "__main__":
     save_daily_odds() 

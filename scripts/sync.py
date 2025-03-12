@@ -8,8 +8,9 @@ def sync_data():
         today = datetime.now().strftime('%Y%m%d')
         
         # Required files
-        odds_file = f'data/game_odds_{today}.csv'
-        results_file = f'data/game_results_{today}.csv'
+        # Get yesterday's date for odds file
+        odds_file = f'../data/game_odds_{today}.csv'
+        results_file = f'../data/game_results_{today}.csv'
         
         # Check if files exist
         if not os.path.exists(odds_file) or not os.path.exists(results_file):
@@ -63,7 +64,9 @@ def sync_data():
                 
                 bookmaker_stats.append({
                     'Bookmaker': bookmaker,
+                    'Underdog Wins': underdog_wins,
                     'Underdog Win %': round(underdog_wins / completed_games * 100, 2),
+                    'Favorite Wins': favorite_wins,
                     'Favorite Win %': round(favorite_wins / completed_games * 100, 2),
                     'Unknown Games': unknown_games
                 })
@@ -72,7 +75,7 @@ def sync_data():
         stats_df = pd.DataFrame(bookmaker_stats)
         
         # Save merged data with stats at the top
-        output_file = f'data/sportsbook_performance_{today}.csv'
+        output_file = f'../data/sportsbook_performance_{today}.csv'
         with open(output_file, 'w') as f:
             stats_df.to_csv(f, index=False)
             f.write('\n')  # Add blank line between tables
