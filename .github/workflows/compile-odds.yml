@@ -2,7 +2,7 @@ name: Save Odds Data
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Run save_odds at 11pm EST (4:00 UTC)
+    - cron: '0 3 * * *'  # Run save_odds at 11pm EST (3:00 UTC)
   workflow_dispatch:
 
 jobs:
