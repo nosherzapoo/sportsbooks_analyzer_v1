@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import logging
+import os
 
 # Configure logging
 logging.basicConfig(
@@ -48,7 +49,7 @@ def parse_html_to_table(html_content):
         home_team = teams[0].strip()
         away_team = teams[1].strip()
         
-        logger.info(f"Processing match: {home_team} vs {away_team} on {match_date}")
+        logger.info(f"Processing match: {home_team} vs {away_team} on {match_date} (EST)")
         
         odds_sections = game.find_all('div', class_='p-3')
         for odds_section in odds_sections:
@@ -161,13 +162,17 @@ def clean_table(df, sport):
 def save_daily_odds():
     # Read sports URLs
     sports_df = pd.read_csv('data/sports_url.csv')
-    current_date = datetime.now().strftime('%Y%m%d')
     
-    # Get tomorrow's date for filtering
-    tomorrow = (datetime.now() + timedelta(days=1)).date()
-    tomorrow_date_str = tomorrow.strftime('%Y%m%d')
+    # Use EST timezone for all date operations
+    est_tz = ZoneInfo('America/New_York')
+    current_date_est = datetime.now(est_tz)
+    current_date_str = current_date_est.strftime('%Y%m%d')
     
-    logger.info(f"Processing odds for tomorrow's date: {tomorrow}")
+    # Get tomorrow's date for filtering (in EST)
+    tomorrow_est = (current_date_est + timedelta(days=1)).date()
+    tomorrow_date_str = tomorrow_est.strftime('%Y%m%d')
+    
+    logger.info(f"Processing odds for tomorrow's date: {tomorrow_est} (EST)")
     
     all_cleaned_data = []
     
@@ -182,13 +187,13 @@ def save_daily_odds():
             raw_df = parse_html_to_table(html_content)
             
             if not raw_df.empty:
-                # Convert Match Date to datetime
+                # Convert Match Date to datetime (already in EST from parse_html_to_table)
                 raw_df['Match Date'] = pd.to_datetime(raw_df['Match Date'])
                 
-                # Filter for tomorrow's games only
-                filtered_df = raw_df[raw_df['Match Date'].dt.date == tomorrow]
+                # Filter for tomorrow's games only (EST)
+                filtered_df = raw_df[raw_df['Match Date'].dt.date == tomorrow_est]
                 
-                logger.info(f"Found {len(raw_df)} total entries, {len(filtered_df)} entries for tomorrow")
+                logger.info(f"Found {len(raw_df)} total entries, {len(filtered_df)} entries for tomorrow (EST)")
                 
                 if not filtered_df.empty:
                     cleaned_sport_df = clean_table(filtered_df, sport)
@@ -203,18 +208,17 @@ def save_daily_odds():
 
     if all_cleaned_data:
         final_df = pd.concat(all_cleaned_data, ignore_index=True)
-        # Add compilation timestamp
-        final_df['Compiled_At'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        # Add compilation timestamp in EST
+        final_df['Compiled_At'] = datetime.now(est_tz).strftime('%Y-%m-%d %H:%M:%S')
         
         logger.info(f"Total compiled odds entries: {len(final_df)}")
         
-    
-        # Also save with tomorrow's date
+        # Save with tomorrow's date
         tomorrow_filename = f'data/game_odds_{tomorrow_date_str}.csv'
         final_df.to_csv(tomorrow_filename, index=False)
-        logger.info(f"Tomorrow's odds data saved to {tomorrow_filename}")
+        logger.info(f"Tomorrow's odds data saved to {tomorrow_filename} (EST)")
     else:
-        logger.warning("No games found for tomorrow")
+        logger.warning("No games found for tomorrow (EST)")
 
 if __name__ == "__main__":
     save_daily_odds() 
