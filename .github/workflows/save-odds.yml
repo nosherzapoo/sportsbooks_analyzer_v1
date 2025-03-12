@@ -2,7 +2,7 @@ name: Save Daily Odds
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC daily
+    - cron: '0 0 * * *'  # Runs at 10:00 PM EST (3:00 UTC)
   workflow_dispatch:
 
 jobs:
