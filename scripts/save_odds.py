@@ -210,7 +210,7 @@ def save_daily_odds():
         
     
         # Also save with tomorrow's date
-        tomorrow_filename = f'../data/game_odds_{tomorrow_date_str}.csv'
+        tomorrow_filename = f'data/game_odds_{tomorrow_date_str}.csv'
         final_df.to_csv(tomorrow_filename, index=False)
         logger.info(f"Tomorrow's odds data saved to {tomorrow_filename}")
     else:
