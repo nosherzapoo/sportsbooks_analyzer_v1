@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import requests
 import os
 from dotenv import load_dotenv
+import pytz
 
 load_dotenv()
 
@@ -27,10 +28,11 @@ def fetch_game_results(sport, sport_url):
 
 def process_results():
     try:
-        today = datetime.now().strftime('%Y%m%d')
+        ny_tz = pytz.timezone('America/New_York')
+        today = datetime.now(ny_tz).strftime('%Y%m%d')
         
         # Read today's odds file to get active leagues
-        odds_file = f'data/game_odds_20250312.csv'
+        odds_file = f'data/game_odds_{today}.csv'
         if not os.path.exists(odds_file):
             raise FileNotFoundError(f"Could not find odds file: {odds_file}")
             
@@ -147,7 +149,7 @@ def process_results():
                             
                             result = {
                                 'Sport': sport,
-                                'Match Date': datetime.now().strftime('%Y-%m-%d'),
+                                'Match Date': datetime.now(ny_tz).strftime('%Y-%m-%d'),
                                 'Home Team': match['home_team'],
                                 'Away Team': match['away_team'],
                                 'Home Score': None,
