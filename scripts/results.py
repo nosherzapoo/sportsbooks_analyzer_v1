@@ -30,7 +30,7 @@ def process_results():
         today = datetime.now().strftime('%Y%m%d')
         
         # Read today's odds file to get active leagues
-        odds_file = f'data/game_odds_{today}.csv'
+        odds_file = f'data/game_odds_20250312.csv'
         if not os.path.exists(odds_file):
             raise FileNotFoundError(f"Could not find odds file: {odds_file}")
             
@@ -168,7 +168,7 @@ def process_results():
         if results:
             results_df = pd.DataFrame(results)
             
-            output_file = f'data/game_results_{today}.csv'
+            output_file = f'data/game_results_20250312.csv'
             results_df.to_csv(output_file, index=False)
             print(f"Results saved to {output_file}")
             
