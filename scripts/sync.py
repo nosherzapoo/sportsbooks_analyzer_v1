@@ -5,7 +5,7 @@ import os
 def sync_data():
     try:
         # Get today's date
-        today = datetime.now().strftime('%Y%m%d')
+        today = '2025031'
         
         # Required files
         # Get yesterday's date for odds file
