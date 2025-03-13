@@ -1,2 +1,63 @@
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
-NBA,2025-03-12,San Antonio Spurs,Dallas Mavericks,,,Unknown,344791159861305700e36a296b7c896d
+NBA,2025-03-13,Atlanta Hawks,Charlotte Hornets,123,110,Completed,5f9e9af38083553dbc9a49ed0ccec2c3
+NBA,2025-03-13,Boston Celtics,Oklahoma City Thunder,112,118,Completed,f45ee8416b2481dfa80fefed8cfe9209
+NBA,2025-03-13,Toronto Raptors,Philadelphia 76ers,118,105,Completed,c800b1c910cf0762ba519c5212acf80f
+NBA,2025-03-13,San Antonio Spurs,Dallas Mavericks,126,116,Completed,344791159861305700e36a296b7c896d
+NBA,2025-03-13,Houston Rockets,Phoenix Suns,111,104,Completed,5e27cec0a6f74b46b10d8a9c990b35cd
+NBA,2025-03-13,Memphis Grizzlies,Utah Jazz,122,115,Completed,e7c4d02fd753e6bd71f8a9c003584843
+NBA,2025-03-13,Miami Heat,Los Angeles Clippers,104,119,Completed,038c616868d911a2f240fe962525f358
+NBA,2025-03-13,Denver Nuggets,Minnesota Timberwolves,,,Unknown,322bf5ee6a937c41bc2beb3a9ae5c0e9
+NBA,2025-03-13,Portland Trail Blazers,New York Knicks,,,Unknown,dc399db066bc2ec020a37470a60f619f
+NCAAB,2025-03-13,Davidson Wildcats,Richmond Spiders,69,65,Completed,bfd154f976ee0c60f870c8c401dec183
+NCAAB,2025-03-13,Georgia Tech Yellow Jackets,Virginia Cavaliers,66,60,Completed,95a378f5119fdf3e721374b01ba79025
+NCAAB,2025-03-13,Iowa State Cyclones,Cincinnati Bearcats,76,56,Completed,79a1e774651c455b4f06ce20dbc66ada
+NCAAB,2025-03-13,Rice Owls,Charlotte 49ers,61,64,Completed,9ece2cd706a801cc5b5123095c8d74f5
+NCAAB,2025-03-13,Arkansas Razorbacks,South Carolina Gamecocks,72,68,Completed,296eddeb88a4a7e1db8746fc4f75fcc4
+NCAAB,2025-03-13,Rhode Island Rams,Fordham Rams,71,88,Completed,e4726420c01b44288b753a40be38188a
+NCAAB,2025-03-13,Southern Jaguars,Grambling St Tigers,62,65,Completed,ea6ad276e9c354d671d59ded924878cc
+NCAAB,2025-03-13,San José St Spartans,Wyoming Cowboys,66,61,Completed,b9494106869773f46c7f059931a47853
+NCAAB,2025-03-13,North Carolina Tar Heels,Notre Dame Fighting Irish,76,56,Completed,211cdef6e812a43cc8be47a2544e7d8e
+NCAAB,2025-03-13,West Virginia Mountaineers,Colorado Buffaloes,60,67,Completed,2cae1f6019b2fbe85aa68764098b9240
+NCAAB,2025-03-13,Minnesota Golden Gophers,Northwestern Wildcats,64,72,Completed,9b71c2a033a69b5bb8c95eec3c42916e
+NCAAB,2025-03-13,Vanderbilt Commodores,Texas Longhorns,72,79,Completed,b31917a74353b6a07e00cdab0e78c8c5
+NCAAB,2025-03-13,Providence Friars,Butler Bulldogs,69,75,Completed,3da4eb3fcc04a3f286dd6b37033a8bd9
+NCAAB,2025-03-13,Nevada Wolf Pack,Fresno St Bulldogs,86,71,Completed,5f0ea85227efdd3cca37e4c4f2ad5cc1
+NCAAB,2025-03-13,Massachusetts Minutemen,La Salle Explorers,71,78,Completed,4656d296c737b43c7118ad5b08301e33
+NCAAB,2025-03-13,Norfolk St Spartans,Maryland-Eastern Shore Hawks,77,70,Completed,e711b3e8f2c38dc8bf008a65095ec32e
+NCAAB,2025-03-13,Quinnipiac Bobcats,Rider Broncs,78,64,Completed,71fed740480dbfbe75db620237b09ac8
+NCAAB,2025-03-13,Ohio State Buckeyes,Iowa Hawkeyes,70,77,Completed,a266300ca8e0a49519b949bc7229f7bd
+NCAAB,2025-03-13,Liberty Flames,UTEP Miners,81,60,Completed,67e33d4442980b92cc7e983da831043c
+NCAAB,2025-03-13,Georgetown Hoyas,DePaul Blue Demons,67,71,Completed,e42927fe32a660f6216e8abcef1e0aeb
+NCAAB,2025-03-13,Stanford Cardinal,California Golden Bears,78,73,Completed,8b9348585af2bc3264c2c12e3ce437c9
+NCAAB,2025-03-13,Mississippi St Bulldogs,LSU Tigers,91,62,Completed,761d5a34881274c37d2b7818ef1c89ef
+NCAAB,2025-03-13,American Eagles,Navy Midshipmen,74,52,Completed,82f4033a0c04e93e9c6e3f49dcda80a8
+NCAAB,2025-03-13,UNLV Rebels,Air Force Falcons,68,59,Completed,5523e1b49651212a793e3e520b5160cc
+NCAAB,2025-03-13,Rutgers Scarlet Knights,USC Trojans,89,97,Completed,d9248dc0f427819b1215b71a2f08fae0
+NCAAB,2025-03-13,South Carolina St Bulldogs,Coppin St Eagles,68,63,Completed,1585f9462999237f20283499cbd9c9b2
+NCAAB,2025-03-13,UC Santa Barbara Gauchos,CSU Bakersfield Roadrunners,71,66,Completed,8ca9088c1ae1d3726fc0751f263e4c97
+NCAAB,2025-03-13,Utah Valley Wolverines,Utah Tech Trailblazers,74,57,Completed,3b3de00694b5085d7246a97a9a1a868b
+NCAAB,2025-03-13,Villanova Wildcats,Seton Hall Pirates,67,55,Completed,6a790fd04eef6e09f863fdeea0b36300
+NCAAB,2025-03-13,Georgia Bulldogs,Oklahoma Sooners,,,Unknown,53f6a0d7ed2ccd2497a4f61ff64e6c4a
+NCAAB,2025-03-13,Grand Canyon Antelopes,UT-Arlington Mavericks,,,Unknown,a3478476e8e8cdaa0e4eea8aad8f363d
+NCAAB,2025-03-13,UC Davis Aggies,Cal Poly Mustangs,,,Unknown,a11230212681dc3258018eb21ee428a8
+NHL,2025-03-13,Detroit Red Wings,Buffalo Sabres,7,3,Completed,631ca587b31bc92f904cd5f2293fbd88
+NHL,2025-03-13,Calgary Flames,Vancouver Canucks,,,Unknown,b534f2a53c05db69116764b3097973a9
+NHL,2025-03-13,Utah Hockey Club,Anaheim Ducks,,,Unknown,220d5b628770404dfd4067c4ddbc9480
+NHL,2025-03-13,Seattle Kraken,Montréal Canadiens,,,Unknown,d161138bce6f855d88b0479dfd613e31
+A-League,2025-03-13,Melbourne City,Newcastle Jets FC,0,1,Completed,e6f73d145458a4c89a4a009ff9358781
+Copa Libertadores,2025-03-13,Cerro Porteño,FBC Melgar,4,2,Completed,08e9ac08219cfb717ecf99b21b8bca29
+Copa Libertadores,2025-03-13,Corinthians-SP,Barcelona SC,2,0,Completed,4118d51a0f3b363deb46dc6209db85ff
+Championship,2025-03-13,Hull City,Oxford United,2,1,Completed,b81656eb6aa7f0ab3cb4d6d04373061a
+Championship,2025-03-13,Leeds United,Millwall,2,0,Completed,311922d8b2af09e0561bcac630875dcf
+Championship,2025-03-13,Portsmouth,Plymouth Argyle,1,2,Completed,7a1e4f9044702ef4751bc9505794eb6f
+Championship,2025-03-13,Watford,Swansea City,1,0,Completed,ef6b8a034e9179c47c422dcfcea443d4
+Championship,2025-03-13,Stoke City,Blackburn Rovers,1,0,Completed,fb165f762442191a0e71435768669dc6
+3. Liga - Germany,2025-03-13,Dynamo Dresden,Borussia Dortmund II,0,0,Completed,e2dbf175ff379c5e18fd1fd54a55e55b
+3. Liga - Germany,2025-03-13,Hansa Rostock,Erzgebirge Aue,4,1,Completed,6d57118adaa6a2a38ca2d15c942acbc1
+3. Liga - Germany,2025-03-13,FC Viktoria Köln 1904,Rot-Weiss Essen,1,0,Completed,d73d1431857979b32e86e0de57178aa1
+3. Liga - Germany,2025-03-13,Wehen Wiesbaden,TSV 1860 München,0,0,Completed,f3423ab1bcfa7efceb24ef7af9e9f926
+3. Liga - Germany,2025-03-13,Waldhof Mannheim,SV Sandhausen,3,2,Completed,acabfdae3647bdca3b20df70d50dead3
+UEFA Champions League,2025-03-13,LOSC Lille,Borussia Dortmund,1,2,Completed,09d3ab59ad649a95ccbc64a3cf380e5c
+UEFA Champions League,2025-03-13,Arsenal,PSV Eindhoven,2,2,Completed,d37d97f1794d1d43452e870136f8e6bd
+UEFA Champions League,2025-03-13,Aston Villa,Club Brugge,3,0,Completed,844566802dc4f3f6343005c07c2cb111
+UEFA Champions League,2025-03-13,Atlético Madrid,Real Madrid,1,0,Completed,92053acbb79f42814087737044390f6f
