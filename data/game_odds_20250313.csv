@@ -1,233 +1,580 @@
 Sport,Match Date,Home Team,Away Team,Home Team Odds,Away Team Odds,Bookmaker,Draw Odds,Compiled_At
-AFL,2025-03-13 04:30:00,Richmond Tigers,Carlton Blues,9.5,1.056,DraftKings,,2025-03-12 00:10:42
-AFL,2025-03-13 04:30:00,Richmond Tigers,Carlton Blues,13.0,1.03,Bovada,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 13:45:00,Fenerbahce SK,ASVEL Lyon Villeurbanne,1.227,4.4,DraftKings,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 14:00:00,KK Crvena zvezda,Pallacanestro Olimpia Milano,1.488,2.7,DraftKings,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 14:00:00,Žalgiris,Paris Basketball,1.617,2.36,DraftKings,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 15:00:00,ALBA Berlin,Saski Baskonia,2.6,1.521,DraftKings,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 15:05:00,Maccabi Tel Aviv,AS Monaco,3.4,1.336,DraftKings,,2025-03-12 00:10:42
-Basketball Euroleague,2025-03-13 15:45:00,Virtus Segafredo Bologna,Real Madrid,3.3,1.351,DraftKings,,2025-03-12 00:10:42
-NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.336,3.4,DraftKings,,2025-03-12 00:10:42
-NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.319,3.42,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.208,4.6,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.2,4.8,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.2,4.75,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.15,4.97,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.769,2.1,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.769,2.1,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.741,2.1,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.758,1.99,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.645,2.3,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.69,2.22,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.667,2.25,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.73,2.14,FanDuel,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.649,2.16,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.606,2.4,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.588,2.42,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.588,2.4,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.549,2.36,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.3,1.645,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.3,1.645,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.25,1.645,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.24,1.599,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.02,1.82,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.0,1.833,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,1.952,1.8,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.3,1.645,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.3,1.645,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.25,1.658,BetRivers,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.25,1.645,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.18,1.704,FanDuel,,2025-03-12 00:10:42
-NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.2,1.621,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.4,3.05,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.42,2.95,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.426,2.95,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.4,2.83,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,2.05,1.8,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,2.05,1.8,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,2.05,1.8,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.971,1.781,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.606,2.4,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.617,2.36,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.625,2.35,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.581,2.28,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.909,1.909,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.909,1.909,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.926,1.893,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.877,1.847,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.909,1.909,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.909,1.909,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.87,1.952,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.877,1.862,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.208,4.6,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.235,4.3,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.222,4.4,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.21,4.09,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.645,2.3,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.617,2.36,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.625,2.35,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.61,2.24,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.645,2.3,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.667,2.25,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.629,2.19,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.8,2.05,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.8,2.05,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.8,2.05,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.769,1.99,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.769,2.1,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.769,2.1,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.741,2.1,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.758,1.99,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,3.05,1.4,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,3.0,1.408,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,3.0,1.4,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.88,1.38,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.741,2.15,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.741,2.14,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.714,2.15,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.709,2.06,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.606,2.4,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.571,2.45,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.571,2.3,MyBookie.ag,,2025-03-12 00:10:42
-NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.588,2.4,BetMGM,,2025-03-12 00:10:42
-NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.328,3.4,Caesars,,2025-03-12 00:10:42
-NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.328,3.45,DraftKings,,2025-03-12 00:10:42
-NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.333,3.4,BetMGM,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.235,4.2,DraftKings,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.25,4.0,BetUS,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.208,4.2,FanDuel,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.25,4.33,BetMGM,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.235,3.85,Bovada,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,4.25,BetOnline.ag,,2025-03-12 00:10:42
-Boxing,2025-03-13 04:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,4.25,LowVig.ag,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,6.5,DraftKings,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.105,6.0,FanDuel,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,6.5,BetUS,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.1,6.5,Bovada,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,6.5,BetOnline.ag,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,6.5,LowVig.ag,,2025-03-12 00:10:42
-Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,7.0,BetMGM,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.222,4.3,DraftKings,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.286,4.0,BetMGM,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,BetUS,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.217,4.1,FanDuel,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,3.75,Bovada,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,BetOnline.ag,,2025-03-12 00:10:42
-Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,LowVig.ag,,2025-03-12 00:10:42
-NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.588,2.48,Bovada,,2025-03-12 00:10:42
-NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.529,2.46,BetUS,,2025-03-12 00:10:42
-NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.565,2.4,BetRivers,,2025-03-12 00:10:42
-Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.179,15.0,BetRivers,7.25,2025-03-12 00:10:42
-Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.167,15.0,Bovada,6.5,2025-03-12 00:10:42
-Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.167,15.0,BetUS,6.5,2025-03-12 00:10:42
-Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.154,14.25,BetOnline.ag,7.4,2025-03-12 00:10:42
-Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.154,14.25,LowVig.ag,7.4,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.6,2.0,FanDuel,3.4,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.6,2.0,DraftKings,3.35,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.65,2.0,Bovada,3.25,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.05,BetMGM,3.4,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.02,BetRivers,3.4,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.65,2.0,BetUS,3.25,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.2,2.06,LowVig.ag,3.15,2025-03-12 00:10:42
-League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.2,2.06,BetOnline.ag,3.15,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.05,3.3,FanDuel,3.7,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.1,3.55,DraftKings,3.55,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.1,3.4,Bovada,3.35,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,1.98,3.4,BetMGM,3.4,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.06,3.35,BetOnline.ag,3.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.06,3.35,LowVig.ag,3.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.5,2.65,FanDuel,3.4,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.55,2.8,DraftKings,3.35,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.45,2.75,Bovada,3.25,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.4,2.65,BetMGM,3.25,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.57,2.68,BetOnline.ag,3.24,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.57,2.68,LowVig.ag,3.24,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.2,FanDuel,4.2,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.5,DraftKings,4.1,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.741,4.3,Bovada,3.8,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.1,BetMGM,3.7,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.709,4.28,BetOnline.ag,4.15,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.709,4.28,LowVig.ag,4.15,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.435,7.0,FanDuel,4.4,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.455,7.5,DraftKings,4.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.435,7.0,Bovada,4.3,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.417,6.8,BetOnline.ag,4.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.417,6.8,LowVig.ag,4.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.345,8.0,FanDuel,4.8,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.351,8.5,DraftKings,5.0,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.357,7.75,Bovada,4.9,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.339,7.25,BetMGM,4.8,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.34,8.5,BetOnline.ag,5.1,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.34,8.5,LowVig.ag,5.1,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.606,5.3,FanDuel,4.1,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.606,6.0,DraftKings,3.85,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.606,5.75,Bovada,3.65,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.571,5.5,BetMGM,3.7,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.578,6.0,BetOnline.ag,3.85,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.578,6.0,LowVig.ag,3.85,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,3.9,FanDuel,3.6,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.952,3.8,DraftKings,3.65,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.952,3.65,Bovada,3.45,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,3.6,BetMGM,3.5,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.893,3.9,LowVig.ag,3.62,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.893,3.9,BetOnline.ag,3.62,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.3,FanDuel,3.3,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.4,DraftKings,3.25,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.35,Bovada,3.05,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,2.9,2.3,BetMGM,3.1,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.38,BetOnline.ag,3.15,2025-03-12 00:10:42
-UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.38,LowVig.ag,3.15,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.909,3.75,BetMGM,3.6,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.87,3.6,FanDuel,3.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.65,BetUS,3.7,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.926,3.7,BetRivers,3.75,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.65,Bovada,3.7,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.943,3.77,LowVig.ag,3.71,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.943,3.77,BetOnline.ag,3.71,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.909,4.0,BetMGM,3.5,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.833,4.2,FanDuel,3.4,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.893,4.05,BetUS,3.51,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.917,4.1,BetRivers,3.5,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.952,3.9,Bovada,3.6,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.901,4.1,LowVig.ag,3.58,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.901,4.1,BetOnline.ag,3.58,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.541,5.2,FanDuel,4.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.571,5.4,BetUS,4.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.556,5.8,BetRivers,4.2,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.571,5.4,Bovada,4.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.538,6.0,LowVig.ag,4.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.538,6.0,BetOnline.ag,4.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.364,8.25,BetMGM,5.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.37,8.0,FanDuel,4.6,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.37,8.1,BetUS,5.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.35,9.0,BetRivers,4.9,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.377,7.75,Bovada,5.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.373,8.25,LowVig.ag,5.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.373,8.25,BetOnline.ag,5.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.5,5.75,BetMGM,4.6,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.435,6.5,FanDuel,4.6,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.476,6.25,BetRivers,4.7,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.488,5.75,Bovada,4.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.488,5.75,BetUS,4.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.476,6.5,LowVig.ag,4.58,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.476,6.5,BetOnline.ag,4.58,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.233,11.0,FanDuel,5.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.267,11.0,BetMGM,5.75,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.25,11.0,BetRivers,6.25,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.26,11.0,Bovada,6.0,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.26,12.28,BetUS,5.93,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.26,10.85,BetOnline.ag,5.75,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.26,10.85,LowVig.ag,5.75,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.5,2.45,FanDuel,3.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.55,2.55,BetRivers,3.75,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.55,Bovada,3.65,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.55,BetUS,3.65,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.48,BetOnline.ag,3.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.48,LowVig.ag,3.8,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.8,4.7,FanDuel,3.2,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.847,4.4,BetMGM,3.5,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.855,4.4,BetRivers,3.45,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.87,4.4,Bovada,3.45,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.87,4.65,BetUS,3.35,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.847,4.86,BetOnline.ag,3.3,2025-03-12 00:10:42
-UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.847,4.86,LowVig.ag,3.3,2025-03-12 00:10:42
+AFL,2025-03-13 04:30:00,Richmond Tigers,Carlton Blues,9.5,1.056,DraftKings,,2025-03-12 23:32:42
+AFL,2025-03-13 04:30:00,Richmond Tigers,Carlton Blues,13.0,1.03,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 13:45:00,Fenerbahce SK,ASVEL Lyon Villeurbanne,1.213,4.6,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 13:45:00,Fenerbahce SK,ASVEL Lyon Villeurbanne,1.2,4.75,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 14:00:00,KK Crvena zvezda,Pallacanestro Olimpia Milano,1.4,3.05,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 14:00:00,KK Crvena zvezda,Pallacanestro Olimpia Milano,1.385,3.1,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 14:00:00,Žalgiris,Paris Basketball,1.602,2.4,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 14:00:00,Žalgiris,Paris Basketball,1.588,2.4,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:00:00,ALBA Berlin,Saski Baskonia,2.6,1.521,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:00:00,ALBA Berlin,Saski Baskonia,2.6,1.513,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:05:00,Maccabi Tel Aviv,AS Monaco,3.2,1.37,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:05:00,Maccabi Tel Aviv,AS Monaco,3.4,1.333,Bovada,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:45:00,Virtus Segafredo Bologna,Real Madrid,3.25,1.36,DraftKings,,2025-03-12 23:32:42
+Basketball Euroleague,2025-03-13 15:45:00,Virtus Segafredo Bologna,Real Madrid,3.2,1.364,Bovada,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.6,FanDuel,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.5,Fanatics,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.23,MyBookie.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.111,7.0,DraftKings,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.6,LowVig.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.6,BetOnline.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.1,7.5,Caesars,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.091,8.0,BetMGM,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.11,7.0,BetRivers,,2025-03-12 23:32:42
+NBA,2025-03-13 19:10:00,Detroit Pistons,Washington Wizards,1.091,7.5,Bovada,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.465,2.8,FanDuel,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.45,2.79,MyBookie.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.444,2.85,Fanatics,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.459,2.8,DraftKings,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.444,2.85,Caesars,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.476,2.8,LowVig.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.476,2.8,BetOnline.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.455,2.8,BetMGM,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.465,2.75,BetRivers,,2025-03-12 23:32:42
+NBA,2025-03-13 19:30:00,Milwaukee Bucks,Los Angeles Lakers,1.455,2.8,Bovada,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.685,2.24,FanDuel,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.667,2.25,Fanatics,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.676,2.24,DraftKings,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.68,2.2,MyBookie.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.69,2.25,LowVig.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.69,2.25,BetOnline.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.69,2.22,Caesars,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.667,2.25,BetMGM,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.719,2.18,BetRivers,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,Chicago Bulls,Brooklyn Nets,1.667,2.3,Bovada,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,1.98,1.847,DraftKings,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.0,1.833,Fanatics,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,1.98,1.833,MyBookie.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.0,1.847,FanDuel,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,1.98,1.847,LowVig.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.05,1.8,Caesars,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,1.98,1.847,BetOnline.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.0,1.833,BetMGM,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.0,1.833,BetRivers,,2025-03-12 23:32:42
+NBA,2025-03-13 20:10:00,New Orleans Pelicans,Orlando Magic,2.0,1.833,Bovada,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.36,3.25,DraftKings,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.36,3.18,MyBookie.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.364,3.2,Fanatics,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.37,3.2,FanDuel,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.351,3.28,Caesars,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.364,3.3,LowVig.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.364,3.3,BetOnline.ag,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.351,3.25,BetMGM,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.4,3.05,BetRivers,,2025-03-12 23:32:42
+NBA,2025-03-13 22:10:00,Golden State Warriors,Sacramento Kings,1.364,3.25,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.154,5.6,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.148,5.9,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.143,6.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.12,6.34,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.133,6.0,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.16,5.3,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:00:00,Akron Zips,Bowling Green Falcons,1.139,6.0,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.769,2.1,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.769,2.1,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.741,2.1,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.769,2.07,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.8,2.05,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.8,2.04,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 11:30:00,St. Bonaventure Bonnies,Duquesne Dukes,1.8,2.04,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.125,6.5,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.105,7.1,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.11,6.67,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.125,6.5,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.125,6.5,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.12,6.5,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.111,7.0,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,St. John's Red Storm,Butler Bulldogs,1.105,7.0,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Duke Blue Devils,Georgia Tech Yellow Jackets,1.012,23.0,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Duke Blue Devils,Georgia Tech Yellow Jackets,1.012,23.0,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Duke Blue Devils,Georgia Tech Yellow Jackets,1.01,26.0,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Duke Blue Devils,Georgia Tech Yellow Jackets,1.01,21.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.769,2.1,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.8,2.05,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.787,2.05,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.741,2.1,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.8,2.04,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.73,2.12,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.769,2.1,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:00:00,Oregon Ducks,Indiana Hoosiers,1.769,2.1,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.3,1.645,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.25,1.667,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.3,1.645,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.23,1.658,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.23,1.676,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.25,1.645,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,BYU Cougars,Iowa State Cyclones,2.25,1.69,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.606,2.4,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.588,2.42,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.588,2.4,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.581,2.41,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.599,2.35,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.571,2.5,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 12:30:00,Wichita St Shockers,South Florida Bulls,1.588,2.38,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.541,2.54,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.617,2.34,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.571,2.41,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.588,2.43,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.599,2.35,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.556,2.45,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:00:00,Ole Miss Rebels,Arkansas Razorbacks,1.606,2.4,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.3,1.645,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.3,1.645,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.25,1.667,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.29,1.629,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.25,1.645,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.25,1.667,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.3,1.667,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 13:30:00,Toledo Rockets,Ohio Bobcats,2.28,1.649,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.0,1.833,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.02,1.82,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.0,1.833,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,1.909,1.769,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.0,1.826,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,2.0,1.833,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Texas Southern Tigers,Alabama St Hornets,1.909,1.909,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.571,2.45,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.625,2.32,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.606,2.4,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.592,2.38,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.588,2.4,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.549,2.48,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.588,2.4,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:00:00,Saint Louis Billikens,Davidson Wildcats,1.606,2.4,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.14,1.741,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.15,1.741,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.17,1.699,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.1,1.741,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.1,1.758,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.12,1.73,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.1,1.769,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Xavier Musketeers,Marquette Golden Eagles,2.1,1.769,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.9,1.435,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.83,1.441,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.84,1.444,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.85,1.444,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,3.0,1.4,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.85,1.444,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wake Forest Demon Deacons,North Carolina Tar Heels,2.85,1.444,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.308,3.6,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.312,3.6,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.3,3.58,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.29,3.7,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.308,3.6,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.25,4.1,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 14:30:00,Wisconsin Badgers,Northwestern Wildcats,1.303,3.65,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.192,4.9,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.17,5.05,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.208,4.6,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.164,5.4,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.23,4.3,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.2,4.75,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.182,5.0,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Florida Atlantic Owls,Charlotte 49ers,1.16,5.3,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.056,11.0,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.029,13.8,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.05,10.64,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.059,10.5,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.05,11.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,Houston Cougars,Colorado Buffaloes,1.01,17.0,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.083,8.5,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.08,8.12,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.071,9.0,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.091,8.0,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.08,8.0,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:00:00,New Mexico Lobos,San José St Spartans,1.083,8.5,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.351,3.3,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.364,3.2,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.36,3.16,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.36,3.22,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.351,3.3,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.364,3.15,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.4,3.1,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 15:30:00,Texas A&M Aggies,Texas Longhorns,1.385,3.1,Fanatics,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.4,3.05,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.4,3.05,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.426,2.95,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.4,3.0,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.417,3.0,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 16:00:00,Miami (OH) RedHawks,Eastern Michigan Eagles,1.392,3.05,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.294,3.7,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.29,3.7,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.3,3.57,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.339,3.35,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.29,3.65,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.308,3.6,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:00:00,GW Revolutionaries,Fordham Rams,1.303,3.65,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.909,1.909,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.909,1.909,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.909,1.909,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.893,1.893,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.909,1.909,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 17:30:00,San Diego St Aztecs,Boise State Broncos,1.909,1.909,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.606,2.4,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.617,2.36,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.625,2.35,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.571,2.2,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.629,2.3,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.667,2.3,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Howard Bison,Morgan St Bears,1.667,2.25,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.909,1.909,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.909,1.909,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.98,1.847,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.917,1.847,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.893,1.917,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,2.0,1.833,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:00:00,Iona Gaels,Manhattan Jaspers,1.909,1.909,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.16,5.55,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.159,5.5,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.15,5.25,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.167,5.3,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.208,4.4,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.167,5.25,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Illinois Fighting Illini,Iowa Hawkeyes,1.154,5.5,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.909,1.909,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.909,1.909,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.87,1.952,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.847,1.926,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.909,1.909,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.877,1.952,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kennesaw St Owls,New Mexico St Aggies,1.877,1.926,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.22,4.45,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.235,4.3,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.222,4.33,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.2,4.35,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.19,4.75,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.215,4.6,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 18:30:00,Kent State Golden Flashes,Western Michigan Broncos,1.208,4.4,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Texas Tech Red Raiders,Baylor Bears,1.388,3.1,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Texas Tech Red Raiders,Baylor Bears,1.364,3.2,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Texas Tech Red Raiders,Baylor Bears,1.36,3.07,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.143,6.0,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.154,5.6,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.12,5.85,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.143,6.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.122,6.5,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.14,5.8,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Creighton Bluejays,DePaul Blue Demons,1.125,6.25,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Louisville Cardinals,Stanford Cardinal,1.213,4.6,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Louisville Cardinals,Stanford Cardinal,1.159,5.5,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Louisville Cardinals,Stanford Cardinal,1.17,4.81,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Louisville Cardinals,Stanford Cardinal,1.2,4.75,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Louisville Cardinals,Stanford Cardinal,1.208,4.6,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Missouri Tigers,Mississippi St Bulldogs,1.676,2.24,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Missouri Tigers,Mississippi St Bulldogs,1.602,2.38,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Missouri Tigers,Mississippi St Bulldogs,1.581,2.35,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Missouri Tigers,Mississippi St Bulldogs,1.645,2.25,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Missouri Tigers,Mississippi St Bulldogs,1.645,2.3,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.69,2.22,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.676,2.24,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.667,2.25,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.621,2.26,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.667,2.3,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.602,2.38,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:00:00,Temple Owls,Tulsa Golden Hurricane,1.658,2.25,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.128,6.3,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.13,5.75,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.16,5.55,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.154,5.6,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.143,6.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.169,5.25,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 19:30:00,Saint Joseph's Hawks,La Salle Explorers,1.125,6.25,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.69,2.22,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.645,2.3,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.667,2.25,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.588,2.15,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.714,2.2,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.667,2.25,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Bethune-Cookman Wildcats,Alcorn St Braves,1.676,2.2,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.833,2.0,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.87,1.952,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.833,2.0,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.769,1.909,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.909,1.909,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.877,1.952,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Delaware St Hornets,North Carolina Central Eagles,1.82,2.02,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.833,2.0,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.833,2.0,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.8,2.05,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.781,2.01,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.833,2.0,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.769,2.08,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 20:30:00,Marist Red Foxes,Mt. St. Mary's Mountaineers,1.787,2.05,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.75,1.476,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.85,1.444,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,3.0,1.4,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.86,1.41,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.9,1.435,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.72,1.476,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Abilene Christian Wildcats,Seattle Redhawks,2.88,1.426,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.488,2.7,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.5,2.64,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.481,2.61,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.488,2.7,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.465,2.7,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.476,2.7,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Colorado St Rams,Nevada Wolf Pack,1.541,2.6,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.741,2.15,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.741,2.14,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.714,2.15,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.709,2.1,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.8,2.05,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.758,2.1,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,1.787,2.04,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,Purdue Boilermakers,USC Trojans,1.227,4.4,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:00:00,CSU Northridge Matadors,UC Santa Barbara Gauchos,1.725,2.15,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.606,2.4,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.602,2.4,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.599,2.3,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.606,2.35,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.625,2.35,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.685,2.22,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,East Carolina Pirates,UTSA Roadrunners,1.637,2.28,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 21:30:00,UConn Huskies,Villanova Wildcats,1.676,2.24,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.328,3.4,Caesars,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.328,3.45,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.333,3.4,BetMGM,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.319,3.2,MyBookie.ag,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.364,3.25,Bovada,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.364,3.2,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Cal Baptist Lancers,Tarleton State Texans,1.328,3.4,BetRivers,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Utah State Aggies,UNLV Rebels,1.336,3.4,DraftKings,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Utah State Aggies,UNLV Rebels,1.357,3.25,FanDuel,,2025-03-12 23:32:42
+NCAAB,2025-03-13 23:30:00,Utah State Aggies,UNLV Rebels,1.33,3.12,MyBookie.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,6.5,DraftKings,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.1,6.2,FanDuel,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.125,6.0,BetUS,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.071,8.0,Bovada,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.1,7.0,BetOnline.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.1,7.0,LowVig.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 05:00:00,Shokichi Iwata,Rene Santiago,1.111,7.0,BetMGM,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.222,4.3,DraftKings,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.286,4.0,BetMGM,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,BetUS,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.217,4.1,FanDuel,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.182,4.5,Bovada,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,BetOnline.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Anthony Olascuaga,Hiroto Kyoguchi,1.25,4.0,LowVig.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.235,4.2,DraftKings,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,4.25,BetUS,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.182,4.5,FanDuel,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,5.0,BetMGM,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.182,4.5,Bovada,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,4.25,BetOnline.ag,,2025-03-12 23:32:42
+Boxing,2025-03-13 06:00:00,Kenshiro Teraji,Seigo Yuri Akui,1.222,4.25,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.571,2.43,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.521,2.6,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.51,2.62,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.526,2.6,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.552,2.61,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.552,2.61,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.526,2.58,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.515,2.5,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.526,2.55,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.556,2.55,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Ottawa Senators,Boston Bruins,1.541,2.6,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.48,1.556,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.4,1.602,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.36,1.61,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.4,1.588,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.48,1.602,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.43,1.588,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.48,1.602,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.38,1.565,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.45,1.571,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.42,1.606,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Columbus Blue Jackets,Vegas Golden Knights,2.5,1.571,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.917,1.893,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.926,1.893,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.943,1.885,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.909,1.909,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,2.0,1.893,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,2.0,1.893,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.952,1.87,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.926,1.855,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.952,1.87,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.909,1.909,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Toronto Maple Leafs,Florida Panthers,1.952,1.87,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.4,1.571,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.45,1.571,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.32,1.625,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.4,1.588,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.4,1.588,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.3,1.602,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Philadelphia Flyers,Tampa Bay Lightning,2.5,1.571,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.855,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.87,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,2.0,1.833,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,2.02,1.87,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,2.02,1.87,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.909,1.909,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.87,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.935,1.84,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.87,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.87,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 19:00:00,Pittsburgh Penguins,St Louis Blues,1.952,1.87,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.07,1.769,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.24,1.676,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.12,1.746,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.24,1.719,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.24,1.719,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.18,1.714,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.08,1.725,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.2,1.69,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.18,1.714,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.2,1.714,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 19:30:00,New Jersey Devils,Edmonton Oilers,2.15,1.741,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.833,1.971,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.909,1.909,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.901,1.926,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.926,1.962,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.926,1.962,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.909,1.909,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.87,1.901,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.909,1.909,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.909,1.909,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.909,1.909,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 20:00:00,Minnesota Wild,New York Rangers,1.893,1.926,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.893,1.917,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.909,1.909,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.943,1.885,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.99,1.901,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.99,1.901,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.885,1.893,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.909,1.909,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.909,1.909,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.909,1.909,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.971,1.855,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,San Jose Sharks,Chicago Blackhawks,1.87,1.952,Fanatics,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.833,1.971,BetRivers,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.8,2.05,DraftKings,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.794,2.05,FanDuel,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.813,2.09,BetOnline.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.813,2.09,LowVig.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.763,2.03,MyBookie.ag,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.8,2.05,Caesars,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.833,2.0,BetMGM,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.8,2.05,BetUS,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.781,2.07,Bovada,,2025-03-12 23:32:42
+NHL,2025-03-13 22:30:00,Los Angeles Kings,Washington Capitals,1.8,2.05,Fanatics,,2025-03-12 23:32:42
+SHL,2025-03-13 14:00:00,Malmö Redhawks,Rögle BK,2.05,1.769,DraftKings,,2025-03-12 23:32:42
+SHL,2025-03-13 14:00:00,Malmö Redhawks,Rögle BK,1.952,1.87,Bovada,,2025-03-12 23:32:42
+SHL,2025-03-13 14:00:00,Örebro HK,Växjö Lakers,1.909,1.87,DraftKings,,2025-03-12 23:32:42
+SHL,2025-03-13 14:00:00,Örebro HK,Växjö Lakers,1.909,1.909,Bovada,,2025-03-12 23:32:42
+NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.588,2.48,Bovada,,2025-03-12 23:32:42
+NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.559,2.39,BetUS,,2025-03-12 23:32:42
+NRL,2025-03-13 05:00:00,Newcastle Knights,Dolphins,1.565,2.4,BetRivers,,2025-03-12 23:32:42
+Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.179,15.0,BetRivers,7.3,2025-03-12 23:32:42
+Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.174,14.0,Bovada,6.5,2025-03-12 23:32:42
+Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.174,14.0,BetUS,6.5,2025-03-12 23:32:42
+Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.154,14.25,BetOnline.ag,7.4,2025-03-12 23:32:42
+Copa Libertadores,2025-03-13 20:30:00,Bahia,CA Boston River,1.154,14.25,LowVig.ag,7.4,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.7,2.05,FanDuel,3.3,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.55,2.05,DraftKings,3.4,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.1,Bovada,3.25,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.05,BetMGM,3.4,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.02,BetRivers,3.4,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.4,2.1,BetUS,3.25,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.3,2.06,LowVig.ag,3.25,2025-03-12 23:32:42
+League 2,2025-03-13 16:00:00,Bromley FC,Walsall,3.3,2.06,BetOnline.ag,3.25,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.1,3.4,FanDuel,3.5,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.15,3.35,DraftKings,3.55,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.15,3.2,Bovada,3.35,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.1,3.1,BetMGM,3.3,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.12,3.33,BetOnline.ag,3.6,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Cercle Brugge KSV,Jagiellonia Białystok,2.12,3.33,LowVig.ag,3.6,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.6,2.6,FanDuel,3.4,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.65,2.7,DraftKings,3.35,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.6,2.6,Bovada,3.25,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.5,2.55,BetMGM,3.25,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.58,2.69,BetOnline.ag,3.45,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Djurgardens IF,Pafos FC,2.58,2.69,LowVig.ag,3.45,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.2,FanDuel,4.2,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.69,4.5,DraftKings,4.1,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.5,Bovada,3.8,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.714,4.1,BetMGM,3.7,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.685,4.53,BetOnline.ag,4.26,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,FC Lugano,NK Celje,1.685,4.53,LowVig.ag,4.26,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.417,8.0,FanDuel,4.3,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.435,7.5,DraftKings,4.5,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.417,7.25,Bovada,4.3,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.435,7.63,BetOnline.ag,4.48,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 13:45:00,Rapid Wien,FK Borac Banja Luka,1.435,7.63,LowVig.ag,4.48,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.345,8.0,FanDuel,5.0,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.377,8.0,DraftKings,5.0,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.357,7.75,Bovada,4.9,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.339,7.25,BetMGM,4.8,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.347,8.74,BetOnline.ag,5.16,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Chelsea,FC Copenhagen,1.347,8.74,LowVig.ag,5.16,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.5,6.5,FanDuel,4.0,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.513,6.5,DraftKings,4.2,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.513,6.0,Bovada,4.0,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.476,6.25,BetMGM,3.9,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.513,6.75,BetOnline.ag,4.15,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Fiorentina,Panathinaikos FC,1.513,6.75,LowVig.ag,4.15,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,3.9,FanDuel,3.7,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,4.0,DraftKings,3.8,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,3.9,Bovada,3.55,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.87,3.6,BetMGM,3.5,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.862,4.05,LowVig.ag,3.76,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Legia Warszawa,Molde FK,1.862,4.05,BetOnline.ag,3.76,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,2.95,2.45,FanDuel,3.1,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.4,DraftKings,3.25,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.1,2.35,Bovada,3.05,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,2.9,2.3,BetMGM,3.1,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.08,2.49,BetOnline.ag,3.1,2025-03-12 23:32:42
+UEFA Europa Conference League,2025-03-13 16:00:00,Vitória SC,Real Betis,3.08,2.49,LowVig.ag,3.1,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.7,BetMGM,3.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.909,3.7,FanDuel,3.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.65,BetUS,3.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.893,3.8,BetRivers,3.75,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.65,Bovada,3.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.81,LowVig.ag,3.83,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Eintracht Frankfurt,Ajax,1.952,3.81,BetOnline.ag,3.83,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.909,3.9,BetMGM,3.5,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.833,4.0,FanDuel,3.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.87,4.2,BetUS,3.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.893,4.1,BetRivers,3.55,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.909,4.0,Bovada,3.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.909,4.2,LowVig.ag,3.66,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Athletic Bilbao,Roma,1.909,4.2,BetOnline.ag,3.66,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.541,5.5,FanDuel,4.2,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.571,5.5,BetUS,4.3,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.571,5.5,BetRivers,4.2,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.571,5.4,Bovada,4.3,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.592,5.65,LowVig.ag,4.35,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,Olympiakos Piraeus,Bodø/Glimt,1.592,5.65,BetOnline.ag,4.35,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.426,7.25,BetMGM,4.75,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.385,8.0,FanDuel,4.5,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.408,7.75,BetUS,4.75,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.377,8.5,BetRivers,4.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.408,7.0,Bovada,4.9,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.422,7.95,LowVig.ag,4.85,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 13:45:00,SS Lazio,Viktoria Plzeň,1.422,7.95,BetOnline.ag,4.85,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.5,5.75,BetMGM,4.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.435,6.5,FanDuel,4.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.455,6.75,BetRivers,4.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.455,6.0,Bovada,4.8,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.463,6.3,BetUS,4.64,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.476,6.65,LowVig.ag,4.8,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Tottenham Hotspur,AZ Alkmaar,1.476,6.65,BetOnline.ag,4.8,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.286,10.5,FanDuel,5.1,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.308,10.0,BetMGM,5.5,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.26,11.0,BetRivers,5.8,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.299,9.5,Bovada,5.75,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.296,10.25,BetUS,5.5,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.317,10.75,BetOnline.ag,5.47,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Lyon,FCSB,1.317,10.75,LowVig.ag,5.47,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.45,FanDuel,3.6,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.55,2.6,BetRivers,3.7,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.55,2.5,Bovada,3.8,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.6,2.5,BetUS,3.75,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.64,2.55,BetOnline.ag,3.79,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Rangers FC,Fenerbahce,2.64,2.55,LowVig.ag,3.79,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.87,4.4,FanDuel,3.2,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.909,4.33,BetMGM,3.3,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.893,4.4,BetRivers,3.3,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.909,4.3,Bovada,3.35,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.909,4.4,BetUS,3.25,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.943,4.61,BetOnline.ag,3.3,2025-03-12 23:32:42
+UEFA Europa League,2025-03-13 16:00:00,Manchester United,Real Sociedad,1.943,4.61,LowVig.ag,3.3,2025-03-12 23:32:42
