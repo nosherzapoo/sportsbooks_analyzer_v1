@@ -6,8 +6,9 @@ import pytz
 def sync_data():
     try:
         # Get today's date
-        ny_tz = pytz.timezone('America/New_York')
-        today = datetime.now(ny_tz).strftime('%Y%m%d')
+        #ny_tz = pytz.timezone('America/New_York')
+        #today = datetime.now(ny_tz).strftime('%Y%m%d')
+        today = '20250513'
         
         # Required files
         # Get yesterday's date for odds file
