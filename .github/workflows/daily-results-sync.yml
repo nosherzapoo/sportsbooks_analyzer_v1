@@ -31,7 +31,7 @@ jobs:
       - name: Get today's date
         id: date
         run: |
-          TZ=America/New_York date +'%Y%m%d' > date.txt
+          echo "20250313" > date.txt
           echo "date=$(cat date.txt)" >> $GITHUB_ENV
           echo "Using date: $(cat date.txt)"
 
