@@ -28,8 +28,9 @@ def fetch_game_results(sport, sport_url):
 
 def process_results():
     try:
-        ny_tz = pytz.timezone('America/New_York')
-        today = datetime.now(ny_tz).strftime('%Y%m%d')
+        #ny_tz = pytz.timezone('America/New_York')
+        #today = datetime.now(ny_tz).strftime('%Y%m%d')
+        today = '20250313'
         
         # Read today's odds file to get active leagues
         odds_file = f'data/game_odds_{today}.csv'
@@ -170,7 +171,7 @@ def process_results():
         if results:
             results_df = pd.DataFrame(results)
             
-            output_file = f'data/game_results_20250313.csv'
+            output_file = f'data/game_results_{today}.csv'
             results_df.to_csv(output_file, index=False)
             print(f"Results saved to {output_file}")
             
