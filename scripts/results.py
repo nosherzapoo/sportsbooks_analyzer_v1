@@ -150,7 +150,7 @@ def process_results():
                             
                             result = {
                                 'Sport': sport,
-                                'Match Date': datetime.now(ny_tz).strftime('%Y-%m-%d'),
+                                'Match Date': today,
                                 'Home Team': match['home_team'],
                                 'Away Team': match['away_team'],
                                 'Home Score': None,
