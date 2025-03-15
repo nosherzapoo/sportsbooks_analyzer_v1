@@ -1,0 +1,78 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250314,Hawthorn Hawks,Essendon Bombers,111,85,Completed,7440bf6c41c5e63cadfcbc2463b8bf4a
+AFL,20250314,Geelong Cats,Fremantle Dockers,,,Unknown,2c39200ca14727ac8948206fc32f0581
+Basketball Euroleague,20250314,Olympiacos,Panathinaikos,76,74,Completed,1760852239a744126a32a2ed01a68afc
+Basketball Euroleague,20250314,FC Bayern München,Anadolu Efes,92,97,Completed,ec03c364c931527846ae27f540adc81f
+Basketball Euroleague,20250314,FC Barcelona Bàsquet,KK Partizan NIS,87,80,Completed,bd7a0c108ec70bf21f8b43ff3391252a
+NBA,20250314,Philadelphia 76ers,Indiana Pacers,100,112,Completed,dfc48d1713eb691d72b67328716f7ced
+NBA,20250314,Miami Heat,Boston Celtics,91,103,Completed,7778dd3c609c10110e9b4aadd6753abf
+NBA,20250314,Atlanta Hawks,Los Angeles Clippers,98,121,Completed,33db6f60a8ab7cddb94c96bd2c90cbc3
+NBA,20250314,San Antonio Spurs,Charlotte Hornets,134,145,Completed,f03b13bd31cbb08e214114af562be7ae
+NBA,20250314,Minnesota Timberwolves,Orlando Magic,118,111,Completed,0fdc0c7f6dbaf6df7383a4cffb8c5e65
+NBA,20250314,Memphis Grizzlies,Cleveland Cavaliers,124,133,Completed,395de5b32f7a9c3d95758e1bd3742c9f
+NBA,20250314,Houston Rockets,Dallas Mavericks,133,96,Completed,b2dffed2f33fd66e16fcbcd65e62a368
+NBA,20250314,Denver Nuggets,Los Angeles Lakers,,,Unknown,e1979d16367276f88c7c770af9087bfd
+NBA,20250314,Utah Jazz,Toronto Raptors,,,Unknown,4f92c61261c284693d37091c24cf85d8
+NBA,20250314,Phoenix Suns,Sacramento Kings,,,Unknown,5af9dfe051f5560545b2fb86e831be24
+NCAAB,20250314,VCU Rams,St. Bonaventure Bonnies,76,59,Completed,922ee916f160ac271c93b06d09d9641e
+NCAAB,20250314,Michigan St Spartans,Oregon Ducks,74,64,Completed,cc2e7dd2bf0ee6d5dd23a6759020caef
+NCAAB,20250314,Liberty Flames,Kennesaw St Owls,81,79,Completed,0bcb463c4fdb3bc0f0ceafef27c4aeff
+NCAAB,20250314,Memphis Tigers,Wichita St Shockers,83,80,Completed,7b36724a7ca4ed803f6d09f71dfc21d5
+NCAAB,20250314,Auburn Tigers,Ole Miss Rebels,62,57,Completed,e03a7a5529a59ffadfd2006f09f6ffd9
+NCAAB,20250314,Alabama St Hornets,Grambling St Tigers,64,62,Completed,1ddb3a2c85f0db6beb86bda226a851d9
+NCAAB,20250314,Loyola (Chi) Ramblers,Saint Louis Billikens,72,64,Completed,e2f18cb155219e8b5643a94771e7cfe3
+NCAAB,20250314,UCLA Bruins,Wisconsin Badgers,70,86,Completed,41dd0bdbbcd4938f8a143ea775a927dc
+NCAAB,20250314,Tennessee Volunteers,Texas Longhorns,83,72,Completed,da50f4c7922911abf4c2a5b451c992d0
+NCAAB,20250314,Tulane Green Wave,Florida Atlantic Owls,83,76,Completed,24e5f65db1d4a0228fa6c3693812669d
+NCAAB,20250314,George Mason Patriots,GW Revolutionaries,80,65,Completed,66421992069a7603ee3d5b53adb15e37
+NCAAB,20250314,Akron Zips,Toledo Rockets,100,90,Completed,85bfb603415ae0018a7bb35a0f4a5313
+NCAAB,20250314,Norfolk St Spartans,Morgan St Bears,58,55,Completed,191db0956da75999b522ed97959ac875
+NCAAB,20250314,Quinnipiac Bobcats,Iona Gaels,73,81,Completed,6cc56eb2f503c3dafafdcdf53fd78093
+NCAAB,20250314,Maryland Terrapins,Illinois Fighting Illini,88,65,Completed,55f92e526c515df81f6f4f9a290c6796
+NCAAB,20250314,St. John's Red Storm,Marquette Golden Eagles,79,63,Completed,058a5be0450de2ac2909902dafe0e310
+NCAAB,20250314,Florida Gators,Missouri Tigers,95,81,Completed,3540dc58887b4fb9c6989ba0221434d9
+NCAAB,20250314,Houston Cougars,BYU Cougars,74,54,Completed,74db806ed3da440a06aae66a50224b49
+NCAAB,20250314,Duke Blue Devils,North Carolina Tar Heels,74,71,Completed,56af08d94fb463af70363fe5599deab7
+NCAAB,20250314,North Texas Mean Green,Tulsa Golden Hurricane,77,59,Completed,c15714a5a10785666472df543d17ac70
+NCAAB,20250314,Dayton Flyers,Saint Joseph's Hawks,68,73,Completed,e1d950c64cc1badceb7b27a88004d625
+NCAAB,20250314,Miami (OH) RedHawks,Kent State Golden Flashes,72,64,Completed,291a624a3a6c7e766aa8a7e308a75435
+NCAAB,20250314,Jackson St Tigers,Bethune-Cookman Wildcats,71,50,Completed,48969228d63553df2b50c280c0c99e6b
+NCAAB,20250314,Merrimack Warriors,Mt. St. Mary's Mountaineers,55,57,Completed,0fe6a28c7ed6e9db9754f5cca73ca968
+NCAAB,20250314,New Mexico Lobos,Boise State Broncos,,,Unknown,5dde86b40e4633a1669d665d07e7ab6d
+NHL,20250314,Carolina Hurricanes,Detroit Red Wings,4,2,Completed,ace0c578eb46706e72261fdb18721cf9
+NHL,20250314,New York Islanders,Edmonton Oilers,1,2,Completed,08dcf96879f8a397435af13186878e5c
+NHL,20250314,Winnipeg Jets,Dallas Stars,4,1,Completed,1a8dbad1ae56d914bea372ff710dbe25
+NHL,20250314,Calgary Flames,Colorado Avalanche,,,Unknown,c43e687221dc588b838480fd84a40729
+NHL,20250314,Anaheim Ducks,Nashville Predators,,,Unknown,99074ec24f824369d5a693bbe35215f8
+NHL,20250314,Seattle Kraken,Utah Hockey Club,,,Unknown,7eee099521163cb70e98323c301a0f1c
+SHL,20250314,Modo Hockey,HV71,,,Unknown,1ad296c5f49e034392d60095d6dc044c
+NRL,20250314,New Zealand Warriors,Manly Warringah Sea Eagles,36,16,Completed,4a0a72a5a0e1273b2fe34ff8bec7e9a0
+NRL,20250314,Penrith Panthers,Sydney Roosters,32,38,Completed,2e52ea1faad2e32c8bb55b6973ba7cb6
+Primera División - Argentina,20250314,Argentinos Juniors,Aldosivi Mar del Plata,0,2,Completed,ce0c945fba47bfb482fa34d422bc8853
+Primera División - Argentina,20250314,Godoy Cruz,San Lorenzo,0,0,Completed,b4060affbe2dd2efa9e2b847d920729b
+A-League,20250314,Adelaide United,Macarthur FC,4,5,Completed,861765300e57e322c051b73cf07fca75
+Championship,20250314,Bristol City,Norwich City,2,1,Completed,8ccfcbc388db02ade89d41c09a24a424
+Ligue 1 - France,20250314,Nice,Auxerre,1,1,Completed,ecc600c5167d6c116aaa433ea74d7bec
+Ligue 2 - France,20250314,Annecy FC,Rodez AF,1,1,Completed,37b158e051c7603b3d5ddac3bce5f89e
+Ligue 2 - France,20250314,AC Ajaccio,Red Star,2,1,Completed,821a16773adc7ce55cad0b5587b865ef
+Ligue 2 - France,20250314,Amiens,Caen,2,1,Completed,027aebf31c45d8eed0ae8bec5c2ec48c
+Ligue 2 - France,20250314,Clermont,Grenoble,0,0,Completed,82bf59a3c4440ecae48c48a6d36d96a0
+Ligue 2 - France,20250314,FC Martigues,Pau FC,2,2,Completed,d8cc363121956325330a115a0f40eda2
+Ligue 2 - France,20250314,Troyes,Guingamp,0,1,Completed,244a37812594aca2ebf7d41dff53f4a0
+Bundesliga - Germany,20250314,FC St. Pauli,TSG Hoffenheim,1,0,Completed,35422c69ad923fd42be830fc9135cf4a
+Bundesliga 2 - Germany,20250314,1. FC Magdeburg,Hamburger SV,0,3,Completed,5ffef13fc2b407444c0c87e56d4ad59c
+Bundesliga 2 - Germany,20250314,FC Schalke 04,Hannover 96,1,2,Completed,8ce1c91ce5148a1a1fd4e448fbd59e2c
+3. Liga - Germany,20250314,1. FC Saarbrücken,VfB Stuttgart II,0,2,Completed,5e100a9a37470fab9545249f6efbe6d7
+Serie A - Italy,20250314,Genoa,Lecce,2,1,Completed,697df2841c3e04f6ba7d0dfaa392cecb
+Serie B - Italy,20250314,Palermo,Cremonese,2,3,Completed,2864f636720ffe9b336649a1af290201
+League of Ireland,20250314,St Patricks Athletic,Bohemians,3,0,Completed,2ff7e3cca53a255b980fd8cf42448ab3
+League of Ireland,20250314,Shelbourne Dublin,Cork City,1,1,Completed,49241b1bc21f48f9436383fcedec67e9
+League of Ireland,20250314,Galway United,Waterford FC,1,0,Completed,056ce0a47b5c37c623099ca4b036051b
+League of Ireland,20250314,Drogheda United,Shamrock Rovers,1,2,Completed,f37b5584a464bf85488f6ecaa6138e3a
+Liga MX,20250314,Necaxa,León,2,1,Completed,34a5e3a613be2bd47a4523c9da4fc5f5
+Liga MX,20250314,Querétaro,Mazatlán FC,1,0,Completed,e75788c86f6f14e55dba4f57f7a44934
+Liga MX,20250314,Puebla,Toluca,,,Unknown,30352b60d6a2d7d3b036be307d2a8aed
+Dutch Eredivisie,20250314,Almere City,NAC Breda,1,1,Completed,f16009ae54b66ec4b7546825bc8b0c8b
+La Liga - Spain,20250314,Las Palmas,Alavés,2,2,Completed,0e5ff66dfffac4030773766ceccfbdb2
+La Liga 2 - Spain,20250314,Oviedo,Elche,1,1,Completed,34f38680ec7afb90429cff8752a7cb8f
+Turkey Super League,20250314,Galatasaray,Antalyaspor,4,0,Completed,b457c3c40eedd8a9fedfcd54de851104
