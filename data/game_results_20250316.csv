@@ -1,0 +1,81 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250316,Melbourne Demons,Greater Western Sydney Giants,74,77,Completed,5324842aa5c77df0a4e8a134c88f72ae
+AFL,20250316,West Coast Eagles,Gold Coast Suns,49,136,Completed,ffed91005faa0c1375d28b659847e5b5
+NBA,20250316,Dallas Mavericks,Philadelphia 76ers,125,130,Completed,9fe3de8d645431ad5b81db617d6ee571
+NBA,20250316,Cleveland Cavaliers,Orlando Magic,103,108,Completed,2aef8b9b69f0d0e62ae6dafc2524f51e
+NBA,20250316,Los Angeles Lakers,Phoenix Suns,107,96,Completed,9f5ae1d0355f9d38a8af0a228fe45053
+NBA,20250316,Brooklyn Nets,Atlanta Hawks,122,114,Completed,6a2e8167d9f15bd39be325fad0df92d9
+NBA,20250316,Portland Trail Blazers,Toronto Raptors,105,102,Completed,01b048c1857901dd9f688741cc4c13c2
+NBA,20250316,Los Angeles Clippers,Charlotte Hornets,123,88,Completed,fc8d0c4c0e2a57e7ea9c06c5fb35a291
+NBA,20250316,Minnesota Timberwolves,Utah Jazz,128,102,Completed,085c54e542467c56637a2e0ccd86d9ee
+NBA,20250316,Milwaukee Bucks,Oklahoma City Thunder,,,Unknown,88c8cb14a4897c96f7cefbddaa9c063f
+NCAAB,20250316,Yale Bulldogs,Cornell Big Red,90,84,Completed,bec2c6813be55b3efec4a4ecb26a2634
+NCAAB,20250316,Florida Gators,Tennessee Volunteers,86,77,Completed,15b3a8758dc7f03e6b8b214de7d31cea
+NCAAB,20250316,VCU Rams,George Mason Patriots,68,63,Completed,2fa4dca2d116dccb021287c57d31de9c
+NCAAB,20250316,Memphis Tigers,UAB Blazers,84,72,Completed,c773eb4b742117a3ba3d0fcb7f2fa1f8
+NCAAB,20250316,Michigan Wolverines,Wisconsin Badgers,59,53,Completed,dcd877d577bd4af27ec0fc9f81b5d15e
+NHL,20250316,Detroit Red Wings,Vegas Golden Knights,3,0,Completed,f9694955cc84546edcd8c0fa373a7127
+NHL,20250316,Colorado Avalanche,Dallas Stars,4,3,Completed,fccb884c5bd7ce278119552aba926427
+NHL,20250316,New York Rangers,Edmonton Oilers,1,3,Completed,fe8a705bdc4049ddf776108ca4206500
+NHL,20250316,New York Islanders,Florida Panthers,4,2,Completed,2f73cbde97f9c10b4064de8a6df15ffe
+NHL,20250316,Vancouver Canucks,Utah Hockey Club,1,3,Completed,d390467a40d1f344ba2950593a1d9eeb
+NHL,20250316,St Louis Blues,Anaheim Ducks,7,2,Completed,a9036ce6d11353e31664041998014edb
+NHL,20250316,Seattle Kraken,Winnipeg Jets,2,3,Completed,80d3e18610d32424304f742b11bc87b1
+NRL,20250316,Parramatta Eels,Wests Tigers,6,32,Completed,1be5f92c6ca11257387894d3bd4cdc54
+NRL,20250316,Canterbury Bulldogs,Gold Coast Titans,40,24,Completed,cc2ea04a74a89f303231b3cd78f775cb
+Primera División - Argentina,20250316,Independiente,Racing Club,1,1,Completed,4eca35bc4390ea50fe927afa752a1929
+Primera División - Argentina,20250316,Boca Juniors,Defensa y Justicia,4,0,Completed,7c73ce482e3e3ead6d1cdf3c6edfd05f
+Primera División - Argentina,20250316,Belgrano de Cordoba,Barracas Central,1,1,Completed,2c71e6038b1e408e09f8060ee0dd19aa
+Primera División - Argentina,20250316,Lanus,Instituto de Córdoba,4,1,Completed,636b309066f2689d2a6e097c8baf3888
+A-League,20250316,Auckland FC,Central Coast Mariners,2,2,Completed,66db0bba769e3c9de52180fd86ed8270
+A-League,20250316,Newcastle Jets FC,Western United FC,2,6,Completed,8e138d2d607279bf276867d721634e6d
+A-League,20250316,Sydney FC,Wellington Phoenix FC,1,1,Completed,ac104c7d71681e3abfd38620a5292fea
+Austrian Football Bundesliga,20250316,Austria Klagenfurt,Rheindorf Altach,2,2,Completed,fd65943d4e56c272fdc3f04fb78b7170
+Austrian Football Bundesliga,20250316,WSG Tirol,Austria Wien,0,2,Completed,b5435cff896f529ba440b94372b3c89d
+Austrian Football Bundesliga,20250316,FC Blau-Weiß Linz,Hartberg,4,1,Completed,b9e1b42f13f1f672d07895253d690627
+Austrian Football Bundesliga,20250316,Rapid Wien,Grazer AK,3,0,Completed,91c1f614215b4fd8c43c06bfbe6ab635
+Austrian Football Bundesliga,20250316,RB Salzburg,Wolfsberger AC,1,0,Completed,d4245c445ff3d521962b7a8584f4ced2
+Austrian Football Bundesliga,20250316,Sturm Graz,LASK,4,2,Completed,7dc33ce8815ecb8e6df5d546c2c504b3
+Belgium First Div,20250316,Standard Liege,Royal Antwerp,0,0,Completed,5dc716a143d6a85cb21384a9c33c5865
+Belgium First Div,20250316,Anderlecht,Cercle Brugge KSV,3,0,Completed,cfe01c5ba65d45040a0f353b58464d1e
+Belgium First Div,20250316,Beerschot Wilrijk,Westerlo,1,2,Completed,69f927d2dbff2ba7e350b206a503f435
+Belgium First Div,20250316,Club Brugge,Charleroi,4,2,Completed,dba3418a50b84fcb22ec225f63d4520d
+Belgium First Div,20250316,KV Mechelen,Dender,2,1,Completed,b30711335e68d089fe99010e7e2054e9
+Belgium First Div,20250316,Gent,KV Kortrijk,1,2,Completed,34a99df0455f98dadba964eeca7238ff
+Belgium First Div,20250316,Leuven,Sint Truiden,3,2,Completed,cb63f624af6bb6d2645801369371d646
+Denmark Superliga,20250316,Vejle Boldklub,AGF Aarhus,3,2,Completed,c27a03986623413bbf984f74d833a6cd
+Denmark Superliga,20250316,SonderjyskE,AaB,0,3,Completed,ca960cd94cd1b6c20dc3da6380973194
+Denmark Superliga,20250316,Brondby IF,Silkeborg IF,2,2,Completed,e47b1205b1c9169ed27e7b6be453967e
+Denmark Superliga,20250316,Viborg FF,FC Copenhagen,3,2,Completed,950d217790ce957a0e8ff948cfd9dbcf
+Denmark Superliga,20250316,FC Midtjylland,Randers FC,4,2,Completed,8d7cfaf98385b87df1e9bce8f8d9ca26
+Denmark Superliga,20250316,Lyngby,FC Nordsjaelland,1,0,Completed,14b87deb8dd8ebdf374048472c3cb67e
+Championship,20250316,Sheffield Wednesday,Sheffield United,0,1,Completed,8f418741b14c045944036bb43db8ea0e
+EFL Cup,20250316,Liverpool,Newcastle United,1,2,Completed,5fe12baa4da1bbc38937ac468488ec87
+EPL,20250316,Arsenal,Chelsea,1,0,Completed,d86e00f7febeb44667711f90ce301ec2
+EPL,20250316,Fulham,Tottenham Hotspur,2,0,Completed,01c1b188470ec92eeb8e88a989ef1b1a
+EPL,20250316,Leicester City,Manchester United,0,3,Completed,26f001bc7f494e5ea72b7010ff19587d
+Ligue 1 - France,20250316,Lyon,Le Havre,4,2,Completed,3ec4e3cf8bbd9206d456e7466dc77a7b
+Ligue 1 - France,20250316,Brest,Stade de Reims,0,0,Completed,8209e3db3b4563bba29c4042468a2170
+Ligue 1 - France,20250316,Montpellier,Saint Etienne,,,Unknown,00fe462326c78dac442088bebf2d3550
+Ligue 1 - France,20250316,Strasbourg,Toulouse,2,1,Completed,00c8fe4b9d37747922246b877ac87f11
+Ligue 1 - France,20250316,Paris Saint Germain,Marseille,3,1,Completed,9e767b6b6bd5f0fe7fe3b4d2b5bfab8a
+Bundesliga - Germany,20250316,VfL Bochum,Eintracht Frankfurt,1,3,Completed,50765079857d6e1a34dcb11f08098ef3
+Bundesliga - Germany,20250316,1. FC Heidenheim,Holstein Kiel,3,1,Completed,22ffbcbc683d032e8384bcc84e0f12df
+Bundesliga - Germany,20250316,VfB Stuttgart,Bayer Leverkusen,3,4,Completed,5b6b8d4e019cdc85f941ab9e34f666b4
+Bundesliga 2 - Germany,20250316,1. FC Nürnberg,Greuther Fürth,3,0,Completed,4db659743918988ceeb052e64cb0ded9
+Bundesliga 2 - Germany,20250316,Eintracht Braunschweig,Hertha Berlin,1,5,Completed,0ae439874af17270d8c6b8834f6af9dc
+Bundesliga 2 - Germany,20250316,Karlsruher SC,SSV Ulm 1846,0,0,Completed,7036b5a1f0486c2ba11a53bdb040ea56
+3. Liga - Germany,20250316,SV Sandhausen,FC Energie Cottbus,0,1,Completed,c5c6cd335175d5b19d03193a7d9d5d7e
+3. Liga - Germany,20250316,Erzgebirge Aue,Waldhof Mannheim,0,1,Completed,50882072e7347eca0ae94e2bba657f3a
+3. Liga - Germany,20250316,Alemannia Aachen,Hansa Rostock,2,1,Completed,0d5941fe4221b6c489dc69b088f16773
+Serie A - Italy,20250316,Venezia,Napoli,0,0,Completed,5b61651e676f0532e38e893c197c187c
+Serie A - Italy,20250316,Bologna,Lazio,5,0,Completed,6fd6e5e5582b9055ad821d8577f53dd8
+Serie A - Italy,20250316,AS Roma,Cagliari,1,0,Completed,6de412c5f7567b0184bf3b4c3f00afb3
+Serie A - Italy,20250316,Fiorentina,Juventus,3,0,Completed,4d5e9aadc5ee0c52e7cc5b1f677354cb
+Serie A - Italy,20250316,Atalanta BC,Inter Milan,0,2,Completed,5660c860419ce561c31c72a70590a56f
+Serie B - Italy,20250316,Südtirol,Carrarese,2,2,Completed,166532cf5b9725e129c283fa5a40dc56
+Serie B - Italy,20250316,Reggiana,Sampdoria,2,2,Completed,a9e79cfd7a71e6c40d606ab06f465096
+Serie B - Italy,20250316,Pisa,Mantova,3,1,Completed,db61d7190aa9d199e67921bdda5a7016
+Serie B - Italy,20250316,US Catanzaro 1929,Cosenza,4,0,Completed,dc49db2f641109c4ffb45edec8ae4a65
+Liga MX,20250316,Pumas,Monterrey,1,3,Completed,3413b23abb576cb0bd078f247ad31836
+Liga MX,20250316,Pachuca,Tijuana,,,Unknown,4d2eb77d0093d9b8db176606b8b5141f
