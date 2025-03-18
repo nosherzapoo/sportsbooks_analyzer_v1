@@ -56,7 +56,7 @@ jobs:
           password: ${{env.MAIL_PASSWORD}}
           subject: Daily Betting Analysis - ${{ env.date }}
           body: Please find attached the betting analysis report for ${{ env.date }}
-          attachments: ./data/sportsbook_performance_20250317.csv
+          attachments: ./data/sportsbook_performance_${{ env.date }}.csv
           to: ${{secrets.RECIPIENT_EMAIL}}, ${{secrets.RECIPIENT_EMAIL_2}}, ${{secrets.RECIPIENT_EMAIL_3}}
           from: GitHub Actions
 
