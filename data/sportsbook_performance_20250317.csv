@@ -1,15 +1,15 @@
 Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
-FanDuel,4,28.57,10,71.43,2
-Bovada,7,38.89,11,61.11,2
-DraftKings,7,38.89,11,61.11,2
-BetMGM,7,38.89,11,61.11,2
+FanDuel,5,33.33,10,66.67,1
+Bovada,8,42.11,11,57.89,1
+DraftKings,8,42.11,11,57.89,1
+BetMGM,8,42.11,11,57.89,1
 BetUS,3,50.0,3,50.0,0
 BetOnline.ag,6,60.0,4,40.0,0
 LowVig.ag,6,60.0,4,40.0,0
-Fanatics,3,23.08,10,76.92,2
-MyBookie.ag,3,23.08,10,76.92,2
-BetRivers,6,35.29,11,64.71,2
-Caesars,2,16.67,10,83.33,2
+Fanatics,4,28.57,10,71.43,1
+MyBookie.ag,4,28.57,10,71.43,1
+BetRivers,7,38.89,11,61.11,1
+Caesars,3,23.08,10,76.92,1
 
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
 La Liga 2 - Spain,20250317.0,CD Castellón,Deportivo La Coruña,2.0,2.0,Completed,2803d209f1ea19731a3682ee6cf99f49,2025-03-17 15:30:00,2.2,3.1,FanDuel,2025-03-16 23:33:54
@@ -19,14 +19,14 @@ La Liga 2 - Spain,20250317.0,CD Castellón,Deportivo La Coruña,2.0,2.0,Complete
 La Liga 2 - Spain,20250317.0,CD Castellón,Deportivo La Coruña,2.0,2.0,Completed,2803d209f1ea19731a3682ee6cf99f49,2025-03-17 15:30:00,2.3,3.0,BetUS,2025-03-16 23:33:54
 La Liga 2 - Spain,20250317.0,CD Castellón,Deportivo La Coruña,2.0,2.0,Completed,2803d209f1ea19731a3682ee6cf99f49,2025-03-17 15:30:00,2.26,2.91,BetOnline.ag,2025-03-16 23:33:54
 La Liga 2 - Spain,20250317.0,CD Castellón,Deportivo La Coruña,2.0,2.0,Completed,2803d209f1ea19731a3682ee6cf99f49,2025-03-17 15:30:00,2.26,2.91,LowVig.ag,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.7,DraftKings,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.5,2.65,Fanatics,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.49,2.65,MyBookie.ag,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.72,FanDuel,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.513,2.65,Bovada,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.476,2.7,BetMGM,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.5,2.63,BetRivers,2025-03-16 23:33:54
-NBA,20250317.0,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.7,Caesars,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.7,DraftKings,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.5,2.65,Fanatics,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.49,2.65,MyBookie.ag,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.72,FanDuel,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.513,2.65,Bovada,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.476,2.7,BetMGM,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.5,2.63,BetRivers,2025-03-16 23:33:54
+NBA,20250317.0,Golden State Warriors,Denver Nuggets,105.0,114.0,Completed,07aec6a545be9cff5de723ea38b3ced2,2025-03-17 22:10:00,1.488,2.7,Caesars,2025-03-16 23:33:54
 NBA,20250317.0,Houston Rockets,Philadelphia 76ers,144.0,137.0,Completed,f1a23120c8d81acc7502fa8175c96831,2025-03-17 20:10:00,1.095,7.75,DraftKings,2025-03-16 23:33:54
 NBA,20250317.0,Houston Rockets,Philadelphia 76ers,144.0,137.0,Completed,f1a23120c8d81acc7502fa8175c96831,2025-03-17 20:10:00,1.091,8.0,Fanatics,2025-03-16 23:33:54
 NBA,20250317.0,Houston Rockets,Philadelphia 76ers,144.0,137.0,Completed,f1a23120c8d81acc7502fa8175c96831,2025-03-17 20:10:00,1.09,7.46,MyBookie.ag,2025-03-16 23:33:54
