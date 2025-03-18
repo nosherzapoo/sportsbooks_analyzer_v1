@@ -1,0 +1,21 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250317,New York Knicks,Miami Heat,116,95,Completed,2ac1a00ab74372966e61ee167c0a4bfa
+NBA,20250317,New Orleans Pelicans,Detroit Pistons,81,127,Completed,325d2e2cb265a16f7df29f9230ef354e
+NBA,20250317,Houston Rockets,Philadelphia 76ers,144,137,Completed,f1a23120c8d81acc7502fa8175c96831
+NBA,20250317,Minnesota Timberwolves,Indiana Pacers,130,132,Completed,26d1646339ba804c945c590424892b60
+NBA,20250317,Utah Jazz,Chicago Bulls,97,111,Completed,c8e48d7416330d26f21c70e65a8571ee
+NBA,20250317,Phoenix Suns,Toronto Raptors,129,89,Completed,492d823276e68df2ee7bc99b63ba53ef
+NBA,20250317,Sacramento Kings,Memphis Grizzlies,132,122,Completed,700c08527b218b9f3c136a932b1d2f6d
+NBA,20250317,Golden State Warriors,Denver Nuggets,,,Unknown,07aec6a545be9cff5de723ea38b3ced2
+NBA,20250317,Portland Trail Blazers,Washington Wizards,112,97,Completed,947d4ba93946bd99ff956efbb79424d7
+NBA,20250317,Los Angeles Lakers,San Antonio Spurs,,,Unknown,9fa93ff7802af1188f0cfe7214d6a40a
+NHL,20250317,Columbus Blue Jackets,New Jersey Devils,1,2,Completed,e0c1573335e2f35ae53675cf741f1590
+NHL,20250317,Boston Bruins,Buffalo Sabres,2,3,Completed,e822e56bc33f6b00c83b220e38f0435a
+NHL,20250317,Tampa Bay Lightning,Philadelphia Flyers,2,0,Completed,653bc3752ed248cfe0db1d96dabaec3d
+NHL,20250317,Toronto Maple Leafs,Calgary Flames,6,2,Completed,2492c3a761f8275a0719fec80da109c2
+NHL,20250317,Minnesota Wild,Los Angeles Kings,3,1,Completed,e8d97157c87c9ca3acd3d12ecb190cda
+Primera División - Argentina,20250317,Union Santa Fe,Banfield,3,1,Completed,d3d3b7d71de2aadef1ed8478c3f7af84
+Primera División - Argentina,20250317,CA Tigre BA,Central Córdoba,1,2,Completed,70a6f312f65d8354225078d9432620c8
+Primera División - Argentina,20250317,Atlético Tucuman,Velez Sarsfield BA,1,2,Completed,7af7efad8f00dcdff54ac5252871476b
+Primera División - Argentina,20250317,San Martin de San Juan,Platense,0,2,Completed,2d41405dff4cbe33e38702ab3d54a7c9
+La Liga 2 - Spain,20250317,CD Castellón,Deportivo La Coruña,2,2,Completed,2803d209f1ea19731a3682ee6cf99f49
