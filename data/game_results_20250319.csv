@@ -1,0 +1,25 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250319,Indiana Pacers,Dallas Mavericks,135,131,Completed,b0f62486967f67ea2533ab5cd800daf6
+NBA,20250319,Orlando Magic,Houston Rockets,108,116,Completed,3a2f0645841b6624b33e936006196323
+NBA,20250319,Miami Heat,Detroit Pistons,113,116,Completed,6d357b257c0db2782eb3c3b565bc2af1
+NBA,20250319,Minnesota Timberwolves,New Orleans Pelicans,115,119,Completed,683d436c23df509fea2170f2016f576c
+NBA,20250319,San Antonio Spurs,New York Knicks,120,105,Completed,697a9660d48019f975dab2c5e3eda450
+NBA,20250319,Oklahoma City Thunder,Philadelphia 76ers,133,100,Completed,16d1df622fcb75e4a81fc7dcbba853d9
+NBA,20250319,Utah Jazz,Washington Wizards,128,112,Completed,792a745a14ea50ac11b22034265ba128
+NBA,20250319,Phoenix Suns,Chicago Bulls,,,Unknown,4298b4b0e3eb435a61815894c7e07d67
+NBA,20250319,Sacramento Kings,Cleveland Cavaliers,,,Unknown,724642163dcb1f79026392b3936ae218
+NBA,20250319,Portland Trail Blazers,Memphis Grizzlies,,,Unknown,6e4ab2db233003e7d6aa6ace267712d9
+NBA,20250319,Los Angeles Lakers,Denver Nuggets,,,Unknown,e83db443c389591f9632a1560b2fe44f
+NCAAB,20250319,American Eagles,Mt. St. Mary's Mountaineers,72,83,Completed,bf4d099ab2609bba145ccfc1b8f20243
+NCAAB,20250319,Saint Joseph's Hawks,UAB Blazers,65,69,Completed,d7d3dbceee6579a0264134352f255e6a
+NCAAB,20250319,George Mason Patriots,Samford Bulldogs,86,69,Completed,9a5e83bbf30f5d8566067f76494329b9
+NCAAB,20250319,North Texas Mean Green,Furman Paladins,75,64,Completed,11fb0a27e2b72daf461293c277aa263e
+NCAAB,20250319,Bradley Braves,North Alabama Lions,71,62,Completed,efc47f71b852763cb9f2275ea6a706be
+NCAAB,20250319,SMU Mustangs,Northern Iowa Panthers,73,63,Completed,6839e4974eacac46af04f2a567df6ceb
+NCAAB,20250319,Texas Longhorns,Xavier Musketeers,80,86,Completed,4dadf71b90498184a795ada97a9f733f
+NCAAB,20250319,UC Irvine Anteaters,N Colorado Bears,,,Unknown,f4610bd9312db4b227291c57461ec47c
+NCAAB,20250319,San José St Spartans,Loyola (Chi) Ramblers,,,Unknown,ab09f3b4306c9a7f76b89eec966d0dc0
+NCAAB,20250319,San Francisco Dons,Utah Valley Wolverines,,,Unknown,406a4630f9ae9a550dace625b4854fce
+NHL,20250319,Toronto Maple Leafs,Colorado Avalanche,2,1,Completed,16ed5bd30963a6ded561b93d1a09b1f1
+NHL,20250319,Minnesota Wild,Seattle Kraken,,,Unknown,80528e3ac6eb40c990e6231ffe15f115
+SHL,20250319,HV71,Modo Hockey,,,Unknown,0e6b4d16657f95768a4ced30e49eb63c
