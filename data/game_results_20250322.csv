@@ -1,0 +1,58 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250322,Port Adelaide Power,Richmond Tigers,140,68,Completed,d8306cebc4591da01cf6dbbec8dbf534
+AFL,20250322,St Kilda Saints,Geelong Cats,98,91,Completed,380bff52951523582e03c5c659c21b7d
+AFL,20250322,Brisbane Lions,West Coast Eagles,,,Unknown,f696793120a6d6c6359c7c68451f7068
+NBA,20250322,Indiana Pacers,Brooklyn Nets,108,103,Completed,75ddda15d53676b7c81f9beb7241ecb2
+NBA,20250322,Atlanta Hawks,Golden State Warriors,124,115,Completed,5b825671615ce28e719e8f99a2d0ba20
+NBA,20250322,New York Knicks,Washington Wizards,122,103,Completed,7332ecff132c0766afafdd01c5ad2d02
+NBA,20250322,Sacramento Kings,Milwaukee Bucks,,,Unknown,d3f0a7b40bf49f5772782507472c5e35
+NBA,20250322,Los Angeles Lakers,Chicago Bulls,,,Unknown,b9c30f60c21bee7b9f52488c851a4e37
+NBL,20250322,Illawarra Hawks,Melbourne United,,,Unknown,599e16a3641b31e61eb67c2b29ed42ee
+NCAAB,20250322,Chattanooga Mocs,Dayton Flyers,87,72,Completed,f67cd7b78221e4a304ae4b592cb49e1e
+NCAAB,20250322,Purdue Boilermakers,McNeese Cowboys,76,62,Completed,825fa25a56a1aa66b165cd490a14ebf1
+NCAAB,20250322,George Mason Patriots,Bradley Braves,67,75,Completed,c03c1bd1d2a865779bde35e81a4636c1
+NCAAB,20250322,St. John's Red Storm,Arkansas Razorbacks,66,75,Completed,8b182b848c33a27cedf6c0aaffe83d58
+NCAAB,20250322,Texas A&M Aggies,Michigan Wolverines,79,91,Completed,d14317ca457e89020f70e6626287772d
+NCAAB,20250322,Texas Tech Red Raiders,Drake Bulldogs,77,64,Completed,1ce48129cc34e00e76482ed78be4b820
+NCAAB,20250322,Auburn Tigers,Creighton Bluejays,82,70,Completed,368a2a41d5755a2105d864570b332d20
+NCAAB,20250322,Wisconsin Badgers,BYU Cougars,89,91,Completed,e9588a5ac96d554bb82f408b998e0617
+NCAAB,20250322,Houston Cougars,Gonzaga Bulldogs,81,76,Completed,cee48e2a2178b941b7812630706a9f78
+NCAAB,20250322,Tennessee Volunteers,UCLA Bruins,,,Unknown,5646efe9a934b4789e8ef316a1de1ac8
+NHL,20250322,New York Rangers,Vancouver Canucks,5,3,Completed,4c86dfe938a210b6e4db314644ed69c5
+NHL,20250322,Dallas Stars,Philadelphia Flyers,3,2,Completed,8928bb666ee1725d630a74e3b9275e9a
+NHL,20250322,Minnesota Wild,Buffalo Sabres,4,1,Completed,92455b7a5edbeaf3dc0dadaf9656acee
+NHL,20250322,St Louis Blues,Chicago Blackhawks,4,1,Completed,b470892213eff6289bab1518e7cb6295
+NHL,20250322,New York Islanders,Calgary Flames,3,4,Completed,68cda098bf4c3c402e77ff73103ddd0d
+NHL,20250322,Los Angeles Kings,Carolina Hurricanes,7,2,Completed,ceb21a3f990705dbac1ef2527405158e
+NHL,20250322,Utah Hockey Club,Tampa Bay Lightning,6,4,Completed,bb8380ba257cd4d6ecde2cd12e49e07a
+NHL,20250322,Washington Capitals,Florida Panthers,6,3,Completed,b7304f240885d52fe0a5de4e98d2bab7
+NHL,20250322,Montréal Canadiens,Colorado Avalanche,4,5,Completed,964c0e00df3a82f3af839fa7bdcb5f3a
+NHL,20250322,New Jersey Devils,Ottawa Senators,2,3,Completed,3c6cf214d6081f7a1ae7271e7ce50c15
+NHL,20250322,Nashville Predators,Toronto Maple Leafs,5,2,Completed,16df063fda869e6cff9226eba4794550
+NHL,20250322,Vegas Golden Knights,Detroit Red Wings,6,3,Completed,2c972fe3e18a4943cd6812a428b4f99e
+NHL,20250322,Edmonton Oilers,Seattle Kraken,,,Unknown,add06f84a38dcb31f112dcac005fe48f
+NHL,20250322,San Jose Sharks,Boston Bruins,,,Unknown,5b7b7fcbbbd7f6e75651deeca6832c56
+NRL,20250322,Cronulla Sutherland Sharks,South Sydney Rabbitohs,27,12,Completed,e87afe7fb2bf7d4a0e0a4bff76c6b367
+NRL,20250322,Dolphins,Wests Tigers,18,30,Completed,8841cc656866b4d6fb2f77499ad53ab9
+NRL,20250322,Gold Coast Titans,Newcastle Knights,26,6,Completed,48a58167d5c2cc055c4565f19a5c32e6
+League 1,20250322,Barnsley,Cambridge United,1,1,Completed,a958c39677b991736ae166622cdc9c34
+League 1,20250322,Northampton Town,Blackpool,0,2,Completed,28ad1af42d45030bf30fdb4fa5842fd6
+League 1,20250322,Crawley Town,Bristol Rovers,1,0,Completed,629d28932bcf7a90427c894fedf72da0
+League 1,20250322,Peterborough United,Charlton Athletic,3,0,Completed,af288cd7297f1d09b6f3376b8680c06d
+League 1,20250322,Lincoln City,Exeter City,0,0,Completed,f7f6fdb0306342465dffa0111b4840c6
+League 1,20250322,Wrexham AFC,Stockport County FC,1,0,Completed,d40ab2de64f2fe7c24c27eb1c72b9a61
+League 2,20250322,Notts County,Crewe Alexandra,0,0,Completed,ba4af2ca98fb673939b672e936ce88a3
+League 2,20250322,Fleetwood Town,Tranmere Rovers,0,0,Completed,bf738ac6c4dfac9bdd3dcde74b9d8ac7
+League 2,20250322,Swindon Town,Accrington Stanley,0,0,Completed,83b07d9e3460cf39d576ae70148f1cd1
+League 2,20250322,Wimbledon,Barrow,2,2,Completed,c0d3657df65b997683fb9f51344dcd54
+League 2,20250322,Bradford City,Colchester United,4,1,Completed,59ef5b8640da3bdf71e7db8294bbca8d
+League 2,20250322,Carlisle United,Bromley FC,2,1,Completed,db6c68cda31d8673db4c069a2b8727f1
+League 2,20250322,Cheltenham Town,Milton Keynes Dons,0,1,Completed,03a9555b8e56798e581237466a8a890d
+League 2,20250322,Chesterfield FC,Harrogate Town,0,0,Completed,2db3dfc9f3a90593df3312733672a80b
+League 2,20250322,Gillingham,Walsall,0,0,Completed,a6c461a40df7518e6915a6f31b8006cb
+League 2,20250322,Port Vale,Morecambe,1,0,Completed,48cb3ca11c35b322391c26bde0edd9c4
+League 2,20250322,Grimsby Town,Newport County,1,0,Completed,a348c5c890de5152cc650aecc66fc416
+La Liga 2 - Spain,20250322,Elche,CD Eldense,2,0,Completed,c373e2e3c2f32c150b13621c216475b3
+La Liga 2 - Spain,20250322,CD Mirandés,Real Racing Club de Santander,2,1,Completed,214243803dc00cb6c393965f5ce2924a
+La Liga 2 - Spain,20250322,Málaga,Racing de Ferrol,2,0,Completed,20522b2998c2ee7ee45378fb26a6c5d7
+La Liga 2 - Spain,20250322,Granada CF,Oviedo,1,0,Completed,e99a5abb5b3dbec1169fcc09961cdebf
