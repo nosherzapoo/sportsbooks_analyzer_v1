@@ -1,0 +1,44 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250323,North Melbourne Kangaroos,Melbourne Demons,125,66,Completed,3af8e18e456813299649614811f451a7
+AFL,20250323,Fremantle Dockers,Sydney Swans,65,68,Completed,501d858deb3977b5c87bb052b5a39c2a
+NBA,20250323,Detroit Pistons,New Orleans Pelicans,136,130,Completed,067f8561e157513e281e6424b1f041a5
+NBA,20250323,Utah Jazz,Cleveland Cavaliers,91,120,Completed,5de0ba0b83bab484811d2771e65c6b9f
+NBA,20250323,Atlanta Hawks,Philadelphia 76ers,132,119,Completed,28fc35addb5597f1ce287acaf675235d
+NBA,20250323,Toronto Raptors,San Antonio Spurs,89,123,Completed,1d97c65586a1e5bb9e38d6a1d817382d
+NBA,20250323,Portland Trail Blazers,Boston Celtics,116,129,Completed,72816b64432724a07be89b42ba3f55e3
+NBA,20250323,Miami Heat,Charlotte Hornets,122,105,Completed,12ad70923da04ecc2c0447046bf77150
+NBA,20250323,Houston Rockets,Denver Nuggets,111,116,Completed,2e6bac18dfa5f420e7ea8df3fbb4ad51
+NBA,20250323,Los Angeles Clippers,Oklahoma City Thunder,101,103,Completed,5e21e42ec3b97ef29e11b25bb7c2829f
+NCAAB,20250323,Incarnate Word Cardinals,Manhattan Jaspers,92,85,Completed,e16fe8b1ca641ea3298b6545a4fe3a42
+NCAAB,20250323,Florida Gators,UConn Huskies,77,75,Completed,69ecfeb6b0888693b159705f293df2ad
+NCAAB,20250323,Army Knights,Elon Phoenix,83,78,Completed,5cef2548e536f5ded2054bfafb6cd474
+NCAAB,20250323,SMU Mustangs,Oklahoma St Cowboys,83,85,Completed,46cae74fe9dfe6534ce3b8e2e16d7bad
+NCAAB,20250323,Duke Blue Devils,Baylor Bears,89,66,Completed,b75750d59ddcfbb4336e94f338845475
+NCAAB,20250323,Northern Arizona Lumberjacks,Queens University Royals,78,85,Completed,964a6819f1e76affac8d84e752af1e22
+NCAAB,20250323,Kentucky Wildcats,Illinois Fighting Illini,84,75,Completed,3d504515d84cb0e5a328ac58738cae72
+NCAAB,20250323,Alabama Crimson Tide,Saint Mary's Gaels,80,66,Completed,46ca3846ce37b35f8ae75f7f0b4bf8b9
+NCAAB,20250323,Presbyterian Blue Hose,Illinois St Redbirds,70,78,Completed,e4948c1205b75d22ffcea048bcd5f2eb
+NCAAB,20250323,North Texas Mean Green,Arkansas St Red Wolves,65,63,Completed,50cb0a204080e8f17fc8e6be584f292d
+NCAAB,20250323,San Francisco Dons,Loyola (Chi) Ramblers,76,77,Completed,6bfdecccbe44605a301f94bf1a8eae7b
+NCAAB,20250323,Maryland Terrapins,Colorado St Rams,72,71,Completed,00faf9516d9078795fcaec996f0df7cd
+NCAAB,20250323,Iowa State Cyclones,Ole Miss Rebels,78,91,Completed,a71f8daaafdce681459d935969956a28
+NCAAB,20250323,Michigan St Spartans,New Mexico Lobos,71,63,Completed,4048bccb73acfe63c0f07f32c4415b3f
+NCAAB,20250323,UC Irvine Anteaters,Jacksonville St Gamecocks,66,61,Completed,8a186aab135bff3b9d4355393cf13428
+NCAAB,20250323,Stanford Cardinal,Kent State Golden Flashes,75,77,Completed,d86e2d4de6a1df79800af4160da833c0
+NCAAB,20250323,Santa Clara Broncos,UAB Blazers,84,88,Completed,bfbcde98ca70124a8940dab6be68ce22
+NCAAB,20250323,Arizona Wildcats,Oregon Ducks,,,Unknown,02ca14d5221e805e2a2c451907cb000c
+WNCAAB,20250323,UCLA Bruins,Richmond Spiders,,,Unknown,6ff22c8248c252cee7df731a13effc9f
+NHL,20250323,Winnipeg Jets,Buffalo Sabres,3,5,Completed,6157dce9782836060e4447f81b7e8674
+NHL,20250323,Chicago Blackhawks,Philadelphia Flyers,7,4,Completed,1301a0a691e25c8271cd53361c0ecd1d
+NHL,20250323,Florida Panthers,Pittsburgh Penguins,4,3,Completed,2213fb10f1f7747dd547ce49c3f8e736
+NHL,20250323,St Louis Blues,Nashville Predators,4,1,Completed,5a05f4767af001a4fd40e49ac3c89205
+NHL,20250323,Anaheim Ducks,Carolina Hurricanes,2,5,Completed,e966501f7888bd99fde71c9734b2405e
+NHL,20250323,Vegas Golden Knights,Tampa Bay Lightning,4,2,Completed,b41654c9f18219736912ff8c6ea401c0
+NHL,20250323,Los Angeles Kings,Boston Bruins,7,2,Completed,4a7e785cd87979c805dc101999b31248
+NRL,20250323,Parramatta Eels,Canterbury Bulldogs,8,16,Completed,658e5097a91518b1720496ea8c1c6989
+NRL,20250323,Manly Warringah Sea Eagles,Canberra Raiders,40,12,Completed,f8ec23ce7cfc75ca4ac9f5ce1e9c474f
+La Liga 2 - Spain,20250323,Levante,CD Castellón,3,2,Completed,11096c013c57c15bade52283eaae6894
+La Liga 2 - Spain,20250323,Sporting Gijón,Albacete,0,2,Completed,6c38df8a867176bce96d24f64f6bc91a
+La Liga 2 - Spain,20250323,SD Eibar,SD Huesca,2,1,Completed,e266038149869d3e38f5b569ac221e4a
+La Liga 2 - Spain,20250323,Tenerife,Cádiz CF,2,1,Completed,2d71d53f6840507452ad23f9568375a1
+La Liga 2 - Spain,20250323,Deportivo La Coruña,FC Cartagena,2,2,Completed,1adaf1dac2ee86b05311121fbb42fdc6
