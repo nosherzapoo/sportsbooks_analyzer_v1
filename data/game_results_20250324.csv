@@ -1,0 +1,17 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250324,Indiana Pacers,Minnesota Timberwolves,119,103,Completed,de8f8130c02424ceedda00c0bcd314c2
+NBA,20250324,Orlando Magic,Los Angeles Lakers,118,106,Completed,3438c5ff8949b9bdaefb3e811c46d073
+NBA,20250324,Washington Wizards,Toronto Raptors,104,112,Completed,16fa2274edee43de31182f5603f9ed87
+NBA,20250324,Brooklyn Nets,Dallas Mavericks,101,120,Completed,f5b6f06f53cc82b2f791424c459f6e64
+NBA,20250324,New Orleans Pelicans,Philadelphia 76ers,112,99,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61
+NBA,20250324,Denver Nuggets,Chicago Bulls,119,129,Completed,ae2f21668da22e0ed9d1564b5d15507f
+NBA,20250324,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4
+NBA,20250324,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b
+WNCAAB,20250324,USC Trojans,Mississippi St Bulldogs,,,Unknown,5b8b4ceb613b3e02c90e7b5eacc55b90
+NHL,20250324,New York Islanders,Columbus Blue Jackets,3,4,Completed,820603027645f1451e1a1b1990611256
+NHL,20250324,New Jersey Devils,Vancouver Canucks,3,4,Completed,35890e5813a1fc2f1a11d47e3b5d8d00
+NHL,20250324,Dallas Stars,Minnesota Wild,3,0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b
+NHL,20250324,Utah Hockey Club,Detroit Red Wings,1,5,Completed,3594b17349ede78105c30614f602cb76
+SHL,20250324,Malmö Redhawks,Brynäs IF,,,Unknown,a6017c7825ff40ae8e42d69143230e8e
+SHL,20250324,Växjö Lakers,Luleå HF,,,Unknown,16577e097a24722a0948368d497267b4
+La Liga 2 - Spain,20250324,Zaragoza,Córdoba,1,1,Completed,f281986c6e633831bc00beb4a6a83f52

@@ -1,0 +1,166 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,6,54.55,5,45.45,2
+Bovada,5,50.0,5,50.0,4
+BetUS,4,80.0,1,20.0,0
+DraftKings,6,54.55,5,45.45,5
+BetMGM,5,50.0,5,50.0,3
+BetOnline.ag,5,50.0,5,50.0,2
+LowVig.ag,5,50.0,5,50.0,2
+Fanatics,5,50.0,5,50.0,2
+MyBookie.ag,5,50.0,5,50.0,2
+BetRivers,5,50.0,5,50.0,3
+Caesars,5,50.0,5,50.0,2
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.0,3.5,FanDuel,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.1,3.45,Bovada,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.1,3.45,BetUS,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.05,3.6,DraftKings,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.0,3.4,BetMGM,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.06,3.35,BetOnline.ag,2025-03-23 23:37:09
+La Liga 2 - Spain,20250324.0,Zaragoza,Córdoba,1.0,1.0,Completed,f281986c6e633831bc00beb4a6a83f52,2025-03-24 15:30:00,2.06,3.35,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,2.0,1.833,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,2.0,1.833,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,2.0,1.82,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,2.0,1.847,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.952,1.87,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.952,1.87,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.98,1.847,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.952,1.877,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.952,1.87,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Brooklyn Nets,Dallas Mavericks,101.0,120.0,Completed,f5b6f06f53cc82b2f791424c459f6e64,2025-03-24 19:40:00,1.952,1.87,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.571,2.45,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.571,2.45,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.559,2.43,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.575,2.46,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.599,2.4,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Denver Nuggets,Chicago Bulls,119.0,129.0,Completed,ae2f21668da22e0ed9d1564b5d15507f,2025-03-24 21:10:00,1.588,2.43,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.8,2.05,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.8,2.05,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.769,2.1,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.8,2.05,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.787,2.04,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.794,2.08,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.769,2.05,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.8,2.05,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.769,2.1,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Indiana Pacers,Minnesota Timberwolves,119.0,103.0,Completed,de8f8130c02424ceedda00c0bcd314c2,2025-03-24 19:10:00,1.769,2.1,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.444,2.85,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.444,2.85,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.461,2.75,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.465,2.8,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.435,2.88,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.455,2.8,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.408,3.05,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.444,2.85,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.465,2.85,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,New Orleans Pelicans,Philadelphia 76ers,112.0,99.0,Completed,1c812f267fdcfdcc3ffe84d6a3d9df61,2025-03-24 20:10:00,1.465,2.85,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.5,1.588,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.5,1.588,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.5,1.556,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.54,1.543,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.43,1.571,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.45,1.571,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.45,1.571,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.5,1.549,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.5,1.571,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Orlando Magic,Los Angeles Lakers,118.0,106.0,Completed,3438c5ff8949b9bdaefb3e811c46d073,2025-03-24 19:10:00,2.43,1.588,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.741,2.14,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.69,2.2,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.68,2.2,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.676,2.26,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.699,2.2,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.714,2.2,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.714,2.2,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.69,2.2,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.667,2.3,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Phoenix Suns,Milwaukee Bucks,,,Unknown,fb447cf26599d0e194242865d0ea196b,2025-03-24 22:10:00,1.69,2.22,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.36,1.617,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.4,1.588,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.3,1.629,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.34,1.633,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.28,1.658,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.35,1.625,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.35,1.625,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.4,1.606,Caesars,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.35,1.645,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Sacramento Kings,Boston Celtics,,,Unknown,402cf3aa521da85914e952cdc2c6f8b4,2025-03-24 22:10:00,2.35,1.645,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.1,1.769,DraftKings,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.1,1.769,Fanatics,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.05,1.781,MyBookie.ag,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.04,1.82,FanDuel,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.04,1.806,BetRivers,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.1,1.769,BetOnline.ag,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.1,1.769,LowVig.ag,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.1,1.741,BetMGM,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.15,1.741,Bovada,2025-03-23 23:37:09
+NBA,20250324.0,Washington Wizards,Toronto Raptors,104.0,112.0,Completed,16fa2274edee43de31182f5603f9ed87,2025-03-24 19:10:00,2.05,1.8,Caesars,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.455,2.75,BetRivers,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.444,2.84,FanDuel,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.431,2.77,MyBookie.ag,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.435,2.9,DraftKings,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.476,2.86,LowVig.ag,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.476,2.86,BetOnline.ag,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.417,2.9,Fanatics,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.426,2.9,BetMGM,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.476,2.8,BetUS,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.444,2.85,Bovada,2025-03-23 23:37:09
+NHL,20250324.0,Dallas Stars,Minnesota Wild,3.0,0.0,Completed,3bb3ec829e520ef8ddd28387c57f8a3b,2025-03-24 20:00:00,1.426,2.92,Caesars,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.645,2.25,BetRivers,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.617,2.34,FanDuel,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.613,2.27,MyBookie.ag,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.645,2.3,DraftKings,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.667,2.34,LowVig.ag,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.667,2.34,BetOnline.ag,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.625,2.3,Fanatics,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.606,2.4,BetMGM,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.667,2.29,BetUS,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.645,2.33,Bovada,2025-03-23 23:37:09
+NHL,20250324.0,New Jersey Devils,Vancouver Canucks,3.0,4.0,Completed,35890e5813a1fc2f1a11d47e3b5d8d00,2025-03-24 19:30:00,1.625,2.35,Caesars,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.676,2.23,BetRivers,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.73,2.14,FanDuel,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.68,2.15,MyBookie.ag,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.741,2.14,DraftKings,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.775,2.15,LowVig.ag,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.775,2.15,BetOnline.ag,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.69,2.2,Fanatics,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.69,2.2,BetMGM,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.769,2.1,BetUS,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.704,2.22,Bovada,2025-03-23 23:37:09
+NHL,20250324.0,New York Islanders,Columbus Blue Jackets,3.0,4.0,Completed,820603027645f1451e1a1b1990611256,2025-03-24 19:30:00,1.714,2.18,Caesars,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.658,2.25,BetRivers,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.617,2.34,FanDuel,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.588,2.32,MyBookie.ag,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.602,2.4,DraftKings,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.625,2.42,LowVig.ag,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.625,2.42,BetOnline.ag,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.606,2.4,BetMGM,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.588,2.4,Fanatics,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.625,2.38,BetUS,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.613,2.37,Bovada,2025-03-23 23:37:09
+NHL,20250324.0,Utah Hockey Club,Detroit Red Wings,1.0,5.0,Completed,3594b17349ede78105c30614f602cb76,2025-03-24 21:00:00,1.606,2.4,Caesars,2025-03-23 23:37:09
+SHL,20250324.0,Malmö Redhawks,Brynäs IF,,,Unknown,a6017c7825ff40ae8e42d69143230e8e,2025-03-24 14:00:00,2.55,1.513,DraftKings,2025-03-23 23:37:09
+SHL,20250324.0,Malmö Redhawks,Brynäs IF,,,Unknown,a6017c7825ff40ae8e42d69143230e8e,2025-03-24 14:00:00,2.4,1.588,Bovada,2025-03-23 23:37:09
+SHL,20250324.0,Växjö Lakers,Luleå HF,,,Unknown,16577e097a24722a0948368d497267b4,2025-03-24 14:00:00,1.769,2.05,DraftKings,2025-03-23 23:37:09
+SHL,20250324.0,Växjö Lakers,Luleå HF,,,Unknown,16577e097a24722a0948368d497267b4,2025-03-24 14:00:00,1.769,2.1,Bovada,2025-03-23 23:37:09
+WNCAAB,,LSU Tigers,Florida St Seminoles,,,,,2025-03-24 18:00:00,1.174,5.25,DraftKings,2025-03-23 23:37:09
+WNCAAB,,LSU Tigers,Florida St Seminoles,,,,,2025-03-24 18:00:00,1.16,4.9,BetRivers,2025-03-23 23:37:09
+WNCAAB,,LSU Tigers,Florida St Seminoles,,,,,2025-03-24 18:00:00,1.143,6.0,BetMGM,2025-03-23 23:37:09
+WNCAAB,,Maryland Terrapins,Alabama Crimson Tide,,,,,2025-03-24 17:00:00,1.926,1.893,DraftKings,2025-03-23 23:37:09
+WNCAAB,,Maryland Terrapins,Alabama Crimson Tide,,,,,2025-03-24 17:00:00,1.893,1.855,BetRivers,2025-03-23 23:37:09
+WNCAAB,,Maryland Terrapins,Alabama Crimson Tide,,,,,2025-03-24 17:00:00,1.909,1.909,BetMGM,2025-03-23 23:37:09
+WNCAAB,,NC State Wolfpack,Michigan St Spartans,,,,,2025-03-24 12:00:00,1.37,3.2,DraftKings,2025-03-23 23:37:09
+WNCAAB,,NC State Wolfpack,Michigan St Spartans,,,,,2025-03-24 12:00:00,1.339,3.15,BetRivers,2025-03-23 23:37:09
+WNCAAB,,NC State Wolfpack,Michigan St Spartans,,,,,2025-03-24 12:00:00,1.364,3.2,BetMGM,2025-03-23 23:37:09
+WNCAAB,,North Carolina Tar Heels,West Virginia Mountaineers,,,,,2025-03-24 19:00:00,1.98,1.847,DraftKings,2025-03-23 23:37:09
+WNCAAB,,North Carolina Tar Heels,West Virginia Mountaineers,,,,,2025-03-24 19:00:00,1.926,1.826,BetRivers,2025-03-23 23:37:09
+WNCAAB,,North Carolina Tar Heels,West Virginia Mountaineers,,,,,2025-03-24 19:00:00,1.98,1.847,BetMGM,2025-03-23 23:37:09
+WNCAAB,,Oklahoma Sooners,Iowa Hawkeyes,,,,,2025-03-24 16:00:00,1.521,2.6,DraftKings,2025-03-23 23:37:09
+WNCAAB,,Oklahoma Sooners,Iowa Hawkeyes,,,,,2025-03-24 16:00:00,1.5,2.65,BetMGM,2025-03-23 23:37:09
+WNCAAB,,Oklahoma Sooners,Iowa Hawkeyes,,,,,2025-03-24 16:00:00,1.455,2.65,BetRivers,2025-03-23 23:37:09
+WNCAAB,,Texas Longhorns,Illinois Fighting Illini,,,,,2025-03-24 14:00:00,1.025,17.0,DraftKings,2025-03-23 23:37:09
+WNCAAB,,Texas Longhorns,Illinois Fighting Illini,,,,,2025-03-24 14:00:00,1.01,13.0,BetRivers,2025-03-23 23:37:09
+WNCAAB,,Texas Longhorns,Illinois Fighting Illini,,,,,2025-03-24 14:00:00,1.02,15.0,BetMGM,2025-03-23 23:37:09
+WNCAAB,20250324.0,USC Trojans,Mississippi St Bulldogs,,,Unknown,5b8b4ceb613b3e02c90e7b5eacc55b90,2025-03-24 22:00:00,1.042,13.0,DraftKings,2025-03-23 23:37:09
+WNCAAB,20250324.0,USC Trojans,Mississippi St Bulldogs,,,Unknown,5b8b4ceb613b3e02c90e7b5eacc55b90,2025-03-24 22:00:00,1.02,12.5,BetRivers,2025-03-23 23:37:09
+WNCAAB,20250324.0,USC Trojans,Mississippi St Bulldogs,,,Unknown,5b8b4ceb613b3e02c90e7b5eacc55b90,2025-03-24 22:00:00,1.033,13.0,BetMGM,2025-03-23 23:37:09
