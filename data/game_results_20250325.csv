@@ -1,0 +1,33 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+Basketball Euroleague,20250325,Fenerbahce SK,Paris Basketball,101,100,Completed,1c58e70aa4043ae543873b04cd2a5385
+Basketball Euroleague,20250325,AS Monaco,Žalgiris,96,86,Completed,7ec7f8499fb91b44168f45acf4b365e4
+Basketball Euroleague,20250325,FC Barcelona Bàsquet,FC Bayern München,101,102,Completed,64d21a95483ae60a67a54c2c318f72fd
+Basketball Euroleague,20250325,KK Partizan NIS,ALBA Berlin,85,71,Completed,407e2f43011f6fd9b71b7728d1dca613
+Basketball Euroleague,20250325,Real Madrid,Pallacanestro Olimpia Milano,96,89,Completed,1915405c77541862f020a744fddb9a85
+Basketball Euroleague,20250325,ASVEL Lyon Villeurbanne,Olympiacos,81,70,Completed,c12b05e072583e995c40df43dd892668
+NBA,20250325,Charlotte Hornets,Orlando Magic,104,111,Completed,c39fca06cd6bde50f88622a84514c31e
+NBA,20250325,Detroit Pistons,San Antonio Spurs,122,96,Completed,5823666c4647cda743363c25278be9c7
+NBA,20250325,Miami Heat,Golden State Warriors,112,86,Completed,0e1dde121b5be88b7c95e744d43c877f
+NBA,20250325,New York Knicks,Dallas Mavericks,128,113,Completed,bc1729007381bae2cba3cc229943e13a
+NBA,20250325,Houston Rockets,Atlanta Hawks,121,114,Completed,7a55ebea407d4274a2374a144c2597d2
+NBA,20250325,Utah Jazz,Memphis Grizzlies,103,140,Completed,1188c8b022ed8603fb3e4d5430ef7953
+NBA,20250325,Sacramento Kings,Oklahoma City Thunder,,,Unknown,9b5267c6f60224e74b2dd6f5cba8c361
+NBA,20250325,Portland Trail Blazers,Cleveland Cavaliers,,,Unknown,40a56a7bb3bbfb6a4d38bddfefc37a58
+NCAAB,20250325,Incarnate Word Cardinals,Illinois St Redbirds,73,78,Completed,5ee2e12fdabb110ed831c7b51bcb23d3
+NCAAB,20250325,Bradley Braves,Chattanooga Mocs,65,67,Completed,b802bb5453ef5f91fdf725602f3c6e12
+NCAAB,20250325,Oklahoma St Cowboys,North Texas Mean Green,59,61,Completed,cdb0ff5ec23f5b367b8e97dd468d471d
+NCAAB,20250325,Cleveland St Vikings,Florida Gulf Coast Eagles,72,65,Completed,273b40eee10d6e4c323b20cd7a86ae64
+NHL,20250325,Buffalo Sabres,Ottawa Senators,3,2,Completed,3e560a3c4ddc2b0f6d9801ba8d4a0756
+NHL,20250325,Toronto Maple Leafs,Philadelphia Flyers,7,2,Completed,e3958e7254d91c6f5283cfaffa1f3cdf
+NHL,20250325,Carolina Hurricanes,Nashville Predators,1,3,Completed,c5efd04a39cd712c74377f53834b6aa7
+NHL,20250325,Tampa Bay Lightning,Pittsburgh Penguins,6,1,Completed,329ef6497dcb14db5ca7c66edd87cd08
+NHL,20250325,St Louis Blues,Montréal Canadiens,6,1,Completed,1f41148360ee77450c8e8ed22abdccf8
+NHL,20250325,Minnesota Wild,Vegas Golden Knights,1,5,Completed,4a5f770c48972d7340180d6f668c3ecf
+NHL,20250325,Winnipeg Jets,Washington Capitals,3,2,Completed,00ffa81971bb6373dabbf3af9e746495
+NHL,20250325,Calgary Flames,Seattle Kraken,,,Unknown,81a1ecd880340d4dffb9be81a940bc7e
+NHL,20250325,Colorado Avalanche,Detroit Red Wings,5,2,Completed,1139939cd31b44ef9d88eaa9be75205a
+NHL,20250325,Los Angeles Kings,New York Rangers,,,Unknown,347d02f2d9431babb1fc241c46bffc86
+SHL,20250325,Timrå IK,Frölunda HC,,,Unknown,f0f91204be021de9b033709f44d39c74
+SHL,20250325,Skellefteå AIK,Färjestad BK,,,Unknown,62cf68427659434e961a72d803db4c18
+League 2,20250325,Port Vale,Barrow,0,1,Completed,d9563e2d31aac7f90d811b8eef07c45a
+League 2,20250325,Carlisle United,Milton Keynes Dons,2,2,Completed,dce9cde60d51e81c0f73d817521263c6
