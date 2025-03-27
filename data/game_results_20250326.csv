@@ -1,0 +1,16 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+Basketball Euroleague,20250326,Anadolu Efes,Saski Baskonia,92,76,Completed,a94dcb12c2d268ebff3d17ece3ce14b3
+Basketball Euroleague,20250326,KK Crvena zvezda,Virtus Segafredo Bologna,88,52,Completed,eb33cc27aaf8aac2e28839cf2f8ed607
+Basketball Euroleague,20250326,Maccabi Tel Aviv,Panathinaikos,92,99,Completed,887cfd3782eb113bfc5e4201c1c822e3
+NBA,20250326,Philadelphia 76ers,Washington Wizards,114,119,Completed,a9fe2fed5ee8f127bf88f8f4f62e766f
+NBA,20250326,Brooklyn Nets,Toronto Raptors,86,116,Completed,5c5f21ae00490e833aae3e807236468a
+NBA,20250326,New York Knicks,Los Angeles Clippers,113,126,Completed,fc12a2133288fcd54ad925311ac4b8fd
+NBA,20250326,Indiana Pacers,Los Angeles Lakers,119,120,Completed,b7ca19e207817263ada3a2ed6a7beb66
+NBA,20250326,Denver Nuggets,Milwaukee Bucks,127,117,Completed,6ce722bcf11e6beab112d2c3f9435a46
+NBA,20250326,Phoenix Suns,Boston Celtics,,,Unknown,84c1feb881abf0bf76f05655698be574
+NCAAB,20250326,Loyola (Chi) Ramblers,Kent State Golden Flashes,72,62,Completed,1444bbcd4bcf8dd354dc0055c0b730bb
+NCAAB,20250326,UC Irvine Anteaters,UAB Blazers,81,77,Completed,5b0e2adb816563b75cc400579f6e7fa3
+NHL,20250326,Chicago Blackhawks,New Jersey Devils,3,5,Completed,efec572fbf82d389e58d23eb8a315a3d
+NHL,20250326,New York Islanders,Vancouver Canucks,2,5,Completed,5b9470d201b3521a3f86fb53af337220
+NHL,20250326,Anaheim Ducks,Boston Bruins,,,Unknown,30a55c410d948bc3c182f92089351213
+NHL,20250326,Edmonton Oilers,Dallas Stars,,,Unknown,a11b19bac8088e57e49e08cd6982a56e
