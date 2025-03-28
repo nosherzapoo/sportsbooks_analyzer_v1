@@ -1,0 +1,34 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250327,Essendon Bombers,Port Adelaide Power,72,60,Completed,75efd5f4c030a4ad6d5b692400ebf90c
+Basketball Euroleague,20250327,ASVEL Lyon Villeurbanne,Žalgiris,88,79,Completed,ae47d892b3392b2f224996bf3c73f2e9
+Basketball Euroleague,20250327,Olympiacos,AS Monaco,77,80,Completed,42aaf5b98d8885da835461bc0c766fc8
+Basketball Euroleague,20250327,Pallacanestro Olimpia Milano,FC Barcelona Bàsquet,88,98,Completed,e5102327f6e8ca520d08f4dc16b4ff8c
+Basketball Euroleague,20250327,FC Bayern München,KK Partizan NIS,89,74,Completed,c4656591799bd6bf5bb4bb602fc6072b
+NBA,20250327,Cleveland Cavaliers,San Antonio Spurs,124,116,Completed,a7d6bf35d58918099f6a139a4e67908d
+NBA,20250327,Orlando Magic,Dallas Mavericks,92,101,Completed,8446d4cf597e867ed5dc8a47568c3055
+NBA,20250327,Washington Wizards,Indiana Pacers,109,162,Completed,8a323fd3d0ed756e9c480e9e96a20180
+NBA,20250327,Miami Heat,Atlanta Hawks,122,112,Completed,2184beee6d15f9165b7fd20c8fe434db
+NBA,20250327,Chicago Bulls,Los Angeles Lakers,119,117,Completed,669923b329fcd6213ac20cd22ec7f6b1
+NBA,20250327,Oklahoma City Thunder,Memphis Grizzlies,125,104,Completed,a692a905991f35fc41e78eb6298cba96
+NBA,20250327,Utah Jazz,Houston Rockets,110,121,Completed,e0a67f5695480ad68fd0e8cc099a821d
+NBA,20250327,Sacramento Kings,Portland Trail Blazers,,,Unknown,21fffc6d14f366e0e51a9708f21a103c
+NCAAB,20250327,Alabama Crimson Tide,BYU Cougars,113,88,Completed,d2de649974959c1e1ef784e7ec196513
+NCAAB,20250327,Florida Gators,Maryland Terrapins,87,71,Completed,8dc9360933bb21705bd4eace403dd38c
+NCAAB,20250327,Duke Blue Devils,Arizona Wildcats,,,Unknown,0aa88eb9f2181c4f663c87fc0d0ff7f3
+NCAAB,20250327,Texas Tech Red Raiders,Arkansas Razorbacks,,,Unknown,3518dba55584eabccc56f4fd85c74d88
+NHL,20250327,Buffalo Sabres,Pittsburgh Penguins,7,3,Completed,8f78d2ba8f3a31f542817b48700901ed
+NHL,20250327,Detroit Red Wings,Ottawa Senators,3,4,Completed,16243bf83c6b664d0a7ec2f6fb038eff
+NHL,20250327,Philadelphia Flyers,Montréal Canadiens,6,4,Completed,27d0c93a46675a5d7c9c3579729deafb
+NHL,20250327,Tampa Bay Lightning,Utah Hockey Club,8,0,Completed,23a3e1e59b3e34f39d109d553452399a
+NHL,20250327,Minnesota Wild,Washington Capitals,4,2,Completed,fcfbff50fa3dbf044134ca5e5a8da1ec
+NHL,20250327,Nashville Predators,St Louis Blues,2,3,Completed,e0bfe8735fba7e05492abfd6a948c4b1
+NHL,20250327,Calgary Flames,Dallas Stars,,,Unknown,694daa574850b52d823f1179f001cc6a
+NHL,20250327,Seattle Kraken,Edmonton Oilers,,,Unknown,dd1d5357a1ec91609c78e02c295cd5a3
+NHL,20250327,Colorado Avalanche,Los Angeles Kings,,,Unknown,a26053ec4cc4c670eca389373e164fad
+NHL,20250327,San Jose Sharks,Toronto Maple Leafs,,,Unknown,6f811bb338772f7e2165f4b3a39ed620
+NRL,20250327,South Sydney Rabbitohs,Penrith Panthers,28,18,Completed,7a39a094a1ca3871be2887d3f6e37a01
+Primera División - Argentina,20250327,Aldosivi Mar del Plata,Union Santa Fe,2,1,Completed,f6561d0406b9bc4a60795e83aeb58905
+Primera División - Argentina,20250327,Barracas Central,Estudiantes,2,1,Completed,6e649aee6ddf108bb6567b053fdb8d1b
+Primera División - Argentina,20250327,Independiente Rivadavia,Racing Club,2,1,Completed,54e623049ab583f7dee8e587dc9b7348
+League 1,20250327,Leyton Orient,Stevenage,1,0,Completed,aa7f094b4f4852ba4e054b0b7bec6f6e
+La Liga - Spain,20250327,Barcelona,CA Osasuna,3,0,Completed,002ba88bff01c863764b1b97b26bc96d
