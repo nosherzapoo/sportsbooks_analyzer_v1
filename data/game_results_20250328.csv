@@ -1,0 +1,65 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250328,Carlton Blues,Western Bulldogs,75,83,Completed,ddc242dccd6998a9626b0aabd1bae407
+AFL,20250328,Melbourne Demons,Gold Coast Suns,,,Unknown,5ef4c1000bec0ff6785ef9c7dd8a09a7
+Basketball Euroleague,20250328,Anadolu Efes,Maccabi Tel Aviv,90,88,Completed,ff0e094617368b7675ba2428b82505d0
+Basketball Euroleague,20250328,Fenerbahce SK,Saski Baskonia,82,77,Completed,6b1e8653fc1a594fe8ed6373fbb6b9aa
+Basketball Euroleague,20250328,ALBA Berlin,Virtus Segafredo Bologna,64,108,Completed,7a1d27b960234282934df7bb92bbbbab
+Basketball Euroleague,20250328,KK Crvena zvezda,Real Madrid,72,78,Completed,50dd38630ad551a097b2e96e7cc082d8
+Basketball Euroleague,20250328,Panathinaikos,Paris Basketball,98,101,Completed,d2c7e0bd8b3feed32607134ebfd0fad3
+NBA,20250328,Detroit Pistons,Cleveland Cavaliers,133,122,Completed,56b4c3525a0066028edb1cd81124df70
+NBA,20250328,Brooklyn Nets,Los Angeles Clippers,100,132,Completed,181b82a1601a1488c347abd5523ea4e6
+NBA,20250328,Toronto Raptors,Charlotte Hornets,108,97,Completed,a623fa04bb1021c2f7000a0142fada19
+NBA,20250328,New Orleans Pelicans,Golden State Warriors,95,111,Completed,32be98cad72773dcc562c1ea129be575
+NBA,20250328,Milwaukee Bucks,New York Knicks,107,116,Completed,1bb7521bcf781ff2a17194a11046f53d
+NBA,20250328,Minnesota Timberwolves,Phoenix Suns,124,109,Completed,c2cc74da28b8c5a6c28a68d87fb5fec8
+NBA,20250328,Denver Nuggets,Utah Jazz,129,93,Completed,bd7a66fff11fbdcf09b22d2883f78cdb
+NCAAB,20250328,Michigan St Spartans,Ole Miss Rebels,73,70,Completed,1610c9357067e5c049faae00157dcdfb
+NCAAB,20250328,Tennessee Volunteers,Kentucky Wildcats,78,65,Completed,ab4cdadc0d4db5105f7dd680e486eed7
+NCAAB,20250328,Auburn Tigers,Michigan Wolverines,,,Unknown,986500752268793cec5834fc32bfa450
+NCAAB,20250328,Houston Cougars,Purdue Boilermakers,,,Unknown,38bb93fe041f3d6e79516cec45cb2970
+WNCAAB,20250328,UCLA Bruins,Ole Miss Rebels,,,Unknown,05b5ff76a2899cad31df5e47f851098d
+NHL,20250328,Carolina Hurricanes,Montréal Canadiens,4,1,Completed,84e4eb52d2cbd8144f0797ae9d69e5c5
+NHL,20250328,Florida Panthers,Utah Hockey Club,2,1,Completed,e9210538012e8900193fbb6c2b851b09
+NHL,20250328,Columbus Blue Jackets,Vancouver Canucks,7,6,Completed,625d0bdfe1a2a689b9ca1c6303233c4d
+NHL,20250328,Winnipeg Jets,New Jersey Devils,4,0,Completed,a8cfc7def321a5bba2e49c7fbb91f3b3
+NHL,20250328,Chicago Blackhawks,Vegas Golden Knights,3,5,Completed,e8e7b1f2264819ed165a1e9fc8ae1831
+NHL,20250328,Anaheim Ducks,New York Rangers,,,Unknown,16b0eca49f86dbc67a375934755cdc52
+NRL,20250328,Sydney Roosters,Gold Coast Titans,12,30,Completed,52e2a8783e80a5c333e376af6fdaf2b7
+NRL,20250328,Dolphins,Brisbane Broncos,12,20,Completed,4509b8297e16414bdbea6ccd2f6ac864
+Primera División - Argentina,20250328,Defensa y Justicia,CA Tigre BA,1,2,Completed,68181f89f169dc0a8d11e3a3ad2ff1ce
+Primera División - Argentina,20250328,San Lorenzo,Lanus,1,1,Completed,e18f1fa75d1a513703e147595d808e85
+Primera División - Argentina,20250328,Banfield,Atlético Huracán,0,0,Completed,6c3bbb844ab84c83d6ee4cf940362849
+Primera División - Argentina,20250328,Platense,Atlético Tucuman,2,1,Completed,fa3c0249249293109f5fe9f4e7f25890
+Primera División - Argentina,20250328,Velez Sarsfield BA,Deportivo Riestra,0,1,Completed,251f7f823529f6303ddc050841f543c1
+A-League,20250328,Macarthur FC,Newcastle Jets FC,3,3,Completed,fc5be7b7df52110d8c587e6ab3425da3
+Austrian Football Bundesliga,20250328,Rheindorf Altach,LASK,0,2,Completed,22b0f04ed1cffc356ec1b7352acc0ab6
+Belgium First Div,20250328,Leuven,Charleroi,0,0,Completed,274a6d2c5bb0613e4c600b1e453ff440
+Denmark Superliga,20250328,AaB,Viborg FF,0,4,Completed,238153d145dd0d7d05c7e42d780d6939
+Championship,20250328,Sheffield United,Coventry City,3,1,Completed,4b7f6ca55517121b535f70de9caf1466
+League 2,20250328,Tranmere Rovers,Cheltenham Town,2,0,Completed,96ca62906b1aa91f66d65a6de7a0dfb8
+League 2,20250328,Colchester United,Grimsby Town,1,2,Completed,ceca48fd7ae833773d49a760172ebb10
+Ligue 1 - France,20250328,Strasbourg,Lyon,4,2,Completed,7796df3b0735a1f2e8fac00eed1c3921
+Ligue 2 - France,20250328,Pau FC,Annecy FC,1,0,Completed,9c4ce6c5bfe576673ef8b43b7f8667ba
+Ligue 2 - France,20250328,FC Martigues,AC Ajaccio,2,0,Completed,d148e33eeda7e32b29a96e7b0263f02d
+Ligue 2 - France,20250328,Clermont,Amiens,1,1,Completed,eb1d0004748ea9f41e5aa75eb1c263a5
+Ligue 2 - France,20250328,Metz,Troyes,2,1,Completed,531a9884c5cd1105b31cdfecad35a386
+Ligue 2 - France,20250328,Red Star,Rodez AF,1,1,Completed,27ba3439561f35a20505e0f10fb7d1ab
+Ligue 2 - France,20250328,SC Bastia,USL Dunkerque,2,0,Completed,1713b8b04e270da8d0fd931f64fd0e91
+Bundesliga - Germany,20250328,Bayer Leverkusen,VfL Bochum,3,1,Completed,deb496dd7f8ea33e6bfeab237a38bab0
+Bundesliga 2 - Germany,20250328,Hamburger SV,Elversberg,0,0,Completed,3a9886e8f0dea8fb37bdb363fa23cde3
+Bundesliga 2 - Germany,20250328,SSV Ulm 1846,SV Darmstadt 98,2,1,Completed,04961d6a5ae6f332f745fad454f1df98
+3. Liga - Germany,20250328,SC Verl,Rot-Weiss Essen,3,0,Completed,fc794f32f92efce7ac67af24498cdc12
+Serie B - Italy,20250328,Spezia,Brescia,0,1,Completed,94b35cc51ea230afd7fc48ee752bb906
+League of Ireland,20250328,Bohemians,Galway United,0,2,Completed,1f64ed18ac4fface180b327ec8445bc8
+League of Ireland,20250328,Cork City,Drogheda United,1,1,Completed,91d74c94fc16630d7225744647e89bee
+League of Ireland,20250328,Sligo Rovers,Shelbourne Dublin,1,2,Completed,b5927224552d949ff2821089a203fddb
+League of Ireland,20250328,Waterford FC,St Patricks Athletic,1,2,Completed,6f0c24dea123170d3cef000d8cf6124b
+League of Ireland,20250328,Shamrock Rovers,Derry City,0,0,Completed,50121dc39947adcbdf46b5d5be203323
+Liga MX,20250328,Necaxa,Querétaro,2,0,Completed,60e74b6a4e27fcf12067fcc068b31a87
+Liga MX,20250328,Mazatlán FC,Atlas,,,Unknown,c0bcbb256c8c4a0df8b1f376bf04944f
+Primeira Liga - Portugal,20250328,Gil Vicente,Benfica,0,3,Completed,3683f24d1fd6ad6c226f40f0966a9eb9
+La Liga 2 - Spain,20250328,Tenerife,Granada CF,2,1,Completed,8b77cc8db8ec425bdfd9679229622c17
+Turkey Super League,20250328,Antalyaspor,Alanyaspor,2,1,Completed,d5279579d84df9e2a2ce06c45d04d697
+Turkey Super League,20250328,Kayserispor,Hatayspor,5,0,Completed,69f88b3c9df189e80c6366548bcfe141
+Turkey Super League,20250328,Bodrum FK,Fenerbahce,2,4,Completed,3d1c81e50227e887d4ad714d671ce4c4
+Turkey Super League,20250328,Torku Konyaspor,Gazişehir Gaziantep,1,0,Completed,4fe551610e62bc8baf883847be3c88fe
