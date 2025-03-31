@@ -1,0 +1,87 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250330,Adelaide Crows,North Melbourne Kangaroos,114,78,Completed,b49d48fab4faf1eae9e3969bd144699a
+AFL,20250330,West Coast Eagles,Fremantle Dockers,68,106,Completed,6b8300b6a7837bc0f1e98c294d374e43
+NBA,20250330,Cleveland Cavaliers,Los Angeles Clippers,127,122,Completed,3089f727bed6fa0465c44c7bb8ca6bcd
+NBA,20250330,New York Knicks,Portland Trail Blazers,110,93,Completed,59cfad43e3d449b38c1d11157a9afa8c
+NBA,20250330,Milwaukee Bucks,Atlanta Hawks,124,145,Completed,c4ba8c96363891704cd952471518ca88
+NBA,20250330,New Orleans Pelicans,Charlotte Hornets,98,94,Completed,de58ad659249abc19e286ab0d189dca5
+NBA,20250330,San Antonio Spurs,Golden State Warriors,106,148,Completed,e8ddad03ee26d356a3d329c650b869fa
+NBA,20250330,Minnesota Timberwolves,Detroit Pistons,123,104,Completed,215490bffdceaf0e93fb23adbfcac6a7
+NBA,20250330,Philadelphia 76ers,Toronto Raptors,109,127,Completed,a1e42c49952c0afdea58a60e9427eb11
+NBA,20250330,Phoenix Suns,Houston Rockets,109,148,Completed,16bd71ad044e86536fab0ad403bb9a18
+NCAAB,20250330,Houston Cougars,Tennessee Volunteers,69,50,Completed,5745eda19d37c9f3881fce892a771a94
+NCAAB,20250330,Auburn Tigers,Michigan St Spartans,70,64,Completed,71c2f274ae3805422890839176d85bd7
+NHL,20250330,Florida Panthers,Montréal Canadiens,2,4,Completed,1c1712b145539fd842abfe645afc5610
+NHL,20250330,Washington Capitals,Buffalo Sabres,5,8,Completed,c45d743f22b1b8cdb1141bf566e26af2
+NHL,20250330,Winnipeg Jets,Vancouver Canucks,3,1,Completed,c020a6df2051e4efd10f505c9b31ffe1
+NHL,20250330,Chicago Blackhawks,Utah Hockey Club,2,5,Completed,2364f9ae97a73083dc5e75acbd49ad68
+NHL,20250330,Carolina Hurricanes,New York Islanders,6,4,Completed,d7244b0572118e12e4fa2adefb986653
+NHL,20250330,Pittsburgh Penguins,Ottawa Senators,1,0,Completed,60b6c2b2ebd7ecc54ecd019b3dc42729
+NHL,20250330,Anaheim Ducks,Toronto Maple Leafs,2,3,Completed,534512d6c1b6e0ec9783488a6ca13553
+NHL,20250330,Los Angeles Kings,San Jose Sharks,,,Unknown,976a93760d71acbcc6e14df427f3fa56
+NRL,20250330,Manly Warringah Sea Eagles,Parramatta Eels,26,12,Completed,7b94cf4a768c8b524800a302b5512ad5
+NRL,20250330,Wests Tigers,New Zealand Warriors,24,26,Completed,ead3eb0b3b938d4aa3647d37a38cbe9f
+Primera División - Argentina,20250330,Belgrano de Cordoba,Talleres,1,1,Completed,c2ba9fd6c234c3595d8b70126e2a1b50
+Primera División - Argentina,20250330,Gimnasia La Plata,Sarmiento de Junin,0,0,Completed,d94b5b65ad56ff79a1a91ad50c92ff0e
+Primera División - Argentina,20250330,Newells Old Boys,Boca Juniors,2,0,Completed,b7063851ebe337708768f309829ee2aa
+A-League,20250330,Central Coast Mariners,Perth Glory,3,1,Completed,a5bb18bd91c26834e20dca5be6a627c1
+A-League,20250330,Brisbane Roar,Auckland FC,0,2,Completed,0e0a06d17b522f600d8b84443f058406
+Austrian Football Bundesliga,20250330,FC Blau-Weiß Linz,Austria Wien,0,2,Completed,853f4ea230a53d5920adc88181dabb52
+Austrian Football Bundesliga,20250330,Wolfsberger AC,Sturm Graz,1,1,Completed,5cb4db0921b72481a45fedced78e2de2
+Austrian Football Bundesliga,20250330,Rapid Wien,RB Salzburg,0,2,Completed,f79891db405b74be06cd0478aa662d21
+Belgium First Div,20250330,Club Brugge,Anderlecht,2,0,Completed,f1942c596c57ef8ff5c460c995b01a39
+Belgium First Div,20250330,KV Kortrijk,Cercle Brugge KSV,2,2,Completed,491c424590720b2d42a9bab2006cb8af
+Belgium First Div,20250330,Genk,Gent,4,0,Completed,f7f64fff7ea73863076a9ef3ae537413
+Belgium First Div,20250330,Dender,Westerlo,1,0,Completed,dfe3dc4a7b37e548ba57181fc84c25fc
+Denmark Superliga,20250330,Lyngby,Vejle Boldklub,1,2,Completed,7b2462f80d6b7065a6cbf2aefb187bed
+Denmark Superliga,20250330,SonderjyskE,Silkeborg IF,2,1,Completed,07adf561f89c5144c6524101029c89b0
+Denmark Superliga,20250330,AGF Aarhus,FC Nordsjaelland,2,0,Completed,51965545fc9f7d2f8d451efd44974449
+Denmark Superliga,20250330,FC Midtjylland,Brondby IF,0,2,Completed,4c9c1e84a84a32c5d1e8e781abc301da
+FA Cup,20250330,Preston North End,Aston Villa,0,3,Completed,30a947405ccb7113db513296dea39945
+FA Cup,20250330,Bournemouth,Manchester City,1,2,Completed,fafad0fe8af45215deffc5c83678d435
+Ligue 1 - France,20250330,Toulouse,Brest,2,4,Completed,568cbe59c4a293bf857302ad3440c979
+Ligue 1 - France,20250330,Angers,Rennes,0,3,Completed,96d4454863592ac50b3b1a1259175b7d
+Ligue 1 - France,20250330,Auxerre,Montpellier,1,0,Completed,4d4cb056049feb2c669fe49bb235e364
+Ligue 1 - France,20250330,Le Havre,Nantes,3,2,Completed,4ff0a4762f1009104ddab58a3139fc54
+Ligue 1 - France,20250330,Lille,RC Lens,1,0,Completed,13d5c046adc99540ba1325dbae982d7e
+Bundesliga - Germany,20250330,SC Freiburg,Union Berlin,1,2,Completed,dc24f903c4e2284a9e9a9d60c189bfdb
+Bundesliga - Germany,20250330,Borussia Dortmund,FSV Mainz 05,3,1,Completed,4f44d53966b10aaafaeb3805f174c32b
+Bundesliga 2 - Germany,20250330,Jahn Regensburg,1. FC Nürnberg,2,1,Completed,f8bea13d5c9d8066543bea69026e5ea7
+Bundesliga 2 - Germany,20250330,SC Preußen Münster,Eintracht Braunschweig,1,1,Completed,1e0dc80fed88d2caa25a96def4718e49
+Bundesliga 2 - Germany,20250330,Greuther Fürth,FC Schalke 04,3,3,Completed,21feb994c38a6408d55ad919ffb3a3f7
+3. Liga - Germany,20250330,FC Ingolstadt 04,FC Viktoria Köln 1904,3,1,Completed,7005711b73717eb56fc41ce309237a7e
+3. Liga - Germany,20250330,Dynamo Dresden,Wehen Wiesbaden,2,0,Completed,c381a06bbe4e9a77464be048a1250d7d
+3. Liga - Germany,20250330,VfB Stuttgart II,SV Sandhausen,2,1,Completed,a5ad249498e367bdb53c55a90c19dbf9
+Super League - Greece,20250330,Panserraikos FC,PAS Lamia 1964,1,1,Completed,41220464187f28d5e8673ec23a7b8e92
+Super League - Greece,20250330,AEK Athens,PAOK Thessaloniki,2,3,Completed,8e45f8a28b8d1f1d2aa30dfd7d26dd58
+Super League - Greece,20250330,Olympiakos Piraeus,Panathinaikos,4,2,Completed,0a755b9ae890751ecb7c361628fd8069
+Serie A - Italy,20250330,Cagliari,Monza,3,0,Completed,4c972a0ee8c539f224f73301bd89fe40
+Serie A - Italy,20250330,Fiorentina,Atalanta BC,1,0,Completed,8f6749d7d3a88fd507ddcc43eacccf0a
+Serie A - Italy,20250330,Inter Milan,Udinese,2,1,Completed,f095acb324444cabc5c948914dba536d
+Serie A - Italy,20250330,Napoli,AC Milan,2,1,Completed,b82a0577d5751535d042f367e33e5bfb
+Serie B - Italy,20250330,Cesena FC,Juve Stabia,1,2,Completed,7c60594b3cd1717a3a6cac501e23b5f1
+Serie B - Italy,20250330,Carrarese,Bari,2,1,Completed,f691c1e897e51efb2c64a8f286bfcf84
+Serie B - Italy,20250330,Salernitana,Palermo,1,2,Completed,f741446595237507f50c091024abb7a5
+Liga MX,20250330,Santos Laguna,Atlético San Luis,2,3,Completed,88343a3347c1f13f127feb72bb50d5df
+Liga MX,20250330,León,Pumas,1,2,Completed,1559fdd165b56b9f7963caa3db32ac26
+Dutch Eredivisie,20250330,FC Utrecht,Heerenveen,2,0,Completed,653453467485a375abd360c686c90dbd
+Dutch Eredivisie,20250330,Heracles Almelo,FC Twente Enschede,2,1,Completed,8bd5ecd63219b2fd84ad50060bf99267
+Dutch Eredivisie,20250330,PSV Eindhoven,Ajax,0,2,Completed,9af5f9a190653694d0025404e297abd0
+Dutch Eredivisie,20250330,Feyenoord,Go Ahead Eagles,3,2,Completed,a74acb08be26a7f31d513d0cc8355f73
+Primeira Liga - Portugal,20250330,Santa Clara,Nacional,1,0,Completed,cb7967554c4ac5778f6f9efc71262dae
+Primeira Liga - Portugal,20250330,Famalicão,AVS Futebol SAD,4,1,Completed,2dc2d1889a447b8b3f288bfefda161b6
+Primeira Liga - Portugal,20250330,Estoril,FC Porto,1,2,Completed,21b8add40b255f727693f7e0b70e9826
+Primeira Liga - Portugal,20250330,Moreirense FC,Vitória SC,2,2,Completed,088994591fe967563721fb6f5be4c9c2
+La Liga - Spain,20250330,Getafe,Villarreal,1,2,Completed,268e4818f0941be692b1496fdf70dee4
+La Liga - Spain,20250330,Barcelona,Girona,4,1,Completed,8b0b3f27694821a944d4afa23a3924b8
+La Liga - Spain,20250330,Athletic Bilbao,CA Osasuna,0,0,Completed,707dbc4e064c8fa78efd4ee748727c3e
+La Liga - Spain,20250330,Valencia,Mallorca,1,0,Completed,36ddebc9518c631212eb0a7413cec9d0
+La Liga - Spain,20250330,Real Betis,Sevilla,2,1,Completed,af205b9e28c561e7df590efbf020bfe1
+La Liga 2 - Spain,20250330,Córdoba,Elche,1,2,Completed,ea43273f8d05bc4aaa52a0f15a3da470
+La Liga 2 - Spain,20250330,Oviedo,Málaga,2,1,Completed,565e41d9afcaacc8d12175b89e02434f
+La Liga 2 - Spain,20250330,Albacete,CD Mirandés,3,2,Completed,44c54f5dba5b6378640583db81b8ba39
+La Liga 2 - Spain,20250330,SD Huesca,Sporting Gijón,3,2,Completed,e3ee3676768affacf18fe49805b103f5
+Premiership - Scotland,20250330,Ross County,Dundee United,0,1,Completed,31c4cc0329338c0bd5eba8da3c167432
+Swiss Superleague,20250330,FC Winterthur,FC Basel,0,2,Completed,c850ef9f9b90658a6a66bad1c08a7036
+Swiss Superleague,20250330,Grasshopper Zürich,FC Zurich,1,2,Completed,b525146ee6175184fb770f90cb8fe12d
+Swiss Superleague,20250330,FC Lausanne-Sport,FC Luzern,1,4,Completed,26d4e0c324c9face8d203d57074b165e
