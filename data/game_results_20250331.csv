@@ -1,0 +1,24 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250331,Indiana Pacers,Sacramento Kings,111,109,Completed,f797e2e15a2ce196a9aec7d6be426ca5
+NBA,20250331,Washington Wizards,Miami Heat,94,120,Completed,ba36a90b9027c2417fc43a5c9144543e
+NBA,20250331,Charlotte Hornets,Utah Jazz,110,106,Completed,6f23db7c42091904c445d84939c92adc
+NBA,20250331,Orlando Magic,Los Angeles Clippers,87,96,Completed,e2f05c94b90d6a13b409742fc7ce4ab3
+NBA,20250331,Memphis Grizzlies,Boston Celtics,103,117,Completed,51ad4d423678ac8fd32042c7394bba2e
+NBA,20250331,Oklahoma City Thunder,Chicago Bulls,145,117,Completed,8622fc0ee0b3bdbd22a453d5daa9df3e
+NBA,20250331,Dallas Mavericks,Brooklyn Nets,109,113,Completed,d447b6f346f3e4d48b43404d9ad56154
+NBA,20250331,Los Angeles Lakers,Houston Rockets,,,Unknown,c1c0f109bbfdb65645b2a64baa65ed00
+NCAAB,20250331,Butler Bulldogs,Utah Utes,86,84,Completed,71b09d016bb5ff26bcbc8844132e7cdf
+NCAAB,20250331,Boise State Broncos,GW Revolutionaries,89,59,Completed,01588a533b3ef9bdfb8d23a1b817e932
+NCAAB,20250331,Arizona St Sun Devils,Nebraska Cornhuskers,78,86,Completed,85102aea3ca1f3ea574a5c7df3ea2596
+NCAAB,20250331,Washington St Cougars,Georgetown Hoyas,,,Unknown,dd82c667dd4311609bc35f660766c73b
+NHL,20250331,Philadelphia Flyers,Nashville Predators,2,1,Completed,3555583683b54c5843b4fbddb0899f06
+NHL,20250331,New Jersey Devils,Minnesota Wild,3,2,Completed,566ccc51d40b1c64a9ca6339806424fc
+NHL,20250331,Colorado Avalanche,Calgary Flames,2,3,Completed,45679ef5395720df6afd7d68dbad22a2
+NHL,20250331,Seattle Kraken,Dallas Stars,,,Unknown,0137ec49ff1ada0ea2bf16a446c8c76f
+Denmark Superliga,20250331,FC Copenhagen,Randers FC,1,0,Completed,12903b36a058f83f3db4d2e12965d7b4
+Ligue 2 - France,20250331,Paris FC,Caen,4,2,Completed,93566c173ac73f7acedcd4de56364fb6
+Serie A - Italy,20250331,Hellas Verona,Parma,0,0,Completed,8f10411a9aef22d51622abe6f01cef05
+Serie A - Italy,20250331,Lazio,Torino,1,1,Completed,8fe824abb04f61a302e16095c45f43a8
+La Liga - Spain,20250331,Celta Vigo,Las Palmas,1,1,Completed,5756f0bad7690db51b1287d7d7d69eac
+La Liga 2 - Spain,20250331,Cádiz CF,SD Eibar,0,0,Completed,0bcb8a7dca0bbffda3c6210e3d555480
+Turkey Super League,20250331,Eyüpspor,Basaksehir,1,3,Completed,e65a8e174a62b73b937f0f9eeeefcfef
