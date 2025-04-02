@@ -1,0 +1,59 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250401,Milwaukee Bucks,Phoenix Suns,133,123,Completed,cc1649011ef09ea8183149d19d1c1f3a
+NBA,20250401,Atlanta Hawks,Portland Trail Blazers,113,127,Completed,57960820666f2fbb865a1d256183b262
+NBA,20250401,New York Knicks,Philadelphia 76ers,105,91,Completed,b22cadd8e7c03b3a3566522dd463dd23
+NBA,20250401,Chicago Bulls,Toronto Raptors,137,118,Completed,093b32242d261aa422ff3d00333d45d6
+NBA,20250401,San Antonio Spurs,Orlando Magic,105,116,Completed,ad6da0ea5ec8e04fb0e0aa9c2ebb77c6
+NBA,20250401,Memphis Grizzlies,Golden State Warriors,125,134,Completed,44ed4bc39c312c90964afe67186e4cf5
+NBA,20250401,Denver Nuggets,Minnesota Timberwolves,,,Unknown,8d8e1d6db06df40e8d2e54324c71358b
+NCAAB,20250401,Cincinnati Bearcats,DePaul Blue Demons,83,61,Completed,f709a7e0420fe6cf2fc6d881a0e9ea8a
+NCAAB,20250401,UCF Knights,Oregon St Beavers,76,75,Completed,ff907b1f7963131b6dc1761147330bd4
+NCAAB,20250401,UC Irvine Anteaters,North Texas Mean Green,69,67,Completed,bd70457353838026657847305a59b2fb
+NCAAB,20250401,Villanova Wildcats,Colorado Buffaloes,85,64,Completed,528265d9322fc952e1c748883ce7de0e
+NCAAB,20250401,USC Trojans,Tulane Green Wave,,,Unknown,0e8def82bd9d1ae68ae14c43b1dbc226
+NHL,20250401,Boston Bruins,Washington Capitals,3,4,Completed,98f9a6346c960ec091ed6e09976f2f27
+NHL,20250401,Ottawa Senators,Buffalo Sabres,2,5,Completed,172111adb9cee2479a23b899212fc168
+NHL,20250401,Columbus Blue Jackets,Nashville Predators,8,4,Completed,a011520d6f318d0d7e9bbcf3ed4687ba
+NHL,20250401,Montréal Canadiens,Florida Panthers,3,2,Completed,bf5f3ae9ab7c17861fe7fa7248b16c5e
+NHL,20250401,New York Islanders,Tampa Bay Lightning,1,4,Completed,c1eceeb01632dca8766a1f319b3e0c74
+NHL,20250401,St Louis Blues,Detroit Red Wings,2,1,Completed,1f8b453e0c7f028519a70b59a23b40f8
+NHL,20250401,Utah Hockey Club,Calgary Flames,3,1,Completed,85efd4370973868d4dd2ac5ca0cc81a9
+NHL,20250401,Anaheim Ducks,San Jose Sharks,,,Unknown,e59ca2160e463df95aa3bf087a225e1d
+NHL,20250401,Vegas Golden Knights,Edmonton Oilers,,,Unknown,0dd504dfeae897132f0b97edf44a07a4
+NHL,20250401,Los Angeles Kings,Winnipeg Jets,,,Unknown,e7d93876407b41d8d42bd0460a99aadb
+Copa Libertadores,20250401,Carabobo FC,Estudiantes La Plata,0,2,Completed,1bb528e0949b438443c1c1bddd4232f6
+Copa Libertadores,20250401,Cerro Porteño,Club Bolívar,4,2,Completed,f772d009095c2d4fc941dcfea3e6a129
+Copa Libertadores,20250401,Atlético Bucaramanga,Colo Colo,3,3,Completed,1839b2c549717921783d06fc0f81fd4e
+Copa Libertadores,20250401,Fortaleza-EC,Racing Club,0,3,Completed,7bbc5f19556d8a6c252bafada1a77a71
+Copa Libertadores,20250401,Alianza Lima,Libertad Asuncion,,,Unknown,c32cb2351eeb08fcc8aafd6053470cea
+Copa Libertadores,20250401,Barcelona SC,Independiente del Valle,,,Unknown,f1311eff9d491da21e7100ec45e40433
+League 1,20250401,Barnsley,Exeter City,1,2,Completed,32ee72244369750d6ba02e4ec2920ddb
+League 1,20250401,Blackpool,Reading,3,0,Completed,4428ee3946ac1f88157f57bd1380b9f5
+League 1,20250401,Wigan Athletic,Bolton Wanderers,0,1,Completed,beefa375a8b8717781152708ce0e8deb
+League 1,20250401,Burton Albion,Leyton Orient,2,1,Completed,e580891a984ec1abb87b8de18af3d015
+League 1,20250401,Cambridge United,Wrexham AFC,2,2,Completed,246e38d1983ad36c789413a0bccaf55a
+League 1,20250401,Mansfield Town,Charlton Athletic,1,2,Completed,d15ae6177869342f94f8358e7dc5f479
+League 1,20250401,Crawley Town,Peterborough United,3,4,Completed,0776a219fbd10c98e958adfe40bc91cb
+League 1,20250401,Lincoln City,Huddersfield Town,1,0,Completed,1bf633565eebb3d529f10f49286c3719
+League 1,20250401,Northampton Town,Rotherham United,0,2,Completed,899c3982a9903d8debc01b1c85d726fb
+League 1,20250401,Wycombe Wanderers,Shrewsbury Town,0,0,Completed,8ba1cc23b47d940386868bad8838bbb4
+League 1,20250401,Stockport County FC,Stevenage,3,0,Completed,0330e13298ebd7d1af3ad487302ef7dd
+League 1,20250401,Bristol Rovers,Birmingham City,1,2,Completed,67f573ad78b46ce42c11ca8bdfb85567
+League 2,20250401,Port Vale,Bradford City,2,0,Completed,ddd73b65fa6da7157625d20906f4165b
+League 2,20250401,Accrington Stanley,Fleetwood Town,1,4,Completed,773f4a3987f93143183a2cc2152dcb42
+League 2,20250401,Barrow,Salford City,1,1,Completed,84f0b9278a0c339b153285a762b777b4
+League 2,20250401,Newport County,Bromley FC,1,1,Completed,f938c707e633f560d99b783ebbae2638
+League 2,20250401,Chesterfield FC,Carlisle United,2,1,Completed,2dee406063ef5f5ddece94449d3b9049
+League 2,20250401,Morecambe,Cheltenham Town,2,0,Completed,df3e2acaed026e72ec3e24f76ef1e031
+League 2,20250401,Gillingham,Colchester United,1,1,Completed,537afc4f22475cd385d9f659686efebe
+League 2,20250401,Crewe Alexandra,Grimsby Town,2,0,Completed,d8ab1942022b8d3467c9b5c589fd7a01
+League 2,20250401,Doncaster Rovers,Walsall,2,2,Completed,16520659d61433a6f766d00129af6195
+League 2,20250401,Harrogate Town,Tranmere Rovers,3,2,Completed,4a8bb20d33d33bf837383d7663dbe53e
+League 2,20250401,Swindon Town,Wimbledon,2,1,Completed,b0b3e7c5a38e3b276613c5a17614c7f9
+EPL,20250401,Arsenal,Fulham,2,1,Completed,a6151a5362fb6365b776880f17a142cc
+EPL,20250401,Wolverhampton Wanderers,West Ham United,1,0,Completed,740df065d06a1327468c040ec59ee9b1
+EPL,20250401,Nottingham Forest,Manchester United,1,0,Completed,718b09ffb0d6aa6665b4da80f86fba6f
+Dutch Eredivisie,20250401,AZ Alkmaar,RKC Waalwijk,2,2,Completed,05eae1eb679e025e717dad1ea03f5820
+Primeira Liga - Portugal,20250401,Boavista Porto,Gil Vicente,1,3,Completed,c33d299e1203f669d4129e167881b763
+Swiss Superleague,20250401,Servette,BSC Young Boys,0,1,Completed,dd4bcb8ec9f88a44103c9e578979cc4a
+Swiss Superleague,20250401,Yverdon Sport FC,FC Lugano,0,2,Completed,8c9aad27a393a3acda3d2d0098884707
