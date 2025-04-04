@@ -1,0 +1,33 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250403,Collingwood Magpies,Carlton Blues,63,46,Completed,8d27ddfdebf5cd36f70903368347261a
+Basketball Euroleague,20250403,Žalgiris,KK Partizan NIS,70,66,Completed,7591ffa3b8d334ef27b7aeae3475e67d
+Basketball Euroleague,20250403,AS Monaco,Panathinaikos,76,88,Completed,24e84959d38dcbc8361b64de6a98edb0
+Basketball Euroleague,20250403,Maccabi Tel Aviv,FC Bayern München,93,90,Completed,1e8f3f323005b352473535afe4330a6e
+Basketball Euroleague,20250403,Real Madrid,Paris Basketball,105,104,Completed,bc0bf98e7d7db96ba4227a359bf48526
+NBA,20250403,Philadelphia 76ers,Milwaukee Bucks,113,126,Completed,6578b9d1dbb7c5574f00c3f79ace17ac
+NBA,20250403,Washington Wizards,Orlando Magic,97,109,Completed,acb1b21f0ac6a2b6f41802d340ac570b
+NBA,20250403,Miami Heat,Memphis Grizzlies,108,110,Completed,205b6d007b33bb7dc06d41516604a83b
+NBA,20250403,Brooklyn Nets,Minnesota Timberwolves,90,105,Completed,3b96dbd28c5168e7441358056a284ad9
+NBA,20250403,Toronto Raptors,Portland Trail Blazers,103,112,Completed,2c46c53b5ff3b8389016f8be9cb2f277
+NBA,20250403,Los Angeles Lakers,Golden State Warriors,,,Unknown,a3c9d814105bac05c91de4c446666f24
+NCAAB,20250403,Cincinnati Bearcats,UCF Knights,80,88,Completed,455894225c69e67241a4bd855b69abec
+NCAAB,20250403,UC Irvine Anteaters,Chattanooga Mocs,84,85,Completed,cd704212958fb71bf2e94e134923c69b
+NCAAB,20250403,USC Trojans,Villanova Wildcats,,,Unknown,e12186e2fa2e55a92a57ff8c9838e9e0
+NHL,20250403,Ottawa Senators,Tampa Bay Lightning,2,1,Completed,043251f52830571b9d2dc5d7000b01b0
+NHL,20250403,Montréal Canadiens,Boston Bruins,4,1,Completed,073e16827527853467d45b675cded498
+NHL,20250403,Columbus Blue Jackets,Colorado Avalanche,3,7,Completed,41f2b5e936cca22bcba9d1e6ce1f4eee
+NHL,20250403,Dallas Stars,Nashville Predators,5,1,Completed,539f4e34b9f53d7e8a6ebfe41aeac24d
+NHL,20250403,St Louis Blues,Pittsburgh Penguins,5,4,Completed,ccef89249d1b2a0fc8a9e13e1e0fd2df
+NHL,20250403,Utah Hockey Club,Los Angeles Kings,,,Unknown,b5031b0659e54dc98be3313fb31a3d20
+NHL,20250403,Calgary Flames,Anaheim Ducks,,,Unknown,5cad9c44c4c0865dc7f95abc7633855a
+NHL,20250403,Vegas Golden Knights,Winnipeg Jets,,,Unknown,013dcd2f42f3573717ff2a5bda12b760
+NHL,20250403,San Jose Sharks,Edmonton Oilers,,,Unknown,8bc8af41373e90bd1018ff89a3a69f32
+MMA,20250403,Jason Jackson,Andrey Koreshkov,,,Unknown,8538df1da824e5d18e11e032c598408d
+NRL,20250403,Canberra Raiders,Cronulla Sutherland Sharks,24,20,Completed,d591e65b7eb4426ee0ad8cc27b85f9da
+Copa Libertadores,20250403,Central Córdoba,LDU Quito,0,0,Completed,ecc94f07b2f462516878d7aa019bd671
+Copa Libertadores,20250403,Sporting Cristal,Palmeiras-SP,2,3,Completed,e68512b17b114cd023f3908950ea5ad9
+Copa Libertadores,20250403,Bahia,Internacional-RS,1,1,Completed,cc6df8aa6817b94df32630c76e241e61
+Copa Libertadores,20250403,Deportivo Táchira,Flamengo-RJ,0,1,Completed,5e3b6b9cda9fe5ee000d9b8a9bb6397a
+EPL,20250403,Chelsea,Tottenham Hotspur,1,0,Completed,fd8e42c2da38e9ac3a79532daa131f2a
+Swiss Superleague,20250403,FC Luzern,FC St Gallen,1,1,Completed,c0ed5d12db5599e628a0e692675354ee
+Swiss Superleague,20250403,FC Basel,Grasshopper Zürich,2,1,Completed,6153a2ba130fd674d82455dbcd35828f
