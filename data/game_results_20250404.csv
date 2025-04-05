@@ -1,0 +1,56 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250404,Geelong Cats,Melbourne Demons,85,46,Completed,b84f555c4d11a6b8cc968c9e220c0b5b
+AFL,20250404,Gold Coast Suns,Adelaide Crows,,,Unknown,70a73d678cda54054e45d41e3cdc4530
+Basketball Euroleague,20250404,ALBA Berlin,Olympiacos,92,100,Completed,0765c076a9f9bf2d39e0f6a5cdeb368b
+Basketball Euroleague,20250404,KK Crvena zvezda,Anadolu Efes,96,97,Completed,24d476606281177358325db1e065fbb8
+Basketball Euroleague,20250404,Saski Baskonia,ASVEL Lyon Villeurbanne,111,75,Completed,671d63cbdfb00739609d71f9babb1420
+Basketball Euroleague,20250404,Virtus Segafredo Bologna,Pallacanestro Olimpia Milano,90,70,Completed,d240d0ad356afc74e7de30c652e7b9e7
+NBA,20250404,Charlotte Hornets,Sacramento Kings,102,125,Completed,241c9167db2603b226d2f7d549748c74
+NBA,20250404,Indiana Pacers,Utah Jazz,140,112,Completed,26ad8f15027497553452e57b82e410d5
+NBA,20250404,Boston Celtics,Phoenix Suns,123,103,Completed,b060b84f8eba323821bb353364b52890
+NBA,20250404,Toronto Raptors,Detroit Pistons,105,117,Completed,a2031abdece4411dbbc603239f238349
+NBA,20250404,Chicago Bulls,Portland Trail Blazers,118,113,Completed,735a6b54729854cea19447e3f9ab4479
+NBA,20250404,San Antonio Spurs,Cleveland Cavaliers,113,114,Completed,d71f231f171bcb7ae016a6a7b5530a87
+NBA,20250404,Houston Rockets,Oklahoma City Thunder,125,111,Completed,5f9d99885b406da4ccc79ff59a15139a
+NBA,20250404,Golden State Warriors,Denver Nuggets,,,Unknown,f1b09e8ad2a0b44a3cb893a048655a3b
+NBA,20250404,Los Angeles Clippers,Dallas Mavericks,,,Unknown,8b3771336f4f2f29a315e91f71496582
+NBA,20250404,Los Angeles Lakers,New Orleans Pelicans,,,Unknown,dd7cec46d65fbdcee6b9e8cbb9da17e8
+WNCAAB,20250404,UCLA Bruins,UConn Huskies,,,Unknown,92dc8a79a8d3e70158ebfa411704de9f
+NHL,20250404,Detroit Red Wings,Carolina Hurricanes,5,3,Completed,88c9da229f43d539ef7df6351bac4914
+NHL,20250404,Washington Capitals,Chicago Blackhawks,5,3,Completed,45b2abccd1c5eafc72847abc2288c4e3
+NHL,20250404,New York Islanders,Minnesota Wild,3,1,Completed,733ca09dd175b26f7c3e0d01b1d82a17
+SHL,20250404,Brynäs IF,Skellefteå AIK,,,Unknown,fecaffa84de51faeafd3a0dd13b523bf
+NRL,20250404,Penrith Panthers,North Queensland Cowboys,18,22,Completed,ef77f5c4917ade358b39b2275c02fe62
+NRL,20250404,South Sydney Rabbitohs,Sydney Roosters,20,14,Completed,3e187a3946843909d6c596e10815d4de
+Primera División - Argentina,20250404,Estudiantes,Belgrano de Cordoba,0,1,Completed,be70039faa88eda1efec16dabe8e7997
+Primera División - Argentina,20250404,San Martin de San Juan,San Lorenzo,0,1,Completed,75d78136d120925b7c3d7bced54f5282
+A-League,20250404,Brisbane Roar,Macarthur FC,1,5,Completed,2af54b2d1d3e5efd3bda8fe7da58763f
+Austrian Football Bundesliga,20250404,Sturm Graz,Rapid Wien,2,0,Completed,8cac464cd9d31942f62bd4e17974aa65
+Belgium First Div,20250404,KV Mechelen,Dender,5,2,Completed,ee94f0afb7bb1e6e13b096ee531cc1d8
+Denmark Superliga,20250404,Randers FC,FC Midtjylland,2,1,Completed,a0196f195fe9066644f0d0b48afb8213
+Championship,20250404,Blackburn Rovers,Middlesbrough,0,2,Completed,b9fccd664e3d618075a7f91f83154653
+Ligue 1 - France,20250404,Nice,Nantes,1,2,Completed,bd60a9d62049c544233d4a7f1a0e7355
+Ligue 2 - France,20250404,Rodez AF,FC Martigues,1,0,Completed,e6a4c474250c020008be7add71b70191
+Ligue 2 - France,20250404,AC Ajaccio,Amiens,2,1,Completed,61d8a381b90bf66db428b6da9c53130b
+Ligue 2 - France,20250404,Annecy FC,SC Bastia,1,1,Completed,0ff9c35366d7d94bc4b7e9de4d0d2d69
+Ligue 2 - France,20250404,Paris FC,Clermont,2,0,Completed,0db967c6f401638fbd51ced2f3cab9e3
+Ligue 2 - France,20250404,Stade Lavallois,Grenoble,1,2,Completed,a1414700b98b5d8b8e6e46ee304f6c4b
+Bundesliga - Germany,20250404,Augsburg,Bayern Munich,1,3,Completed,774e12e31a16c24aa1f1296d2cb29ac1
+Bundesliga 2 - Germany,20250404,Eintracht Braunschweig,SC Paderborn,3,2,Completed,07440305b40aa6f407a6cd703b9e91cf
+Bundesliga 2 - Germany,20250404,Karlsruher SC,Hannover 96,1,0,Completed,276bc5aabdd4f43c6429dccedff4cffa
+3. Liga - Germany,20250404,Hannover 96,Dynamo Dresden,2,3,Completed,afddb12da4475f5d68a70293ba207ae3
+Serie A - Italy,20250404,Genoa,Udinese,1,0,Completed,28b2287b42d5bc8ff8d004ebc02fa7f4
+Serie B - Italy,20250404,Reggiana,Cremonese,1,2,Completed,1dfcf2b5ba99ed40ea81ae828428e4e0
+League of Ireland,20250404,Bohemians,Sligo Rovers,4,2,Completed,8f98b986d381adc973fbad483676023b
+League of Ireland,20250404,St Patricks Athletic,Shelbourne Dublin,0,0,Completed,81e45d26296d5d9dfaf37a7a99a15ac6
+League of Ireland,20250404,Drogheda United,Waterford FC,2,0,Completed,952eac27e7fbd26a9c9ef762edbd34c8
+League of Ireland,20250404,Galway United,Shamrock Rovers,0,1,Completed,339c667ba500ba7c8e58f680609dde8a
+League of Ireland,20250404,Derry City,Cork City,2,1,Completed,b4d753323aeede0e1fee4d84fd6a44af
+Liga MX,20250404,Querétaro,León,1,1,Completed,08c4cc9cc8ef6e27e1e7d7a448dbdb61
+Liga MX,20250404,Tijuana,Necaxa,,,Unknown,51c7f6811b5b22bd9fc54e76edafea73
+Liga MX,20250404,Puebla,Tigres,,,Unknown,205e15aa395e1ad7d0da8e5656ef34a9
+Dutch Eredivisie,20250404,Heerenveen,Willem II,3,1,Completed,c4b2b58cb6d7e22673a0c4b4f0299999
+Primeira Liga - Portugal,20250404,AVS Futebol SAD,Estoril,0,3,Completed,592b9129bcd1092dcabae21bb2d1d883
+La Liga - Spain,20250404,Rayo Vallecano,Espanyol,0,4,Completed,0d29d3d7d24c7d2dacf65d65bacb65a7
+La Liga 2 - Spain,20250404,CD Castellón,Albacete,2,2,Completed,7756456d1e1094675bacebcc92c7cb91
+Turkey Super League,20250404,Adana Demirspor,Kayserispor,0,2,Completed,8381b5bd31221333b7ce4d31d7932c63
