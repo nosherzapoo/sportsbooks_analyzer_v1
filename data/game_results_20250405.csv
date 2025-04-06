@@ -1,0 +1,150 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250405,Richmond Tigers,Brisbane Lions,90,118,Completed,64f730b72202b1a976e35b041d809bd0
+AFL,20250405,North Melbourne Kangaroos,Sydney Swans,52,117,Completed,57c283d2210e86573c4345bb02dc9599
+AFL,20250405,Greater Western Sydney Giants,West Coast Eagles,,,Unknown,f90d83e166ef423f076d7cee49cb1a89
+NBA,20250405,Atlanta Hawks,New York Knicks,105,121,Completed,a3338cdcbd6d0d5acd1a920f15d25391
+NBA,20250405,Detroit Pistons,Memphis Grizzlies,103,109,Completed,4b9d197d2bd268a63deff5f8b7d78683
+NBA,20250405,Philadelphia 76ers,Minnesota Timberwolves,109,114,Completed,001c06cc46987260c99d1af68b8bad0c
+NBA,20250405,Miami Heat,Milwaukee Bucks,115,121,Completed,cccae2226cf80a09c84f81293020da04
+NCAAB,20250405,Boise State Broncos,Nebraska Cornhuskers,69,79,Completed,ff0b2136cc60802fe6ab0c35193b2caf
+NCAAB,20250405,Villanova Wildcats,UCF Knights,98,104,Completed,8628c192c1a212929ea7dd570d8aa80a
+NCAAB,20250405,Auburn Tigers,Florida Gators,73,79,Completed,bd5cf48db64241c8161c0845399d9340
+NCAAB,20250405,Duke Blue Devils,Houston Cougars,,,Unknown,39b102534d2155056298515ca865f77c
+Boxing,20250405,Tim Tszyu,Joey Spencer,,,Unknown,13efe11e643e590e8f27fa2673a4f854
+NHL,20250405,New Jersey Devils,New York Rangers,4,0,Completed,990ef7bb79bea3568f139a4e39bae248
+NHL,20250405,Ottawa Senators,Florida Panthers,3,0,Completed,d65ef6d1f5329d6ca945fd8e600ef89b
+NHL,20250405,Dallas Stars,Pittsburgh Penguins,3,5,Completed,ba14c7285315cb114bf1872dfe0ef982
+NHL,20250405,Vancouver Canucks,Anaheim Ducks,6,2,Completed,f4a5aa68b4171be6ec849b9f2a4b7201
+NHL,20250405,Los Angeles Kings,Edmonton Oilers,3,0,Completed,a5906bafcc0acef3302405d203e6a09c
+NHL,20250405,Boston Bruins,Carolina Hurricanes,5,1,Completed,66d167b172d17d6b39b816efdebf6277
+NHL,20250405,St Louis Blues,Colorado Avalanche,5,4,Completed,52f6e7f3620a47528e615e9069a9896f
+NHL,20250405,Buffalo Sabres,Tampa Bay Lightning,3,2,Completed,3152df3211373f6022dda8f7ab7cacb6
+NHL,20250405,Toronto Maple Leafs,Columbus Blue Jackets,5,0,Completed,a2760ceccb8411d1481f8e8d3fd3f8c9
+NHL,20250405,Montréal Canadiens,Philadelphia Flyers,,,Unknown,a03fef203f4edf14fcc106b6ecfd74e4
+NHL,20250405,Utah Hockey Club,Winnipeg Jets,4,1,Completed,dd1ef608c7f97a6e92106f2fd8135c62
+NHL,20250405,San Jose Sharks,Seattle Kraken,,,Unknown,98a2bd163695b58c723fa7c6b96e896c
+NHL,20250405,Calgary Flames,Vegas Golden Knights,,,Unknown,6d047f3ebb734236309013a5ed0209d3
+SHL,20250405,Luleå HF,Frölunda HC,,,Unknown,fcb7f306e8c6b456aff26225d8a2455c
+MMA,20250405,Pat Sabatini,Joanderson Brito,,,Unknown,3f8886b2e70318eba06175db9372b923
+MMA,20250405,Josh Emmett,Lerone Murphy,,,Unknown,a5a22ca73e9bb01c8932177761625a86
+NRL,20250405,Parramatta Eels,St George Illawarra Dragons,23,22,Completed,66742a239bed1189945b664ff0571c43
+NRL,20250405,Gold Coast Titans,Dolphins,10,36,Completed,e8fb8d83909590a5200f72d108f58e6b
+NRL,20250405,Brisbane Broncos,Wests Tigers,46,24,Completed,0832079b0114a03ac8740004a63e4ae8
+Primera División - Argentina,20250405,Godoy Cruz,Independiente Rivadavia,1,1,Completed,dbd212f93de1bb8ebdb77c5acafe8c03
+Primera División - Argentina,20250405,Rosario Central,Velez Sarsfield BA,2,1,Completed,bc8877ab414de1874776f5baa5e84ba6
+Primera División - Argentina,20250405,Atlético Huracán,Aldosivi Mar del Plata,3,3,Completed,49ca077839f789e46c076ab1f6e794f6
+Primera División - Argentina,20250405,Talleres,Gimnasia La Plata,2,0,Completed,9f703e5ba56d6b9748ce716fc0395da5
+Primera División - Argentina,20250405,Sarmiento de Junin,River Plate,1,1,Completed,df1357726dfb8bc9678e0785874b120f
+A-League,20250405,Auckland FC,Western Sydney Wanderers,1,1,Completed,e2ddc9b4ed381d771a4dcfef8c5d085f
+A-League,20250405,Melbourne City,Central Coast Mariners,1,0,Completed,798af7d5e539cad01377fd8e5e4774d4
+A-League,20250405,Western United FC,Perth Glory,3,1,Completed,476818b6604f67bb9b8af610428f5a21
+A-League,20250405,Adelaide United,Sydney FC,2,3,Completed,7b62dc4071b5e8e035aa21cb9380de9d
+Austrian Football Bundesliga,20250405,Austria Klagenfurt,Rheindorf Altach,2,3,Completed,7e307867c0593d13d646821312b280a6
+Austrian Football Bundesliga,20250405,WSG Tirol,Hartberg,1,3,Completed,ced9b17241b9bde762addb65f3a5a66e
+Austrian Football Bundesliga,20250405,LASK,Grazer AK,1,0,Completed,7b0918ecb6e6b9c465d1584bbaa7a317
+Belgium First Div,20250405,Cercle Brugge KSV,Beerschot Wilrijk,2,1,Completed,cdadc33e757dbaa8a2cd46f68acbbf0e
+Belgium First Div,20250405,Westerlo,Leuven,2,2,Completed,237e3ab12e103aa2c5aa71283fa65af7
+Belgium First Div,20250405,Gent,Union Saint-Gilloise,0,3,Completed,4a48020b68358913180e5858de8d3be5
+Championship,20250405,Luton,Leeds United,1,1,Completed,4a44ef0a38e737ade879388931b2b3e8
+Championship,20250405,Coventry City,Burnley,1,2,Completed,e9cc34759a3e530d188194d8134b16f8
+Championship,20250405,West Bromwich Albion,Sunderland,0,1,Completed,ef9314cbafa9aacf22283dede48f5edc
+Championship,20250405,Bristol City,Watford,2,1,Completed,6f425ec13dfc9e9a5a3211b08fc6f6f7
+Championship,20250405,Queens Park Rangers,Cardiff City,0,0,Completed,5bbdeee2fa56b3d4a1f5248f41abb3e6
+Championship,20250405,Sheffield Wednesday,Hull City,0,1,Completed,286ec3a0f9d891a73be6258d4004a7a1
+Championship,20250405,Millwall,Portsmouth,2,1,Completed,11371b64246220f68a1ad4fb0eb664af
+Championship,20250405,Plymouth Argyle,Norwich City,2,1,Completed,cc07b50a0edf6ede039b3b40a6f62b04
+Championship,20250405,Oxford United,Sheffield United,1,0,Completed,17a158618c50b54242ffd13401ae394e
+Championship,20250405,Preston North End,Stoke City,1,1,Completed,d7d7b24d4b837229ce2804744314b06f
+Championship,20250405,Swansea City,Derby County,1,0,Completed,782b758d4c0f9ec186801e44b7ea7148
+League 1,20250405,Wrexham AFC,Burton Albion,3,0,Completed,bf55c14e85f7fa9f522ba5c368e0f884
+League 1,20250405,Reading,Wycombe Wanderers,1,0,Completed,377e89bf0d1ecab1f432f3033f45c0ab
+League 1,20250405,Birmingham City,Barnsley,6,2,Completed,cfd22f55a91688191a07b613fe3d8d02
+League 1,20250405,Rotherham United,Blackpool,2,1,Completed,35c1ac8a891f17952bcff40ccfb04094
+League 1,20250405,Bolton Wanderers,Bristol Rovers,1,0,Completed,c2a7b5673f9ae859d2bf5092597b6ed8
+League 1,20250405,Shrewsbury Town,Cambridge United,0,1,Completed,980b18eedfc80d5e1c85d2716791ce95
+League 1,20250405,Charlton Athletic,Lincoln City,2,2,Completed,0a9c3714363f73f7dc251b335ed02870
+League 1,20250405,Stevenage,Crawley Town,3,1,Completed,55fc91a02bc9cb1b76d1217c3c6fadfc
+League 1,20250405,Exeter City,Stockport County FC,0,2,Completed,ce23c6c735d0b6a8de96a4b9b047fd48
+League 1,20250405,Huddersfield Town,Mansfield Town,2,1,Completed,fca3f6024216115f70d3499d0ccd852b
+League 1,20250405,Leyton Orient,Wigan Athletic,0,0,Completed,ead9066627768c40ced6858444aef5f3
+League 1,20250405,Peterborough United,Northampton Town,0,4,Completed,58caf966b8d30252ba61276e41e703fe
+League 2,20250405,Cheltenham Town,Doncaster Rovers,0,2,Completed,783a5e413e65f10f5bd622cb513eb7f7
+League 2,20250405,Walsall,Port Vale,2,3,Completed,7211a91db759a1f202bb6f3a73c40583
+League 2,20250405,Tranmere Rovers,Chesterfield FC,4,0,Completed,1495e0d76972de3c9dbf5c946a695b2d
+League 2,20250405,Bromley FC,Accrington Stanley,4,0,Completed,c90caa601de6f6090760c35848c41b0e
+League 2,20250405,Milton Keynes Dons,Barrow,0,3,Completed,792b93bb9d8ab36043ce44685308b073
+League 2,20250405,Bradford City,Crewe Alexandra,2,0,Completed,a3e11bf70c6868ca01a14c88e5dfa2b6
+League 2,20250405,Carlisle United,Newport County,3,2,Completed,64105e6191c55a7fbef54c210449fbce
+League 2,20250405,Colchester United,Notts County,1,0,Completed,d9f84894b39a67b4e746d4b5c72d6381
+League 2,20250405,Fleetwood Town,Swindon Town,0,4,Completed,fcc5785b80c759eede91990a0968a176
+League 2,20250405,Salford City,Gillingham,2,2,Completed,b3b71119269750b03df16b72a25ae7da
+League 2,20250405,Grimsby Town,Morecambe,3,1,Completed,a376311ad08f057fffdcad6f80ca1bd8
+League 2,20250405,Wimbledon,Harrogate Town,1,0,Completed,0a93b084cbbef0c333dc134d37f9b2d4
+EPL,20250405,Everton,Arsenal,1,1,Completed,1f4cc94a47d13f4550a58e963b296998
+EPL,20250405,Crystal Palace,Brighton and Hove Albion,2,1,Completed,b4e2dd3f95efa2db0a095540d4b76057
+EPL,20250405,West Ham United,Bournemouth,2,2,Completed,cad2c4cc1411944e3411f12df572188b
+EPL,20250405,Ipswich Town,Wolverhampton Wanderers,1,2,Completed,62e8fa15409723003d824a78eea19744
+EPL,20250405,Aston Villa,Nottingham Forest,2,1,Completed,994d1ad78515915845a21e4e429fd903
+Ligue 1 - France,20250405,Paris Saint Germain,Angers,1,0,Completed,58163708da32c662388661f2fb93a88e
+Ligue 1 - France,20250405,Brest,AS Monaco,2,1,Completed,170d157abcebe521cb74135ffecc7f97
+Ligue 1 - France,20250405,Lyon,Lille,2,1,Completed,f79a0f3a41be8e38479bca551264e285
+Ligue 2 - France,20250405,Caen,Metz,2,2,Completed,881f0154b09fd848b55b407673928cea
+Ligue 2 - France,20250405,Lorient,Pau FC,5,0,Completed,b40ed19b2438207b4dfa67761d4ebadd
+Ligue 2 - France,20250405,Troyes,Red Star,2,2,Completed,4b77621449bf7f439d26bfe27a522be2
+Bundesliga - Germany,20250405,1. FC Heidenheim,Bayer Leverkusen,0,1,Completed,9e6f550b9a236308f0b21f4bb5615165
+Bundesliga - Germany,20250405,SC Freiburg,Borussia Dortmund,1,4,Completed,85450f100d1bf66b06dfe7bdb8593c21
+Bundesliga - Germany,20250405,FSV Mainz 05,Holstein Kiel,1,1,Completed,3babe307bf679c8f45ac5c237561a6b8
+Bundesliga - Germany,20250405,RB Leipzig,TSG Hoffenheim,3,1,Completed,b804303cc5fae6e8617ad6a9e3bd8ea3
+Bundesliga - Germany,20250405,VfL Bochum,VfB Stuttgart,0,4,Completed,c54b47f2aa71189a68a6faaf6f8ff4ad
+Bundesliga - Germany,20250405,Werder Bremen,Eintracht Frankfurt,2,0,Completed,73b7f2ef877dd65079d4b77b552873c7
+Bundesliga 2 - Germany,20250405,1. FC Nürnberg,Hamburger SV,0,3,Completed,b7728bf39996b23165d428559571a980
+Bundesliga 2 - Germany,20250405,Fortuna Düsseldorf,SC Preußen Münster,1,0,Completed,f15c1e91f73251b5205cc4234e192fa1
+Bundesliga 2 - Germany,20250405,SV Darmstadt 98,Greuther Fürth,1,0,Completed,f75555eadb604377ec92b021c19eceaa
+Bundesliga 2 - Germany,20250405,1. FC Köln,Hertha Berlin,0,1,Completed,91e7bd98ed7e14f20ac6f19b7df8a5c8
+3. Liga - Germany,20250405,Wehen Wiesbaden,Waldhof Mannheim,2,2,Completed,0e8dcc928317596131e0f20e0b0456d8
+3. Liga - Germany,20250405,Erzgebirge Aue,VfB Stuttgart II,2,1,Completed,61623386c4ba6cef7e82c2df95ee0e59
+3. Liga - Germany,20250405,FC Viktoria Köln 1904,SpVgg Unterhaching,3,1,Completed,ba189921400d0319b2acdae3f05b9b89
+3. Liga - Germany,20250405,1. FC Saarbrücken,VfL Osnabrück,1,1,Completed,411db4f0548b6e0b1d6ef073cb16c862
+3. Liga - Germany,20250405,TSV 1860 München,FC Energie Cottbus,5,1,Completed,59a3710c36282f4fef2982ae11d38ee4
+3. Liga - Germany,20250405,Alemannia Aachen,Arminia Bielefeld,0,1,Completed,0329b722768aa88c366bc2e6729793eb
+Super League - Greece,20250405,Levadiakos,Panserraikos FC,3,0,Completed,8e5ea426dd6685675eb762f04397e4b2
+Super League - Greece,20250405,Aris Thessaloniki,OFI Crete,2,0,Completed,b0b854b5cccb7392c98799db5af916a1
+Super League - Greece,20250405,PAS Lamia 1964,Athens Kallithea FC,0,2,Completed,c7edafcac53483b517d08893d4c88590
+Serie A - Italy,20250405,Monza,Como,1,3,Completed,b5b41436d5668bf5f6b31a2519bea81f
+Serie A - Italy,20250405,Parma,Inter Milan,2,2,Completed,4a05787cf349068cdfcde8069f0650a6
+Serie A - Italy,20250405,AC Milan,Fiorentina,2,2,Completed,445b81bf8addd0ce251abcc2f99fe203
+Serie B - Italy,20250405,Brescia,Mantova,1,2,Completed,f970ea238be2cd026ccc4eb60f52975d
+Serie B - Italy,20250405,Cittadella,Carrarese,0,0,Completed,8c2d5739a32c97e51ac8324daa36439b
+Serie B - Italy,20250405,Südtirol,Cesena FC,1,1,Completed,9a73235a405e1fef8b08fe1374423d3e
+Serie B - Italy,20250405,Frosinone,Cosenza,2,2,Completed,464ebbff0c52f3bac76cf6ecd5851e17
+Serie B - Italy,20250405,Pisa,Modena,1,2,Completed,e24187c5e6b97f14045a844843a82d52
+Serie B - Italy,20250405,Juve Stabia,Salernitana,1,0,Completed,0da1242c9f72cfad5d9fb5d38bd18dfb
+Liga MX,20250405,Pachuca,América,1,0,Completed,76f53fb552a649b21fd79ef7e3443d3d
+Liga MX,20250405,Atlas,FC Juárez,1,1,Completed,da8d22c21b2bdadca473ebf373577bce
+Liga MX,20250405,Atlético San Luis,Mazatlán FC,2,1,Completed,98b1a29c32cc4c51e31d092e9e6d4219
+Liga MX,20250405,Monterrey,Guadalajara,3,1,Completed,a25550c22e714f1ef90ed06dc5c6bbed
+Liga MX,20250405,Cruz Azul,Pumas,,,Unknown,b2262498890850d1d29ec6537edf6582
+Dutch Eredivisie,20250405,AZ Alkmaar,Feyenoord,0,1,Completed,c623b4460f0b449db27e9bb27c17b50e
+Dutch Eredivisie,20250405,FC Twente Enschede,Fortuna Sittard,1,1,Completed,d9fdf5bbcf41438214370773821c2308
+Dutch Eredivisie,20250405,Groningen,PSV Eindhoven,1,3,Completed,16ba2967f46b6faf06eaff583a8bce4a
+Dutch Eredivisie,20250405,Almere City,FC Zwolle,2,2,Completed,4ed75c8e1506cb3ae84f21eb0f788cfe
+Primeira Liga - Portugal,20250405,Arouca,Famalicão,1,2,Completed,d4752a958188d8fda11bdb9b2d937072
+Primeira Liga - Portugal,20250405,Vitória SC,Santa Clara,2,0,Completed,4c905e86072c67d20f2f1810d929e5da
+La Liga - Spain,20250405,Girona,Alavés,0,1,Completed,b3ddc204a44cf2deab503087304b2ef1
+La Liga - Spain,20250405,Real Madrid,Valencia,1,2,Completed,3e6d06a0da50bb3eff48e52aa4cfeb6f
+La Liga - Spain,20250405,Mallorca,Celta Vigo,1,2,Completed,868a3d89d57c57265d87f653aa6576dd
+La Liga - Spain,20250405,Barcelona,Real Betis,1,1,Completed,0bc6cfbb9d4293d53a1c690dd995d03b
+La Liga 2 - Spain,20250405,SD Eibar,Oviedo,1,1,Completed,4a915fe7d1dbe1d92a4abad050bc71e7
+La Liga 2 - Spain,20250405,Granada CF,Almería,3,1,Completed,cb300d93304d474b4f0385cf76e63c2e
+La Liga 2 - Spain,20250405,FC Cartagena,CD Eldense,0,1,Completed,f5689c1d96a1a1a061f6231c5c826ce4
+La Liga 2 - Spain,20250405,Sporting Gijón,Tenerife,1,3,Completed,7c7a2cc909d0d416ce16950909fac220
+Premiership - Scotland,20250405,Rangers,Hibernian,0,2,Completed,10173dee908bb9b8690f0040b3a9b987
+Premiership - Scotland,20250405,Dundee FC,St Mirren,2,0,Completed,7d9251f38e6b8aed8b4bab6c486d7979
+Premiership - Scotland,20250405,Kilmarnock,Motherwell,2,0,Completed,81fd1ed7c8941c6b1693c4e0b67fddbf
+Premiership - Scotland,20250405,Ross County,Aberdeen,0,1,Completed,f801feab6017fd65f48ec56c8ba895b1
+Swiss Superleague,20250405,FC Winterthur,FC Zurich,0,0,Completed,04b92a23c35315d603a41d51da38fb20
+Swiss Superleague,20250405,FC Lausanne-Sport,FC Sion,2,0,Completed,2a9a64c3b0cf77b60bcd6bcd107df891
+Swiss Superleague,20250405,BSC Young Boys,Yverdon Sport FC,1,1,Completed,4b47aad21d8ae0e328bf98cf321b6a6c
+Turkey Super League,20250405,Çaykur Rizespor,Sivasspor,1,1,Completed,f6ce29eab7b7521208940fc74c971921
+Turkey Super League,20250405,Basaksehir,Torku Konyaspor,1,0,Completed,3d1b49189f14921283bfc54d50718dab
+Turkey Super League,20250405,Antalyaspor,Samsunspor,2,1,Completed,410b24537d89f07d2cc4baafab13dc88
