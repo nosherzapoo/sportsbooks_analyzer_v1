@@ -1,0 +1,93 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250406,Port Adelaide Power,St Kilda Saints,72,89,Completed,0677e320dbf198ecffbad0ad9fe8c445
+AFL,20250406,Fremantle Dockers,Western Bulldogs,97,81,Completed,717813becaa9e4644a103f8661d2a986
+NBA,20250406,Charlotte Hornets,Chicago Bulls,117,131,Completed,da030cf93b827cec27dad6fa16fdba4b
+NBA,20250406,Brooklyn Nets,Toronto Raptors,109,120,Completed,fbedf11bd10d3974c5e59cfbf5be4d75
+NBA,20250406,Oklahoma City Thunder,Los Angeles Lakers,99,126,Completed,ba52e4b4cf9bc5b1e764c62579196887
+NBA,20250406,Boston Celtics,Washington Wizards,124,90,Completed,860812e24aec436b9e87056071b17c4c
+NBA,20250406,Cleveland Cavaliers,Sacramento Kings,113,120,Completed,ef4f52957cad1e367474d3a1493c774b
+NBA,20250406,Atlanta Hawks,Utah Jazz,147,134,Completed,9606baadc7950c5182357849dbad8d31
+NBA,20250406,Portland Trail Blazers,San Antonio Spurs,120,109,Completed,c5f31c84b42ec3ca5f5a26ccbd408420
+NBA,20250406,New York Knicks,Phoenix Suns,112,98,Completed,7930c0f8ba267a364c102cf71fddcbe2
+NBA,20250406,Denver Nuggets,Indiana Pacers,120,125,Completed,024a6bcda2332ba2bfcc74eb212de61d
+NBA,20250406,Golden State Warriors,Houston Rockets,96,106,Completed,39be07cec5bc30ecd00297327976cef1
+NBA,20250406,New Orleans Pelicans,Milwaukee Bucks,107,111,Completed,f0d6c858f8d4fa694fa46f336027c721
+NHL,20250406,New York Islanders,Washington Capitals,4,1,Completed,f5864f6defa54289ad3a481eaed1ac62
+NHL,20250406,Minnesota Wild,Dallas Stars,3,2,Completed,216134aeef2d731604b71f62b82242b4
+NHL,20250406,Ottawa Senators,Columbus Blue Jackets,4,0,Completed,7bc4450fc41b45dca62c6af05e7ff03b
+NHL,20250406,Detroit Red Wings,Florida Panthers,2,1,Completed,629b1d39d8445ca91f70ae246c54b2ac
+NHL,20250406,Buffalo Sabres,Boston Bruins,6,3,Completed,0a9b88d652e29d983eccb75f931e793b
+NHL,20250406,Chicago Blackhawks,Pittsburgh Penguins,3,1,Completed,ce974b453fe9b4ed6739cafec8d321b5
+NHL,20250406,Nashville Predators,Montréal Canadiens,1,2,Completed,8db7c35d1e80944a814d745ada256eea
+NHL,20250406,Vancouver Canucks,Vegas Golden Knights,,,Unknown,8cdd88e8dbeb642a12ce73edafda1f27
+NRL,20250406,Manly Warringah Sea Eagles,Melbourne Storm,24,48,Completed,7b479c802869474a5325efd6004e27d9
+NRL,20250406,Canterbury Bulldogs,Newcastle Knights,20,0,Completed,caaf6a53d3d9ba4bf2a1d7212c1d0777
+Primera División - Argentina,20250406,Union Santa Fe,Central Córdoba,1,0,Completed,ad0a55f9b7943960a930d0fb30564e68
+Primera División - Argentina,20250406,Lanus,Independiente,1,1,Completed,72c27cde22355132d3a5a469a6481b71
+Primera División - Argentina,20250406,Boca Juniors,Barracas Central,1,0,Completed,32b46a908398e3b803b816828e4b7f87
+Primera División - Argentina,20250406,Racing Club,Banfield,4,1,Completed,c25e2fa28eeef0b789aa94c693c510de
+Primera División - Argentina,20250406,Argentinos Juniors,Defensa y Justicia,4,1,Completed,da9f783f966f9df5a4fb8e834595d69f
+A-League,20250406,Newcastle Jets FC,Wellington Phoenix FC,1,2,Completed,25ac4e392aa725901742821e3ee75a3c
+Austrian Football Bundesliga,20250406,RB Salzburg,FC Blau-Weiß Linz,2,1,Completed,7541d05202d1a909e44061a8c7ca4576
+Austrian Football Bundesliga,20250406,Austria Wien,Wolfsberger AC,0,0,Completed,d2b1ab334d7671c76d4d900e1d53167e
+Belgium First Div,20250406,Royal Antwerp,Club Brugge,2,3,Completed,9ceeba19ce04e9e150ba9a4ca02bfe93
+Belgium First Div,20250406,Sint Truiden,KV Kortrijk,0,3,Completed,5971d61267e317f6de993dec85b8a9c4
+Belgium First Div,20250406,Anderlecht,Genk,1,2,Completed,8052a9055f16ba589ebbe7fe01cb4ddd
+Belgium First Div,20250406,Charleroi,Standard Liege,1,0,Completed,0aec854fcfc9b9aefbc647fe912454a8
+Denmark Superliga,20250406,Silkeborg IF,Lyngby,2,1,Completed,983a4887e2c1b98737332e533bd0db27
+Denmark Superliga,20250406,Viborg FF,SonderjyskE,2,1,Completed,05b7a6413392c54243411f37d28422fd
+Denmark Superliga,20250406,Vejle Boldklub,AaB,1,1,Completed,1566155876e06df1719b2dbf127e832b
+Denmark Superliga,20250406,FC Nordsjaelland,FC Copenhagen,0,1,Completed,d575eb6afede18af5afa13ab8e293738
+EPL,20250406,Fulham,Liverpool,3,2,Completed,5223ed5b01b1b87fa24a2f7cf6464f58
+EPL,20250406,Tottenham Hotspur,Southampton,3,1,Completed,56cb6c6cfd25db0964f49fc7506d5565
+EPL,20250406,Brentford,Chelsea,0,0,Completed,6c6de59ce829789706b89f7493e75016
+EPL,20250406,Manchester United,Manchester City,0,0,Completed,b4b3ae087e532d917f25d8e523289e63
+Ligue 1 - France,20250406,RC Lens,Saint Etienne,1,0,Completed,ea5e47a11ba783fe1237ad9c49a28fff
+Ligue 1 - France,20250406,Rennes,Auxerre,0,1,Completed,127d5e6beb807bfcd6880d86a1b06ca3
+Ligue 1 - France,20250406,Montpellier,Le Havre,0,2,Completed,97551395026657c1e16829b63fab8075
+Ligue 1 - France,20250406,Stade de Reims,Strasbourg,0,1,Completed,c2110e2b61c8c6be124552599925b71f
+Ligue 1 - France,20250406,Marseille,Toulouse,3,2,Completed,eb56b2fcc638835adafc8ac9c7610604
+Bundesliga - Germany,20250406,FC St. Pauli,Borussia Monchengladbach,1,1,Completed,cc4a24a7301f8a586b9106b34f13070d
+Bundesliga - Germany,20250406,Union Berlin,VfL Wolfsburg,1,0,Completed,2d1de07d7ac740c1c6d5c8cb66ed0e77
+Bundesliga 2 - Germany,20250406,1. FC Magdeburg,1. FC Kaiserslautern,2,0,Completed,b1ba706ff0c7b90f95c884d93a8bd822
+Bundesliga 2 - Germany,20250406,Elversberg,Jahn Regensburg,6,0,Completed,e0a1526718f454365532441c468ddc90
+Bundesliga 2 - Germany,20250406,FC Schalke 04,SSV Ulm 1846,2,1,Completed,47fad2768c7ba91043f90c6e57cdc9d9
+3. Liga - Germany,20250406,Borussia Dortmund II,FC Ingolstadt 04,3,3,Completed,938c0ec3a4542168c6b6addddc239bb1
+3. Liga - Germany,20250406,SV Sandhausen,SC Verl,1,3,Completed,01b2f00282a2ed11d8f7356791f6b29a
+3. Liga - Germany,20250406,Rot-Weiss Essen,Hansa Rostock,2,1,Completed,c5d60b379909d504fcf14386bd7b27fe
+Super League - Greece,20250406,Volos FC,Panetolikos Agrinio,0,0,Completed,c628a8cd07bbe918f05da1bfba81abe6
+Super League - Greece,20250406,PAOK Thessaloniki,Olympiakos Piraeus,2,1,Completed,bf01b3b0ff1b133e8bb36fa22ba71ff8
+Super League - Greece,20250406,Panathinaikos,AEK Athens,3,1,Completed,0e2a017d52d6bfb63bc2044d168c61fb
+Serie A - Italy,20250406,Lecce,Venezia,1,1,Completed,a921822ad4cd710617964de06a4b2c32
+Serie A - Italy,20250406,Empoli,Cagliari,0,0,Completed,03e45f95fc4b6413257104b1d78a07ec
+Serie A - Italy,20250406,Torino,Hellas Verona,1,1,Completed,ce701eed15fb82d9a66cfabce78dbdd9
+Serie A - Italy,20250406,Atalanta BC,Lazio,0,1,Completed,453cc0049b6a6ad74f6ec9dbe1b8852a
+Serie A - Italy,20250406,AS Roma,Juventus,1,1,Completed,2342616cc801184762caf2684b752e1d
+Serie B - Italy,20250406,US Catanzaro 1929,Bari,3,3,Completed,135054e08792b1283f0db79e2f691dce
+Serie B - Italy,20250406,Palermo,Sassuolo,5,3,Completed,70b9b0b49eac5bfc2af461bac35085a5
+Serie B - Italy,20250406,Spezia,Sampdoria,2,0,Completed,2f9e3d68cdfa27859df1ac31fe77cfbb
+Liga MX,20250406,Toluca,Santos Laguna,2,1,Completed,d47416bfa5e09d7c3f1b2669b176a3d3
+Dutch Eredivisie,20250406,RKC Waalwijk,Heracles Almelo,0,0,Completed,942701dc1be8ee6a44c60aa81c1b5a7d
+Dutch Eredivisie,20250406,Sparta Rotterdam,NEC Nijmegen,2,0,Completed,a7743d444a4618f47d28393b364be24d
+Dutch Eredivisie,20250406,Go Ahead Eagles,FC Utrecht,2,2,Completed,8878a6aa81f2d1256543619915d7fe82
+Dutch Eredivisie,20250406,Ajax,NAC Breda,3,1,Completed,ab3873ec4be67800d2a6c5fbeb1831cd
+Primeira Liga - Portugal,20250406,Gil Vicente,Moreirense FC,0,1,Completed,af4f929320da603476fd511fced8fb49
+Primeira Liga - Portugal,20250406,Nacional,CF Estrela,0,1,Completed,f14b72e28ea9987320fc600f0f119b46
+Primeira Liga - Portugal,20250406,FC Porto,Benfica,1,4,Completed,b4606e0b1ddbb67911b8159331e78b6b
+La Liga - Spain,20250406,Las Palmas,Real Sociedad,1,3,Completed,4a6beec9d399188d4ba7378172e694b7
+La Liga - Spain,20250406,Sevilla,Atlético Madrid,1,2,Completed,24fd7fa8e3335a65351d3e8dae6c0732
+La Liga - Spain,20250406,Valladolid,Getafe,0,4,Completed,3eac51545c1860f07789ca6be6464e58
+La Liga - Spain,20250406,Villarreal,Athletic Bilbao,0,0,Completed,09b2fe5e35e1c47aab13f282ecd01060
+La Liga 2 - Spain,20250406,Zaragoza,CD Mirandés,1,0,Completed,de5a7c47ed11e928981c73bc8361605a
+La Liga 2 - Spain,20250406,Levante,Real Racing Club de Santander,3,1,Completed,4285103297c2f0c6ee5fb9e086cc5aad
+La Liga 2 - Spain,20250406,Burgos CF,SD Huesca,2,1,Completed,881f922e35c02db45ecbb9774ff51b3a
+La Liga 2 - Spain,20250406,Málaga,Córdoba,0,1,Completed,83e5a1f17b2a8382187aca1756037165
+La Liga 2 - Spain,20250406,Deportivo La Coruña,Cádiz CF,1,0,Completed,9ad6a7785b94c4a1cb895b0a218d368f
+Premiership - Scotland,20250406,St Johnstone,Celtic,1,0,Completed,a58c0f57914d601035e681ac79ffd206
+Premiership - Scotland,20250406,Hearts,Dundee United,0,1,Completed,202851f555884375cbb5c0b6cad17d90
+Swiss Superleague,20250406,FC St Gallen,Servette,1,0,Completed,d18d1f64a9696a9e7a8005fd87fb8739
+Swiss Superleague,20250406,Grasshopper Zürich,FC Luzern,3,1,Completed,0f31be24d69796d9d94031afad061b7a
+Swiss Superleague,20250406,FC Basel,FC Lugano,2,0,Completed,a5c9361650344824267bcd77466119eb
+Turkey Super League,20250406,Alanyaspor,Bodrum FK,0,1,Completed,fab6288db8478823a7e662292a7d36e3
+Turkey Super League,20250406,Hatayspor,Eyüpspor,0,1,Completed,832147d02117ef04686596cfb843cee7
+Turkey Super League,20250406,Fenerbahce,Trabzonspor,4,1,Completed,68442c17e1da45cf2fc5dbbe3ed3fd66
