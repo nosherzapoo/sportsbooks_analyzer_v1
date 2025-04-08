@@ -1,0 +1,24 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250407,Detroit Pistons,Sacramento Kings,117,127,Completed,62d9403a4b884ead0926ca4c0674e1f1
+NBA,20250407,Miami Heat,Philadelphia 76ers,117,105,Completed,ed94773a6e0ed7b9ad7dfd6431ed80b0
+NCAAB,20250407,Houston Cougars,Florida Gators,63,65,Completed,935e3431859f7ea600918db2662e888b
+NHL,20250407,New York Rangers,Tampa Bay Lightning,1,5,Completed,f6643cb94251736ca355af89950abf67
+NHL,20250407,Winnipeg Jets,St Louis Blues,3,1,Completed,5e7b695cbbe2c06f47acb8f2bd70e822
+NHL,20250407,San Jose Sharks,Calgary Flames,,,Unknown,d3e78dae5dd7a9f38f5617e79a482c4d
+NHL,20250407,Anaheim Ducks,Edmonton Oilers,,,Unknown,f53b47828b9cfab020701f8b2c48d699
+NHL,20250407,Los Angeles Kings,Seattle Kraken,,,Unknown,2a48c9d6039253ec85b9f4aef81ef4c9
+Primera División - Argentina,20250407,Deportivo Riestra,Platense,1,0,Completed,680cfaa663025e34d96f5b2b14b137b8
+Primera División - Argentina,20250407,Atlético Tucuman,Instituto de Córdoba,3,2,Completed,67444a5dcba864ff1dcfad96846a09a3
+Primera División - Argentina,20250407,CA Tigre BA,Newells Old Boys,0,2,Completed,88a2cc3627827e1faad61ce64ad66db0
+Denmark Superliga,20250407,Brondby IF,AGF Aarhus,2,1,Completed,760de7f82605e8391d3470a0b0b2bfac
+EPL,20250407,Leicester City,Newcastle United,0,3,Completed,12b1e57eadd7cb793358ab8786379fc3
+Ligue 2 - France,20250407,USL Dunkerque,Guingamp,3,1,Completed,9cabcb3a1280bf21a38023f90da6660f
+Super League - Greece,20250407,Atromitos Athens,Asteras Tripolis,0,1,Completed,4ea1ee0cfda0f5ceddbed098eaa36fe5
+Serie A - Italy,20250407,Bologna,Napoli,1,1,Completed,4a78c0509dcdcdfeeccdbde7f2fdfd7e
+Primeira Liga - Portugal,20250407,SC Farense,Casa Pia,0,0,Completed,b7a51e592e01ce7e232f084e077323ee
+Primeira Liga - Portugal,20250407,Rio Ave FC,Boavista Porto,0,2,Completed,1cedc44e651561e5da84ab1285cc6624
+Primeira Liga - Portugal,20250407,Sporting Lisbon,Braga,1,1,Completed,870ec95fc9d84bebd5dae7833c1aaa17
+La Liga - Spain,20250407,Leganés,CA Osasuna,1,1,Completed,83255d8e3df6e93679a41a60b7e4a1c7
+La Liga 2 - Spain,20250407,Elche,Racing de Ferrol,1,0,Completed,667270f2ec77ecec600b88b4920aad79
+Turkey Super League,20250407,Kasimpasa SK,Besiktas JK,1,1,Completed,184b8847a4651f3819bb6c9854bf4354
+Turkey Super League,20250407,Goztepe,Gazişehir Gaziantep,1,1,Completed,3450a2a2bcd59b825f600b706aa0bc07
