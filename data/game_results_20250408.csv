@@ -1,0 +1,51 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250408,Charlotte Hornets,Memphis Grizzlies,100,124,Completed,0a627c5170c3cbe1838d20797c318495
+NBA,20250408,Cleveland Cavaliers,Chicago Bulls,135,113,Completed,2fbf82565fe41441e129845eac84dc8d
+NBA,20250408,Orlando Magic,Atlanta Hawks,119,112,Completed,fad71575fd9759dae5820a1af4d0cc46
+NBA,20250408,Indiana Pacers,Washington Wizards,104,98,Completed,17b10d4425b4741b0c5ae86a8dfed112
+NBA,20250408,New York Knicks,Boston Celtics,117,119,Completed,cedb10a80312941d8485be96f11aa7de
+NBA,20250408,Brooklyn Nets,New Orleans Pelicans,119,114,Completed,f7f0ae65ca3c3e82bba3fad7b0936e52
+NBA,20250408,Milwaukee Bucks,Minnesota Timberwolves,110,103,Completed,8aed4c001b2c7428c6ab5f506e940dd3
+NBA,20250408,Oklahoma City Thunder,Los Angeles Lakers,136,120,Completed,f2e3ed087aaeb77569f8aa67a866e76d
+NBA,20250408,Phoenix Suns,Golden State Warriors,,,Unknown,290cbcccd4af9b8fc674499f2a079d31
+NBA,20250408,Los Angeles Clippers,San Antonio Spurs,,,Unknown,93998895c7bdc051f1e251c230692296
+NHL,20250408,Buffalo Sabres,Carolina Hurricanes,3,0,Completed,fd6647944f3419efd24c71522130d4f5
+NHL,20250408,Pittsburgh Penguins,Chicago Blackhawks,5,0,Completed,1c385a739a48ae8122de22ae8a65a4a5
+NHL,20250408,Columbus Blue Jackets,Ottawa Senators,5,2,Completed,58dfc1e5f03239f30bcf9efb5e01a6eb
+NHL,20250408,Montréal Canadiens,Detroit Red Wings,4,1,Completed,0f10cb464ebcf7af99543411b86b1fa5
+NHL,20250408,New Jersey Devils,Boston Bruins,2,7,Completed,fb7d2fca8c1f5dc1b7cd0dff4219770e
+NHL,20250408,Florida Panthers,Toronto Maple Leafs,3,1,Completed,dd41abf8f4ab93c5b6171cf6f68ecdeb
+NHL,20250408,Dallas Stars,Vancouver Canucks,5,6,Completed,fc72de6e3de23866ed3ec92915f19b45
+NHL,20250408,Nashville Predators,New York Islanders,7,6,Completed,c986e9c572dfa38256e0272db7c62baf
+NHL,20250408,Utah Hockey Club,Seattle Kraken,7,1,Completed,6467a845cd5f15d869085b3556d65ed6
+NHL,20250408,Colorado Avalanche,Vegas Golden Knights,,,Unknown,a97bcef523324dad5050d2ec4cbb4da4
+SHL,20250408,Skellefteå AIK,Brynäs IF,,,Unknown,9197c4ad4f1ee32816e6e93f172ffa9d
+Copa Libertadores,20250408,Botafogo,Carabobo FC,2,0,Completed,a74bddf8fa0bf69e4683813ded82585b
+Copa Libertadores,20250408,Libertad Asuncion,Club Atletico Talleres,2,0,Completed,7b5def2c10ad48dff00efc1671fdcba0
+Copa Libertadores,20250408,Peñarol Montevideo,C.D. San Antonio Bulo Bulo,2,0,Completed,1e578f70d7dde61a63ecd2be82503373
+Copa Libertadores,20250408,River Plate,Barcelona SC,0,0,Completed,16236bce8c5327ba5b4a1ad29f465e9e
+Copa Libertadores,20250408,Estudiantes La Plata,Universidad de Chile,1,2,Completed,bf1b9eaf93351b5956e4e05a64fca684
+Copa Libertadores,20250408,Independiente del Valle,Club Universitario de Deportes,,,Unknown,cd230c5e8abe5f0a2dc0defd10d2542a
+Championship,20250408,Blackburn Rovers,Sheffield Wednesday,2,2,Completed,e337b194611f6c55a9db90b96ca6d4f5
+Championship,20250408,Bristol City,West Bromwich Albion,2,1,Completed,7dc84dc86ce57a68b4d9e8314fa9143c
+Championship,20250408,Derby County,Burnley,0,0,Completed,a70e3d94c208eda017eee2b576ed3979
+Championship,20250408,Preston North End,Cardiff City,2,2,Completed,b22ae4d8b63b2878eb7f14796b194b94
+Championship,20250408,Watford,Hull City,1,0,Completed,b2fb7e7fb5a0ab19f7ee275286e15c82
+Championship,20250408,Stoke City,Luton,1,1,Completed,5264b432f620d111773042d144598a71
+Championship,20250408,Sheffield United,Millwall,0,1,Completed,2da0f672a85d555e82f28b088678e801
+Championship,20250408,Norwich City,Sunderland,0,0,Completed,2f844cc21aeac383c9a81ebfa3c34439
+Championship,20250408,Middlesbrough,Leeds United,0,1,Completed,58a341b655e8c1043cf2c1a3e7f0c466
+League 1,20250408,Peterborough United,Birmingham City,1,2,Completed,427912237749f2161800979a453592ca
+League 1,20250408,Bolton Wanderers,Rotherham United,0,1,Completed,050ce549ccce639cd79e514bb8be21a2
+League 1,20250408,Exeter City,Wigan Athletic,1,1,Completed,2d6876d53cd6a716e7be914dc14901a5
+League 1,20250408,Huddersfield Town,Wycombe Wanderers,0,1,Completed,ed9cdcbd2e720eb8eaf7ccf05cde0aa4
+League 1,20250408,Mansfield Town,Leyton Orient,2,3,Completed,07b8b14401e38aa489da4dc91ddd8599
+League 1,20250408,Shrewsbury Town,Reading,1,3,Completed,51ddbe0affd7e839fef952d7d068a0ab
+League 2,20250408,Chesterfield FC,Gillingham,1,1,Completed,35d55f6037a4dc29460949028a1eca1f
+3. Liga - Germany,20250408,Hannover 96,Alemannia Aachen,1,1,Completed,bdc2f5bb15bec96ffd7935b3a1222ec4
+3. Liga - Germany,20250408,Arminia Bielefeld,Wehen Wiesbaden,4,2,Completed,82e420418667490bf5b4aa066e9295f9
+3. Liga - Germany,20250408,VfB Stuttgart II,FC Viktoria Köln 1904,1,2,Completed,4d9fda8e333f761f9622364d8464933b
+3. Liga - Germany,20250408,Waldhof Mannheim,SpVgg Unterhaching,0,2,Completed,564bcb859754cb98940828b4ab19ade0
+3. Liga - Germany,20250408,1. FC Saarbrücken,Erzgebirge Aue,2,0,Completed,494fb13e115cc13c5ac0eb9096c25c20
+UEFA Champions League,20250408,Arsenal,Real Madrid,3,0,Completed,f97bf8210d8b7cfbdc4ef13c0200d576
+UEFA Champions League,20250408,Bayern München,Internazionale Milano,1,2,Completed,1ad1f20f8b22abf90405d038b86a49f2
