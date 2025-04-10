@@ -1,0 +1,33 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250409,Orlando Magic,Boston Celtics,96,76,Completed,0ad952ba90ad3f9319d8ec0c8eede1ac
+NBA,20250409,Washington Wizards,Philadelphia 76ers,103,122,Completed,9dfae0ca946fecfe33eed88fd6056fd2
+NBA,20250409,Toronto Raptors,Charlotte Hornets,126,96,Completed,88ab25bbf01a28d3f999b2c44a9ea52b
+NBA,20250409,Dallas Mavericks,Los Angeles Lakers,97,112,Completed,2f2d69768c491fa3befbaceb2f4da649
+NBA,20250409,Chicago Bulls,Miami Heat,119,111,Completed,c27f91e504c093ff0b43e83bccfb9732
+NBA,20250409,Utah Jazz,Portland Trail Blazers,133,126,Completed,ab9fd4195cdd64ed05f3c2f03d82f570
+NBA,20250409,Phoenix Suns,Oklahoma City Thunder,,,Unknown,ffce12b85dddb0d0a0c240614c2b37ab
+NBA,20250409,Golden State Warriors,San Antonio Spurs,,,Unknown,46fb9a5147ba9f093b79502ffe6c2cf1
+NBA,20250409,Sacramento Kings,Denver Nuggets,,,Unknown,6dd480253123576fa5f109589d71f5a7
+NBA,20250409,Los Angeles Clippers,Houston Rockets,,,Unknown,903978b1b42e2d4808980f67584b1ec4
+NHL,20250409,Tampa Bay Lightning,Toronto Maple Leafs,3,4,Completed,83d78fd0019fb950d67a2750bbb5f618
+NHL,20250409,New York Rangers,Philadelphia Flyers,5,8,Completed,fe9f599f531bf612ff8fe0387f5ff861
+NHL,20250409,Minnesota Wild,San Jose Sharks,8,7,Completed,beb41a959a39fe66a8c65db951391c0d
+NHL,20250409,Anaheim Ducks,Calgary Flames,,,Unknown,079f60c1629456ff751e914f9b6b9be1
+NHL,20250409,Edmonton Oilers,St Louis Blues,,,Unknown,2bcc06c65bcf62ac1f7dc836ddc4d8c1
+SHL,20250409,Frölunda HC,Luleå HF,,,Unknown,251f7cbf9899b4afd424ac2aef3b05cf
+Copa Libertadores,20250409,Nacional de Montevideo,Bahia,0,1,Completed,105a4f4c835c5d35f5752c67028c2b4e
+Copa Libertadores,20250409,Olimpia Asunción,Velez Sarsfield,0,4,Completed,fb7945670cd084c004ee1397662b4c8e
+Copa Libertadores,20250409,Flamengo-RJ,Central Córdoba,1,2,Completed,7108241fde16ebda548407245604c43a
+Copa Libertadores,20250409,Palmeiras-SP,Cerro Porteño,1,0,Completed,9fb346af89cf39ac4060083f4b8fec94
+Copa Libertadores,20250409,Club Bolívar,Sporting Cristal,3,0,Completed,6109df6cb0a8e4b35fcd8b730c813420
+Copa Libertadores,20250409,LDU Quito,Deportivo Táchira,,,Unknown,401d0a460ae580a319860a4030b10bbc
+Championship,20250409,Oxford United,Queens Park Rangers,1,3,Completed,290fcf5f6f98beeefb269b3d8065ab87
+Championship,20250409,Swansea City,Plymouth Argyle,3,0,Completed,e9d75054a4d3860e13ceaa2953c591f4
+Championship,20250409,Coventry City,Portsmouth,1,0,Completed,3b5650b300374e458d7966483a16d823
+3. Liga - Germany,20250409,SC Verl,Borussia Dortmund II,0,1,Completed,ad34aa138ae5b2b418d9c0583913d80b
+3. Liga - Germany,20250409,VfL Osnabrück,Hansa Rostock,0,1,Completed,8ae551b7d2afb33b6d9a5418af90d3ac
+3. Liga - Germany,20250409,TSV 1860 München,SV Sandhausen,2,0,Completed,8b78461ea8ff98fc452832cf860c7a9f
+3. Liga - Germany,20250409,Dynamo Dresden,FC Ingolstadt 04,2,2,Completed,76e5630aeac880177da73e46f7ae163e
+3. Liga - Germany,20250409,FC Energie Cottbus,Rot-Weiss Essen,0,1,Completed,c1b6a82e2def361733d7289e21aa0c30
+UEFA Champions League,20250409,Paris Saint Germain,Aston Villa,3,1,Completed,7870be3e8c8ac05798da0a844571f6f7
+UEFA Champions League,20250409,Barcelona,Borussia Dortmund,4,0,Completed,2162b24f54d968d430da71037503dfcc
