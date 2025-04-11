@@ -1,0 +1,38 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250410,Adelaide Crows,Geelong Cats,100,119,Completed,9cbd64f90b28d56b6a43228ac6edebc0
+Basketball Euroleague,20250410,ASVEL Lyon Villeurbanne,AS Monaco,78,83,Completed,5ad1ad4a906f5a5d1ae2aac930af1c91
+Basketball Euroleague,20250410,FC Bayern München,Fenerbahce SK,77,89,Completed,d15b0d261012c1382f7ab21748e6e4cd
+Basketball Euroleague,20250410,Olympiacos,Maccabi Tel Aviv,99,93,Completed,9d56ab62bd5199342140f0e2ec3b59d1
+Basketball Euroleague,20250410,KK Partizan NIS,Real Madrid,89,91,Completed,bab54ea1a87e59d15d0b736fa353b1cc
+Basketball Euroleague,20250410,Pallacanestro Olimpia Milano,Saski Baskonia,111,89,Completed,02e2b6338f8e608e3b33d8886d634ad6
+Basketball Euroleague,20250410,Paris Basketball,ALBA Berlin,72,63,Completed,4f1029aa2f35a6eaa57ffd2820d90c75
+NBA,20250410,Indiana Pacers,Cleveland Cavaliers,114,112,Completed,2d7c114ac266d890852c5a00d0a09c1c
+NBA,20250410,Detroit Pistons,New York Knicks,115,106,Completed,7aa9f4f6bb59b6a4453db958e2aa9f31
+NBA,20250410,Brooklyn Nets,Atlanta Hawks,109,133,Completed,c015dac4afa8286578bbfe4271eb4515
+NBA,20250410,Milwaukee Bucks,New Orleans Pelicans,136,111,Completed,d11984b0f1bb2d351140900d0d64c28e
+NBA,20250410,Memphis Grizzlies,Minnesota Timberwolves,,,Unknown,77d0c83170f202a956ae2cee0db9a53b
+NHL,20250410,Florida Panthers,Detroit Red Wings,4,1,Completed,a46fee26b6c3bb6caed73549988e196e
+NHL,20250410,Columbus Blue Jackets,Buffalo Sabres,3,2,Completed,5d083fdc8b79f487576c19ba8c86c15a
+NHL,20250410,New York Islanders,New York Rangers,2,9,Completed,117fb487e3dae486bc9c288fb30212c9
+NHL,20250410,Washington Capitals,Carolina Hurricanes,5,4,Completed,94e50c1c5372b7c0b129042985f02dcd
+NHL,20250410,Boston Bruins,Chicago Blackhawks,2,5,Completed,837b9ecfcdeb473e92ba9134dcb1f512
+NHL,20250410,Dallas Stars,Winnipeg Jets,0,4,Completed,fc6c29f55b482f01bf9b6835f6d07da8
+NHL,20250410,Colorado Avalanche,Vancouver Canucks,,,Unknown,4499b0ac700a1cb4ba5ce58b55a6de38
+NHL,20250410,Utah Hockey Club,Nashville Predators,,,Unknown,218f071bd101bcc484c9af4e50865e58
+NHL,20250410,Los Angeles Kings,Anaheim Ducks,,,Unknown,118aee11717e1b5faeecd73f51d7ef44
+NHL,20250410,Vegas Golden Knights,Seattle Kraken,,,Unknown,44ff3bacbb972e51b620ea4d0ec8dfa4
+NRL,20250410,Dolphins,Penrith Panthers,30,12,Completed,3a94df9109ba79a458d29f503de00e38
+Copa Libertadores,20250410,Racing Club,Atlético Bucaramanga,1,2,Completed,d39a0d449f96d88f6939c0491a42c330
+Copa Libertadores,20250410,Internacional-RS,Atlético Nacional S.A,3,0,Completed,c23f0d4e6bc4f102cf4b0d235914469b
+Copa Libertadores,20250410,Colo Colo,Fortaleza-EC,,,Unknown,07ce61009f87d6dc0991177263d91fb3
+Copa Libertadores,20250410,Sao Paulo,Alianza Lima,2,2,Completed,96116e36cb7f83f077fc966a118e5488
+League 2,20250410,Crewe Alexandra,Cheltenham Town,2,3,Completed,e5aa61c712cf1bd686196c4f0e12bdbc
+Liga MX,20250410,Tijuana,Atlético San Luis,,,Unknown,0523ccf9a7ced0eca6ca30429064eedb
+UEFA Europa Conference League,20250410,Legia Warszawa,Chelsea,0,3,Completed,f9536aad197e96f4c07b6a9b20fb5cb2
+UEFA Europa Conference League,20250410,Djurgardens IF,Rapid Wien,0,1,Completed,b7189c6bc6e4095f9327ad5d3f620482
+UEFA Europa Conference League,20250410,NK Celje,Fiorentina,1,2,Completed,2078f9dc44924eccf20c5a62e2112c2c
+UEFA Europa Conference League,20250410,Real Betis,Jagiellonia Białystok,2,0,Completed,cf067b10be67fb9051a9a913fdac96d4
+UEFA Europa League,20250410,Bodø/Glimt,SS Lazio,2,0,Completed,cdab72635d61c84ea78e3506456f90c3
+UEFA Europa League,20250410,Rangers FC,Athletic Bilbao,0,0,Completed,0b42917b228c91e23fdfb0332b39310d
+UEFA Europa League,20250410,Lyon,Manchester United,2,2,Completed,0a76444300a5758686e421e5e478d558
+UEFA Europa League,20250410,Tottenham Hotspur,Eintracht Frankfurt,1,1,Completed,a751cdf0fa1047676224452f5f4a32d7
