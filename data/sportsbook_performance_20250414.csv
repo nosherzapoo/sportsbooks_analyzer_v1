@@ -1,0 +1,186 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,8,44.44,10,55.56,2
+BetMGM,8,47.06,9,52.94,2
+Bovada,8,44.44,10,55.56,2
+BetRivers,8,50.0,8,50.0,2
+BetOnline.ag,8,44.44,10,55.56,2
+LowVig.ag,8,44.44,10,55.56,2
+DraftKings,8,44.44,10,55.56,2
+BetUS,4,30.77,9,69.23,2
+MyBookie.ag,3,60.0,2,40.0,2
+Fanatics,3,60.0,2,40.0,2
+Caesars,3,75.0,1,25.0,2
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.75,2.55,FanDuel,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.7,2.5,BetMGM,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.7,2.55,Bovada,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.6,2.7,BetRivers,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.71,2.41,BetOnline.ag,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.71,2.41,LowVig.ag,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.75,2.55,DraftKings,2025-04-13 23:39:53
+Championship,20250414,Hull City,Coventry City,1.0,1.0,Completed,59385105657c1881ab801e0263ca4187,2025-04-14 15:00:00,2.7,2.55,BetUS,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.4,2.75,FanDuel,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.45,2.75,Bovada,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.45,2.8,DraftKings,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.48,2.75,BetRivers,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.45,2.75,BetUS,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.45,2.91,LowVig.ag,2025-04-13 23:39:53
+Denmark Superliga,20250414,SonderjyskE,Vejle Boldklub,1.0,0.0,Completed,61a42b16a7bcb554bfd45168520b9d12,2025-04-14 13:00:00,2.45,2.91,BetOnline.ag,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.15,3.3,FanDuel,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.15,3.3,DraftKings,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.1,3.24,MyBookie.ag,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.1,3.3,BetMGM,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.1,3.45,BetRivers,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.15,3.3,Bovada,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.1,3.4,Fanatics,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.12,3.3,BetUS,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.18,3.4,LowVig.ag,2025-04-13 23:39:53
+EPL,20250414,Bournemouth,Fulham,1.0,0.0,Completed,2d47b0131e8839849d30741559257fdc,2025-04-14 15:00:00,2.18,3.4,BetOnline.ag,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.111,19.0,FanDuel,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.125,19.0,Bovada,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.125,15.0,DraftKings,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.143,20.0,BetMGM,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.11,20.0,BetRivers,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.129,21.0,BetOnline.ag,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.129,21.0,LowVig.ag,2025-04-13 23:39:53
+La Liga - Spain,20250414,Atlético Madrid,Valladolid,4.0,2.0,Completed,806603b56a1534efdab14d161f3532f4,2025-04-14 15:00:00,1.125,19.0,BetUS,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,2.0,4.0,FanDuel,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,2.05,4.1,Bovada,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,2.05,4.2,DraftKings,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,1.952,3.9,BetMGM,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,2.05,4.1,BetUS,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,1.98,3.85,BetOnline.ag,2025-04-13 23:39:53
+La Liga 2 - Spain,20250414,SD Huesca,Málaga,1.0,0.0,Completed,c3076f54bde3e663a7a602628505df5b,2025-04-14 14:30:00,1.98,3.85,LowVig.ag,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.294,9.5,FanDuel,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.333,9.0,Bovada,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.364,8.5,DraftKings,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.31,8.2,BetOnline.ag,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.31,8.2,LowVig.ag,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.333,9.0,BetUS,2025-04-13 23:39:53
+League of Ireland,20250414,Shamrock Rovers,Cork City,4.0,1.0,Completed,17088aabdec4ffee680f74210a57a4c1,2025-04-14 15:00:00,1.339,8.25,BetMGM,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.714,5.2,FanDuel,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.741,4.8,Bovada,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.741,4.8,DraftKings,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.645,5.0,BetRivers,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.714,5.0,BetMGM,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.741,4.8,BetUS,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.769,4.55,LowVig.ag,2025-04-13 23:39:53
+Ligue 2 - France,20250414,SC Bastia,Stade Lavallois,5.0,2.0,Completed,4de43077e6d96644eeee91575aec30f5,2025-04-14 14:45:00,1.769,4.55,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.04,1.8,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.1,1.769,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.05,1.752,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.19,1.746,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.19,1.746,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.05,1.8,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.1,1.758,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.15,1.741,BetUS,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.1,1.769,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.1,1.769,Bovada,2025-04-13 23:39:53
+NHL,20250414,Detroit Red Wings,Dallas Stars,6.0,4.0,Completed,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14 19:00:00,2.1,1.769,Caesars,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.893,1.917,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.87,1.952,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.847,1.926,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.877,1.952,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.909,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.909,Bovada,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.909,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.98,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.98,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.87,1.952,Caesars,2025-04-13 23:39:53
+NHL,20250414,Edmonton Oilers,Los Angeles Kings,,,Unknown,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-14 22:00:00,1.909,1.909,BetUS,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.637,2.28,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.617,2.36,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.613,2.27,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.625,2.3,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.61,2.36,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.625,2.35,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.645,2.33,Bovada,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.654,2.36,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.654,2.36,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.625,2.35,Caesars,2025-04-13 23:39:53
+NHL,20250414,Florida Panthers,New York Rangers,3.0,5.0,Completed,4e4237be53302b0e12fe2199bba601f7,2025-04-14 19:00:00,1.645,2.34,BetUS,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.377,3.1,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.377,3.15,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.351,3.12,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.385,3.29,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.385,3.29,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.385,3.1,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.364,3.2,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.385,3.18,BetUS,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.364,3.25,Bovada,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.364,3.2,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Montréal Canadiens,Chicago Blackhawks,3.0,4.0,Completed,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14 19:00:00,1.375,3.15,Caesars,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.07,1.769,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.14,1.741,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.08,1.73,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.2,1.741,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.2,1.741,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.14,1.73,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.1,1.769,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.15,1.741,BetUS,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.15,1.741,Bovada,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.15,1.741,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Nashville Predators,Utah Hockey Club,3.0,7.0,Completed,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-14 20:00:00,2.15,1.741,Caesars,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.317,3.45,BetRivers,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.323,3.5,DraftKings,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.286,3.55,MyBookie.ag,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.317,3.5,FanDuel,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.345,3.54,BetOnline.ag,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.345,3.54,LowVig.ag,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.308,3.5,Fanatics,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.323,3.55,BetUS,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.323,3.55,Bovada,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.333,3.4,BetMGM,2025-04-13 23:39:53
+NHL,20250414,Vancouver Canucks,San Jose Sharks,,,Unknown,de1e996b36af8e55c6f41414925ae404,2025-04-14 22:00:00,1.312,3.5,Caesars,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.5,1.952,FanDuel,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.75,1.952,Bovada,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.7,1.98,BetMGM,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.75,2.0,DraftKings,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.45,2.08,BetRivers,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.75,2.0,LowVig.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Aldosivi Mar del Plata,Racing Club,0.0,2.0,Completed,c48c841f03679242b12f5582ce667e93,2025-04-14 14:30:00,3.75,2.0,BetOnline.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.5,2.9,FanDuel,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.6,2.95,Bovada,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.55,2.95,BetMGM,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.6,3.0,DraftKings,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.65,2.95,BetRivers,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.65,3.2,BetOnline.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Central Córdoba,Atlético Huracán,1.0,2.0,Completed,8dba2610a04f04dfd0b88572601fdd05,2025-04-14 17:00:00,2.65,3.2,LowVig.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.15,3.3,FanDuel,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.25,3.4,Bovada,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.2,3.3,BetMGM,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.3,3.4,DraftKings,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.34,3.68,BetOnline.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.34,3.68,LowVig.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Defensa y Justicia,Union Santa Fe,0.0,0.0,Completed,a30c9ddacd6c53c24124ff2b4c2c6356,2025-04-14 18:00:00,2.18,3.45,BetRivers,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.3,2.15,FanDuel,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.55,2.25,Bovada,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.4,2.25,BetMGM,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.59,2.29,BetOnline.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.59,2.29,LowVig.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.45,2.3,DraftKings,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Godoy Cruz,Lanus,0.0,0.0,Completed,c3ff127d81af814493a67c74bb67429e,2025-04-14 20:15:00,3.6,2.12,BetRivers,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.69,5.5,FanDuel,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.741,5.2,Bovada,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.741,5.0,BetMGM,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.714,5.9,BetOnline.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.714,5.9,LowVig.ag,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.714,5.5,DraftKings,2025-04-13 23:39:53
+Primera División - Argentina,20250414,Velez Sarsfield BA,Sarmiento de Junin,0.0,1.0,Completed,c57a61f91dccc53704a3cd8c6855a554,2025-04-14 20:15:00,1.719,5.6,BetRivers,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.278,10.5,FanDuel,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.286,9.5,DraftKings,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.25,12.0,BetRivers,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.308,10.0,BetMGM,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.299,10.0,Bovada,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.282,11.27,BetUS,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.308,11.4,LowVig.ag,2025-04-13 23:39:53
+Serie A - Italy,20250414,Napoli,Empoli,3.0,0.0,Completed,adf55ba3369855974e14637f5596026d,2025-04-14 14:45:00,1.308,11.4,BetOnline.ag,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.133,14.0,FanDuel,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.174,13.0,DraftKings,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.149,14.0,BetRivers,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.167,12.0,Bovada,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.182,12.5,BetMGM,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.167,12.0,BetUS,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.17,12.0,LowVig.ag,2025-04-13 23:39:53
+Turkey Super League,20250414,Eyüpspor,Adana Demirspor,6.0,0.0,Completed,606571b34c5390a9b035464adc51efa9,2025-04-14 13:00:00,1.17,12.0,BetOnline.ag,2025-04-13 23:39:53
