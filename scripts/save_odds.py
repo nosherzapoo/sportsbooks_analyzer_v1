@@ -52,10 +52,22 @@ def parse_html_to_table(html_content):
         
         logger.info(f"Processing match: {home_team} vs {away_team} on {match_date} (EST)")
         
-        odds_sections = game.find_all('div', class_='p-3')
-        for odds_section in odds_sections:
-            team_name = odds_section.find('span').text.strip()
-            odds_items = odds_section.find_all('div', class_='grid grid-flow-row p-3')
+        # Find all team spans (directly inside the game div or inside nested divs)
+        team_spans = game.find_all('span', recursive=True)
+        
+        for i, span in enumerate(team_spans):
+            # Skip spans that are inside grid-flow-row (these are the odds and bookmakers)
+            if span.find_parent('div', class_='grid grid-flow-row p-3'):
+                continue
+                
+            team_name = span.text.strip()
+            
+            # For each team, find its odds container (the div after the span)
+            odds_container = span.find_next('div', class_='flex flex-row justify-around p-6 bg-white flex-wrap')
+            if not odds_container:
+                continue
+                
+            odds_items = odds_container.find_all('div', class_='grid grid-flow-row p-3')
             
             logger.info(f"Found {len(odds_items)} odds entries for {team_name}")
             
