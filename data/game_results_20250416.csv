@@ -1,0 +1,18 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250416,Chicago Bulls,Miami Heat,90,109,Completed,bd807e6a63c25eaf7a43a16336214448
+NBA,20250416,Sacramento Kings,Dallas Mavericks,,,Unknown,a22635f3bf66e2b73ef464e660fa3f41
+NHL,20250416,Montréal Canadiens,Carolina Hurricanes,4,2,Completed,ac04a1d8db1d91e0d1e0322e99113bd4
+NHL,20250416,Winnipeg Jets,Anaheim Ducks,2,1,Completed,55c5bbd398f206d8fb77bde3fd1b0f4c
+NHL,20250416,New Jersey Devils,Detroit Red Wings,2,5,Completed,dad42114a81f6cbf5e6713046c2f4a36
+NHL,20250416,Nashville Predators,Dallas Stars,5,1,Completed,a79b3939c435c872acefc3329372d41e
+NHL,20250416,Vancouver Canucks,Vegas Golden Knights,,,Unknown,c21f96046b445d5323f1d476b54a0136
+NHL,20250416,San Jose Sharks,Edmonton Oilers,,,Unknown,dbe7c854490ae0ea660f789904e7b3b4
+Denmark Superliga,20250416,Silkeborg IF,AaB,4,0,Completed,e742850b067b1e97024dea617534ed70
+EPL,20250416,Newcastle United,Crystal Palace,5,0,Completed,552a1da675b6098a2f26c68b98ee4eca
+Liga MX,20250416,Monterrey,América,1,0,Completed,65587e87689a375a999b190fd2cff954
+Liga MX,20250416,Querétaro,Atlas,1,2,Completed,49ea671704a17fce2e01e2b4699c45fa
+Liga MX,20250416,Atlético San Luis,Toluca,,,Unknown,17b9dbb55ec37addac3700bc6dcd4df4
+Liga MX,20250416,Mazatlán FC,Tijuana,,,Unknown,32c4a18e05262920ae478688c2b43d32
+Liga MX,20250416,Pumas,Santos Laguna,,,Unknown,22a80b3c82faa8506e78ebdaf8db6383
+UEFA Champions League,20250416,Internazionale Milano,Bayern München,2,2,Completed,acb598c3a05ee732c368d1c3861a22ec
+UEFA Champions League,20250416,Real Madrid,Arsenal,1,2,Completed,f51007a4e692c149fd91fdfb4fcf0ad5
