@@ -1,0 +1,24 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250417,Brisbane Lions,Collingwood Magpies,53,105,Completed,42e281a1a490751d30ba951bfcaefd76
+NHL,20250417,Ottawa Senators,Carolina Hurricanes,7,5,Completed,afe2d85c363aa7de6a00d44e69edb7c7
+NHL,20250417,Columbus Blue Jackets,New York Islanders,6,1,Completed,bc95b3d0c16c46c0ad909a13cfc3dfad
+NHL,20250417,Toronto Maple Leafs,Detroit Red Wings,4,3,Completed,0ef6359520503b6fe645737236cf0ced
+NHL,20250417,New York Rangers,Tampa Bay Lightning,4,0,Completed,372d59e82c2ce9fb9e5176981becd804
+NHL,20250417,Buffalo Sabres,Philadelphia Flyers,5,4,Completed,4fb337641c06260bc8a311774dc2ee50
+NHL,20250417,Pittsburgh Penguins,Washington Capitals,5,2,Completed,6093a60fd429e1ef3307ec50897fb8a3
+NHL,20250417,Los Angeles Kings,Calgary Flames,,,Unknown,8579c803aac3c94767e2d7eec62b614b
+NRL,20250417,Manly Warringah Sea Eagles,St George Illawarra Dragons,18,20,Completed,3350059d419f555ba4bd6887a2e2cf4c
+A-League,20250417,Brisbane Roar,Western United FC,2,1,Completed,a1c1b3d0b5422dc7cd0a998cd0eca64f
+Denmark Superliga,20250417,Vejle Boldklub,Viborg FF,3,3,Completed,b66bcc2b229934eca797f2f543b386bb
+Denmark Superliga,20250417,Lyngby,SonderjyskE,0,2,Completed,34ff03e092016f6670da37f606cf222a
+Denmark Superliga,20250417,Randers FC,AGF Aarhus,3,1,Completed,83033ff6b75b5e1727646babfd5cf90f
+Denmark Superliga,20250417,FC Midtjylland,FC Copenhagen,4,2,Completed,72ff9107738b9a58ec9827401a145723
+League 2,20250417,Bradford City,Notts County,1,1,Completed,35bfb0cece99c35d03fa5c612712eeb6
+UEFA Europa Conference League,20250417,Jagiellonia Białystok,Real Betis,1,1,Completed,493c87fefd3a8939f74e33ced08433ad
+UEFA Europa Conference League,20250417,Fiorentina,NK Celje,2,2,Completed,45c9ae7216c6a742798aeb2f33127b12
+UEFA Europa Conference League,20250417,Chelsea,Legia Warszawa,1,2,Completed,0ece70491b15749bf849df7816beab7e
+UEFA Europa Conference League,20250417,Rapid Wien,Djurgardens IF,1,4,Completed,55143d954e89aae345a9befda8919721
+UEFA Europa League,20250417,Athletic Bilbao,Rangers FC,2,0,Completed,fe1d02ff67379c3838a7ca989f563d6c
+UEFA Europa League,20250417,Eintracht Frankfurt,Tottenham Hotspur,0,1,Completed,4e32c1615d1c5a9df109716c94093fb1
+UEFA Europa League,20250417,Manchester United,Lyon,5,4,Completed,2f596b37853bb7120a48b601feb9268b
+UEFA Europa League,20250417,SS Lazio,Bodø/Glimt,3,1,Completed,c42eb94fade7c2955729369712ba3e75
