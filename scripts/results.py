@@ -29,7 +29,7 @@ def fetch_game_results(sport, sport_url):
 def process_results():
     try:
         ny_tz = pytz.timezone('America/New_York')
-        today = datetime.now(ny_tz).strftime('%Y%m%d')
+        today = (datetime.now(ny_tz) - timedelta(days=1)).strftime('%Y%m%d')
         
         
         # Read today's odds file to get active leagues
