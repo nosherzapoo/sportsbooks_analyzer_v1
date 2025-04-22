@@ -28,10 +28,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas tzdata python-dotenv
 
-      - name: Get today's date
+      - name: Get yesterday's date
         id: date
         run: |
-          TZ=America/New_York date +'%Y%m%d' > date.txt
+          TZ=America/New_York date -d "yesterday" +'%Y%m%d' > date.txt
           echo "date=$(cat date.txt)" >> $GITHUB_ENV
           echo "Using date: $(cat date.txt)"
 
