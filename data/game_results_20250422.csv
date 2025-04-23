@@ -1,33 +1,36 @@
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
-Basketball Euroleague,20250422,Fenerbahce SK,Paris Basketball,,,Unknown,7e8395ed77437adc664b01c139890dee
-Basketball Euroleague,20250422,Panathinaikos,Anadolu Efes,,,Unknown,c007ecb9cec90743497e27f1c9bea487
-NBA,20250422,Indiana Pacers,Milwaukee Bucks,,,Unknown,bd3c0c5aac8b6ce41690e86011740d3b
-NBA,20250422,Oklahoma City Thunder,Memphis Grizzlies,,,Unknown,84fcb7d4f3ea128bf6e2ac2247fa236b
+Basketball Euroleague,20250422,Fenerbahce SK,Paris Basketball,83,78,Completed,7e8395ed77437adc664b01c139890dee
+Basketball Euroleague,20250422,Panathinaikos,Anadolu Efes,87,83,Completed,c007ecb9cec90743497e27f1c9bea487
+Basketball Euroleague,20250422,Fenerbahce SK,Paris Basketball,,,Unknown,de77f4600056013f5a2c62ce94ec7136
+Basketball Euroleague,20250422,Panathinaikos,Anadolu Efes,,,Unknown,7081bfd0c3059b168e08810a23d5f6a4
+NBA,20250422,Indiana Pacers,Milwaukee Bucks,123,115,Completed,bd3c0c5aac8b6ce41690e86011740d3b
+NBA,20250422,Oklahoma City Thunder,Memphis Grizzlies,118,99,Completed,84fcb7d4f3ea128bf6e2ac2247fa236b
 NBA,20250422,Los Angeles Lakers,Minnesota Timberwolves,,,Unknown,5cd2c4c92f51a4c9b79e8f1e7b6fe4ab
 Test Matches,20250422,Bangladesh,Zimbabwe,,,Unknown,639f1f18f0d5bc5939123503a8f644da
 NHL,20250422,Carolina Hurricanes,New Jersey Devils,,,Unknown,b3be92b5357dc87ec9e0d4a52c54650c
-NHL,20250422,Toronto Maple Leafs,Ottawa Senators,,,Unknown,f94981c2f206753d8d61c21dcf557c62
-NHL,20250422,Tampa Bay Lightning,Florida Panthers,,,Unknown,3c4685b39421255d49e6a8801efbac17
+NHL,20250422,Toronto Maple Leafs,Ottawa Senators,3,2,Completed,f94981c2f206753d8d61c21dcf557c62
+NHL,20250422,Tampa Bay Lightning,Florida Panthers,2,6,Completed,3c4685b39421255d49e6a8801efbac17
 NHL,20250422,Vegas Golden Knights,Minnesota Wild,,,Unknown,ef6c98c3d78413b831c2482f7bd9d71a
-Primera División - Argentina,20250422,Argentinos Juniors,Barracas Central,,,Unknown,53d0cb661af20f2ca5a3075da09306a9
-Primera División - Argentina,20250422,CA Tigre BA,Belgrano de Cordoba,,,Unknown,ffdaa6ad16ce8fd03a316c9d1586e68c
-Primera División - Argentina,20250422,Independiente Rivadavia,Aldosivi Mar del Plata,,,Unknown,d99c81768e40e1cf3dcd7d35528a7a5a
+NHL,20250422,Tampa Bay Lightning,Florida Panthers,,,Unknown,cce086ed584d6c104d05ac10ada69537
+Primera División - Argentina,20250422,Argentinos Juniors,Barracas Central,3,0,Completed,53d0cb661af20f2ca5a3075da09306a9
+Primera División - Argentina,20250422,CA Tigre BA,Belgrano de Cordoba,0,0,Completed,ffdaa6ad16ce8fd03a316c9d1586e68c
+Primera División - Argentina,20250422,Independiente Rivadavia,Aldosivi Mar del Plata,1,0,Completed,d99c81768e40e1cf3dcd7d35528a7a5a
 A-League,20250422,Brisbane Roar,Adelaide United,1,1,Completed,3abd918321980ab653623565157d4528
-Austrian Football Bundesliga,20250422,Grazer AK,Hartberg,,,Unknown,7e2ecd73481d85e42361eba898c12e90
-Austrian Football Bundesliga,20250422,WSG Tirol,Rheindorf Altach,,,Unknown,6010e1443ed98106afddfce005860dd8
-Austrian Football Bundesliga,20250422,Austria Klagenfurt,LASK,,,Unknown,4e4057064bf9bc3795ec0a1dc2591a1d
-Belgium First Div,20250422,Dender,Charleroi,,,Unknown,bb821026dc269362fac67a9625281df0
-Belgium First Div,20250422,KV Mechelen,Westerlo,,,Unknown,dede73f95539c843a9203db7c9c3040a
-Belgium First Div,20250422,Standard Liege,Leuven,,,Unknown,8832b0a6966e65be4ae4ffaaf5495786
-Copa Libertadores,20250422,Alianza Lima,Club Atletico Talleres,,,Unknown,98124db6e6063e68247a3b2f6ac84c79
-Copa Libertadores,20250422,Carabobo FC,Universidad de Chile,,,Unknown,719a5280037514fc0dbbe598ac72fd9d
-Copa Libertadores,20250422,LDU Quito,Flamengo-RJ,,,Unknown,0c3168e35b85539f922c535e56d6f76a
-Copa Libertadores,20250422,Colo Colo,Racing Club,,,Unknown,959316ae61fcc383d5ea405576099618
-Copa Libertadores,20250422,Internacional-RS,Nacional de Montevideo,,,Unknown,5bde64922e1608085c331eb5b73c934f
+Austrian Football Bundesliga,20250422,Grazer AK,Hartberg,0,3,Completed,7e2ecd73481d85e42361eba898c12e90
+Austrian Football Bundesliga,20250422,WSG Tirol,Rheindorf Altach,1,0,Completed,6010e1443ed98106afddfce005860dd8
+Austrian Football Bundesliga,20250422,Austria Klagenfurt,LASK,1,4,Completed,4e4057064bf9bc3795ec0a1dc2591a1d
+Belgium First Div,20250422,Dender,Charleroi,2,1,Completed,bb821026dc269362fac67a9625281df0
+Belgium First Div,20250422,KV Mechelen,Westerlo,2,3,Completed,dede73f95539c843a9203db7c9c3040a
+Belgium First Div,20250422,Standard Liege,Leuven,0,1,Completed,8832b0a6966e65be4ae4ffaaf5495786
+Copa Libertadores,20250422,Alianza Lima,Club Atletico Talleres,3,2,Completed,98124db6e6063e68247a3b2f6ac84c79
+Copa Libertadores,20250422,LDU Quito,Flamengo-RJ,0,0,Completed,0c3168e35b85539f922c535e56d6f76a
+Copa Libertadores,20250422,Carabobo FC,Universidad de Chile,1,1,Completed,719a5280037514fc0dbbe598ac72fd9d
+Copa Libertadores,20250422,Internacional-RS,Nacional de Montevideo,3,3,Completed,5bde64922e1608085c331eb5b73c934f
+Copa Libertadores,20250422,Colo Colo,Racing Club,1,1,Completed,959316ae61fcc383d5ea405576099618
 Copa Libertadores,20250422,Barcelona SC,Club Universitario de Deportes,,,Unknown,cef290283e2f55c79718c466f15c0eb9
-Denmark Superliga,20250422,FC Nordsjaelland,FC Midtjylland,,,Unknown,edb22ef7623fdb67e6bcce858b24acc6
-EPL,20250422,Manchester City,Aston Villa,,,Unknown,4eeec3e2817061365a9675c31c874181
-Ligue 1 - France,20250422,Nantes,Paris Saint Germain,,,Unknown,c4b01fbc63cd677367004ae925603159
-League of Ireland,20250422,Derry City,Sligo Rovers,,,Unknown,a8be49a89e6df2aeb3a57bc7b4d36d04
-La Liga - Spain,20250422,Valencia,Espanyol,,,Unknown,78ee12a03a3be4eca4b74ed1a2d78ba8
-La Liga - Spain,20250422,Barcelona,Mallorca,,,Unknown,e9bd90b497142f15a4d4221268bd8446
+Denmark Superliga,20250422,FC Nordsjaelland,FC Midtjylland,3,2,Completed,edb22ef7623fdb67e6bcce858b24acc6
+EPL,20250422,Manchester City,Aston Villa,2,1,Completed,4eeec3e2817061365a9675c31c874181
+Ligue 1 - France,20250422,Nantes,Paris Saint Germain,1,1,Completed,c4b01fbc63cd677367004ae925603159
+League of Ireland,20250422,Derry City,Sligo Rovers,3,0,Completed,a8be49a89e6df2aeb3a57bc7b4d36d04
+La Liga - Spain,20250422,Valencia,Espanyol,1,1,Completed,78ee12a03a3be4eca4b74ed1a2d78ba8
+La Liga - Spain,20250422,Barcelona,Mallorca,1,0,Completed,e9bd90b497142f15a4d4221268bd8446
