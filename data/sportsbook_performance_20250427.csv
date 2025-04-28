@@ -1,0 +1,588 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+Bovada,34,46.58,39,53.42,2
+LowVig.ag,32,45.71,38,54.29,2
+BetOnline.ag,32,45.71,38,54.29,2
+DraftKings,32,46.38,37,53.62,2
+BetMGM,29,46.77,33,53.23,2
+BetUS,29,46.77,33,53.23,2
+FanDuel,31,47.69,34,52.31,2
+BetRivers,29,48.33,31,51.67,2
+MyBookie.ag,3,37.5,5,62.5,2
+Fanatics,2,33.33,4,66.67,2
+Caesars,2,33.33,4,66.67,2
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+3. Liga - Germany,20250427.0,Alemannia Aachen,VfL Osnabrück,1.0,0.0,Completed,5770ee33030b92ae802a4871658e14b2,2025-04-27 10:30:00,2.3,3.2,Bovada,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,Alemannia Aachen,VfL Osnabrück,1.0,0.0,Completed,5770ee33030b92ae802a4871658e14b2,2025-04-27 10:30:00,2.26,3.05,LowVig.ag,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,Alemannia Aachen,VfL Osnabrück,1.0,0.0,Completed,5770ee33030b92ae802a4871658e14b2,2025-04-27 10:30:00,2.26,3.05,BetOnline.ag,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,FC Ingolstadt 04,Arminia Bielefeld,0.0,3.0,Completed,6ed50f0b28b06ae3675d90bcd0ca6120,2025-04-27 07:30:00,3.05,2.1,Bovada,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,FC Ingolstadt 04,Arminia Bielefeld,0.0,3.0,Completed,6ed50f0b28b06ae3675d90bcd0ca6120,2025-04-27 07:30:00,3.0,2.05,LowVig.ag,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,FC Ingolstadt 04,Arminia Bielefeld,0.0,3.0,Completed,6ed50f0b28b06ae3675d90bcd0ca6120,2025-04-27 07:30:00,3.0,2.05,BetOnline.ag,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,Waldhof Mannheim,VfB Stuttgart II,0.0,0.0,Completed,922a236b13208ce54e06d1fae05935e0,2025-04-27 13:30:00,2.05,3.3,Bovada,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,Waldhof Mannheim,VfB Stuttgart II,0.0,0.0,Completed,922a236b13208ce54e06d1fae05935e0,2025-04-27 13:30:00,2.02,3.15,LowVig.ag,2025-04-26 23:39:52
+3. Liga - Germany,20250427.0,Waldhof Mannheim,VfB Stuttgart II,0.0,0.0,Completed,922a236b13208ce54e06d1fae05935e0,2025-04-27 13:30:00,2.02,3.15,BetOnline.ag,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.317,8.0,Bovada,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.339,7.5,DraftKings,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.333,8.0,BetMGM,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.323,9.35,BetOnline.ag,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.323,9.35,LowVig.ag,2025-04-26 23:39:52
+A-League,20250427.0,Auckland FC,Perth Glory,1.0,0.0,Completed,70a76e2ca41ed240a9619089668f013d,2025-04-27 01:00:00,1.282,8.09,BetUS,2025-04-26 23:39:52
+A-League,20250427.0,Western United FC,Sydney FC,1.0,0.0,Completed,b512db3fa0b3b9d9e063eaec00eada2e,2025-04-27 03:00:00,2.35,2.6,Bovada,2025-04-26 23:39:52
+A-League,20250427.0,Western United FC,Sydney FC,1.0,0.0,Completed,b512db3fa0b3b9d9e063eaec00eada2e,2025-04-27 03:00:00,2.3,2.6,DraftKings,2025-04-26 23:39:52
+A-League,20250427.0,Western United FC,Sydney FC,1.0,0.0,Completed,b512db3fa0b3b9d9e063eaec00eada2e,2025-04-27 03:00:00,2.37,2.7,BetOnline.ag,2025-04-26 23:39:52
+A-League,20250427.0,Western United FC,Sydney FC,1.0,0.0,Completed,b512db3fa0b3b9d9e063eaec00eada2e,2025-04-27 03:00:00,2.37,2.7,LowVig.ag,2025-04-26 23:39:52
+A-League,20250427.0,Western United FC,Sydney FC,1.0,0.0,Completed,b512db3fa0b3b9d9e063eaec00eada2e,2025-04-27 03:00:00,2.35,2.6,BetUS,2025-04-26 23:39:52
+AFL,20250427.0,Carlton Blues,Geelong Cats,94.0,76.0,Completed,4ab8edd80336f7c50d04cd023757b942,2025-04-27 01:20:00,2.25,1.645,DraftKings,2025-04-26 23:39:52
+AFL,20250427.0,Carlton Blues,Geelong Cats,94.0,76.0,Completed,4ab8edd80336f7c50d04cd023757b942,2025-04-27 01:20:00,2.35,1.571,Bovada,2025-04-26 23:39:52
+AFL,20250427.0,Carlton Blues,Geelong Cats,94.0,76.0,Completed,4ab8edd80336f7c50d04cd023757b942,2025-04-27 01:20:00,2.25,1.645,BetUS,2025-04-26 23:39:52
+AFL,20250427.0,Hawthorn Hawks,West Coast Eagles,124.0,74.0,Completed,0ddfce412e22c630de000b91cb1c2921,2025-04-27 02:40:00,1.05,10.0,DraftKings,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.541,5.3,FanDuel,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.629,4.9,BetRivers,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.625,5.0,Bovada,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.588,5.25,DraftKings,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.637,4.75,LowVig.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.637,4.75,BetOnline.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Rapid Wien,FC Blau-Weiß Linz,0.0,0.0,Completed,438756241a903e7db19cea002974ad92,2025-04-27 08:30:00,1.625,5.0,BetUS,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.05,3.3,FanDuel,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.15,3.4,BetMGM,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.04,3.5,BetRivers,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.15,3.4,Bovada,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.15,3.55,DraftKings,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.16,3.25,BetOnline.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.16,3.25,LowVig.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Sturm Graz,Austria Wien,0.0,1.0,Completed,cc1c97d66631f78fcb708c1bb681b263,2025-04-27 11:00:00,2.15,3.4,BetUS,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.4,1.952,FanDuel,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.4,1.98,BetMGM,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.45,1.926,BetRivers,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.35,2.05,Bovada,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.45,2.0,DraftKings,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.45,1.943,BetOnline.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.45,1.943,LowVig.ag,2025-04-26 23:39:52
+Austrian Football Bundesliga,20250427.0,Wolfsberger AC,RB Salzburg,2.0,1.0,Completed,fdcc8c51eac1e985c544ac92290f007e,2025-04-27 08:30:00,3.35,2.05,BetUS,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.513,5.1,FanDuel,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.606,5.0,BetMGM,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.571,5.25,DraftKings,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.549,5.2,LowVig.ag,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.549,5.2,BetOnline.ag,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.571,5.2,Bovada,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.568,5.23,BetUS,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Genk,Royal Antwerp,0.0,1.0,Completed,b3e4b1cc6f8a2c91db612c71e31c66ae,2025-04-27 10:00:00,1.526,5.2,BetRivers,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.95,2.4,BetMGM,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.95,2.35,FanDuel,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,3.05,2.4,DraftKings,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.87,2.36,LowVig.ag,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.87,2.36,BetOnline.ag,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.95,2.4,Bovada,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,2.95,2.4,BetUS,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Gent,Anderlecht,0.0,1.0,Completed,a246e9cbf894e0362de93592763bd8ce,2025-04-27 07:30:00,3.25,2.25,BetRivers,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.55,2.65,BetMGM,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.55,2.55,FanDuel,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.6,2.7,DraftKings,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.58,2.74,BetUS,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.6,2.7,Bovada,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.6,2.75,BetRivers,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.51,2.62,BetOnline.ag,2025-04-26 23:39:52
+Belgium First Div,20250427.0,Union Saint-Gilloise,Club Brugge,0.0,0.0,Completed,392bd1eb7ac35703a2f769d3d9f16393,2025-04-27 12:30:00,2.51,2.62,LowVig.ag,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.3,3.0,BetMGM,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.25,3.0,FanDuel,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.28,3.0,BetRivers,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.25,2.85,DraftKings,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.3,3.0,Bovada,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.35,3.03,LowVig.ag,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.35,3.03,BetOnline.ag,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,VfL Bochum,Union Berlin,1.0,1.0,Completed,5d8a43d615fb5588728fac09a72353c0,2025-04-27 09:30:00,2.3,3.0,BetUS,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.952,3.8,BetMGM,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.909,3.9,FanDuel,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.893,3.85,BetRivers,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.909,3.85,DraftKings,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.909,3.9,Bovada,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.943,4.07,BetOnline.ag,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.943,4.07,LowVig.ag,2025-04-26 23:39:52
+Bundesliga - Germany,20250427.0,Werder Bremen,FC St. Pauli,0.0,0.0,Completed,de99f463af16b5941fe5947d1f2ddebf,2025-04-27 11:30:00,1.909,3.9,BetUS,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.1,3.25,BetMGM,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.0,3.2,FanDuel,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.1,3.3,DraftKings,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.1,3.25,Bovada,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,1.971,3.2,BetRivers,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.09,3.35,LowVig.ag,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,1. FC Kaiserslautern,FC Schalke 04,2.0,1.0,Completed,774e430eaa0bb0f0bb0fc7d414209be3,2025-04-27 07:30:00,2.09,3.35,BetOnline.ag,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.476,5.7,FanDuel,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.5,5.25,BetMGM,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.513,5.5,DraftKings,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.5,5.4,Bovada,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.426,5.75,BetRivers,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.51,5.6,LowVig.ag,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hamburger SV,Karlsruher SC,1.0,2.0,Completed,896d7df17417330c212b31a90e70de87,2025-04-27 07:30:00,1.51,5.6,BetOnline.ag,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.0,2.15,FanDuel,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.2,2.15,BetMGM,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.15,2.2,DraftKings,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.15,2.2,Bovada,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.3,2.1,BetRivers,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.3,2.17,BetOnline.ag,2025-04-26 23:39:52
+Bundesliga 2 - Germany,20250427.0,Hannover 96,1. FC Köln,1.0,0.0,Completed,0ccadff06500c84a0d051394d84de8f3,2025-04-27 07:30:00,3.3,2.17,LowVig.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.05,2.25,BetRivers,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,2.95,2.15,FanDuel,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.25,2.2,Bovada,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.2,2.2,BetMGM,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.3,2.2,DraftKings,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.45,2.17,BetOnline.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.45,2.17,LowVig.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,AGF Aarhus,FC Copenhagen,1.0,3.0,Completed,2322cfb746af520a726f45d24bb522d3,2025-04-27 10:00:00,3.25,2.2,BetUS,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.0,3.25,BetRivers,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,1.952,3.1,FanDuel,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.05,3.25,Bovada,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.0,3.2,BetMGM,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.05,3.2,DraftKings,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.08,3.25,LowVig.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.08,3.25,BetOnline.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,FC Midtjylland,FC Nordsjaelland,5.0,0.0,Completed,025ebb23a6ae6eab2fcedc704431f458,2025-04-27 12:00:00,2.08,3.23,BetUS,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.15,2.08,BetRivers,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.1,2.05,FanDuel,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.2,2.15,Bovada,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.2,2.1,BetMGM,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.2,2.15,DraftKings,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.3,2.17,LowVig.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.3,2.17,BetOnline.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,Lyngby,Silkeborg IF,2.0,0.0,Completed,6ed69fce2bc813d489c20b1d3d3ee9db,2025-04-27 08:00:00,3.2,2.15,BetUS,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.95,2.2,BetRivers,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.75,2.15,FanDuel,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.9,2.3,DraftKings,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.95,2.29,LowVig.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.95,2.29,BetOnline.ag,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.8,2.3,Bovada,2025-04-26 23:39:52
+Denmark Superliga,20250427.0,SonderjyskE,Viborg FF,2.0,2.0,Completed,54f0a6fe339615bb0cf3e980a5b3430f,2025-04-27 08:00:00,2.8,2.3,BetUS,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.385,6.5,FanDuel,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.465,6.0,Bovada,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.417,6.1,BetRivers,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.455,6.0,DraftKings,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.5,5.75,BetMGM,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.481,6.0,LowVig.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.481,6.0,BetOnline.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Ajax,Sparta Rotterdam,1.0,1.0,Completed,f7f8a47783c66bca2728533932638d58,2025-04-27 08:30:00,1.465,6.0,BetUS,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.5,2.5,FanDuel,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.5,2.55,Bovada,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.55,2.5,BetRivers,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.45,2.6,DraftKings,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.45,2.55,BetMGM,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.5,2.55,BetUS,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.44,2.58,LowVig.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Almere City,Go Ahead Eagles,0.0,0.0,Completed,82d7306801864973232e57eb2c9a7531,2025-04-27 10:45:00,2.44,2.58,BetOnline.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.741,4.3,FanDuel,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.833,4.3,Bovada,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.806,4.5,BetRivers,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.833,4.4,DraftKings,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.833,4.33,BetMGM,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.826,4.5,LowVig.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.826,4.5,BetOnline.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Fortuna Sittard,Willem II,1.0,0.0,Completed,740724bb1e947598d2a404b83566969e,2025-04-27 06:15:00,1.833,4.3,BetUS,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,1.952,3.4,FanDuel,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,2.0,3.55,Bovada,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,1.943,3.65,BetRivers,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,2.0,3.6,DraftKings,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,2.0,3.5,BetMGM,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,1.962,3.45,LowVig.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,1.962,3.45,BetOnline.ag,2025-04-26 23:39:52
+Dutch Eredivisie,20250427.0,Heerenveen,NEC Nijmegen,1.0,0.0,Completed,37218ec9da830b76965c1d07013ef299,2025-04-27 08:30:00,2.0,3.55,BetUS,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.69,4.5,MyBookie.ag,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.69,4.7,FanDuel,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.714,4.6,Bovada,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.699,4.6,BetRivers,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.69,4.4,BetMGM,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.741,4.5,DraftKings,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.741,4.75,LowVig.ag,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.741,4.75,BetOnline.ag,2025-04-26 23:39:52
+EPL,20250427.0,Bournemouth,Manchester United,1.0,1.0,Completed,3b8c691ca0031dabac80247ab5b36f21,2025-04-27 09:00:00,1.714,4.5,BetUS,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.25,9.1,MyBookie.ag,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.227,11.0,FanDuel,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.238,10.0,Bovada,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.238,10.5,BetRivers,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.267,9.5,BetMGM,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.256,9.5,DraftKings,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.253,10.95,LowVig.ag,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.253,10.95,BetOnline.ag,2025-04-26 23:39:52
+EPL,20250427.0,Liverpool,Tottenham Hotspur,5.0,1.0,Completed,e835808895cfcf8e50c31679029722bd,2025-04-27 11:30:00,1.25,9.25,BetUS,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.6,1.741,BetMGM,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.6,1.741,Bovada,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.7,1.714,FanDuel,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.65,1.725,BetOnline.ag,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.65,1.725,LowVig.ag,2025-04-26 23:39:52
+FA Cup,20250427.0,Nottingham Forest,Manchester City,0.0,2.0,Completed,a162869969a6fc4bd8ce201ff5f1c9c4,2025-04-27 11:30:00,4.6,1.741,DraftKings,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.37,6.5,FanDuel,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.455,6.25,Bovada,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.426,6.0,DraftKings,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.426,6.5,BetRivers,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.455,6.25,BetUS,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.461,6.45,BetOnline.ag,2025-04-26 23:39:52
+La Liga - Spain,20250427.0,Villarreal,Espanyol,1.0,0.0,Completed,ab47fdb6554bfea433e0a50a1bf353ad,2025-04-27 10:15:00,1.461,6.45,LowVig.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.75,2.4,FanDuel,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.7,2.4,BetMGM,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.8,2.45,DraftKings,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.8,2.5,Bovada,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.8,2.5,BetUS,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.8,2.43,LowVig.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Málaga,CD Castellón,1.0,0.0,Completed,ea6e3f6ac37a8b87fc416583f5324212,2025-04-27 12:30:00,2.8,2.43,BetOnline.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.8,3.8,FanDuel,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.909,3.7,Bovada,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.909,3.7,DraftKings,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.87,3.4,BetMGM,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.909,3.7,BetUS,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.893,3.3,BetOnline.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Real Racing Club de Santander,Deportivo La Coruña,2.0,1.0,Completed,f6c421a53f068ca61d8e970579b33b14,2025-04-27 10:15:00,1.893,3.3,LowVig.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.25,3.3,FanDuel,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.3,3.2,BetMGM,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.4,3.3,DraftKings,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.35,3.3,Bovada,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.3,3.45,BetUS,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.28,3.4,LowVig.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Tenerife,SD Eibar,1.0,1.0,Completed,5a894dcdc26d6fae37142884ff930412,2025-04-27 12:30:00,2.28,3.4,BetOnline.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.69,4.8,FanDuel,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.87,4.4,Bovada,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.87,4.6,DraftKings,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.833,4.2,BetMGM,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.87,4.4,BetUS,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.87,3.9,LowVig.ag,2025-04-26 23:39:52
+La Liga 2 - Spain,20250427.0,Zaragoza,SD Huesca,1.0,1.0,Completed,73de5597c5289bbfd3b50bb108bcac27,2025-04-27 15:00:00,1.87,3.9,BetOnline.ag,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.417,7.0,FanDuel,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.426,6.5,BetRivers,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.444,6.5,BetMGM,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.444,6.25,Bovada,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.444,7.0,DraftKings,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.435,6.3,BetUS,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.429,5.9,BetOnline.ag,2025-04-26 23:39:52
+League 1,20250427.0,Birmingham City,Mansfield Town,4.0,0.0,Completed,f8f6138e9019d8f95e408d7063b56b39,2025-04-27 10:00:00,1.429,5.9,LowVig.ag,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.2,3.4,FanDuel,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.17,3.2,BetRivers,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.15,3.3,BetMGM,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.15,3.3,Bovada,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.2,3.3,DraftKings,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.15,3.3,BetUS,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.14,3.1,LowVig.ag,2025-04-26 23:39:52
+League 1,20250427.0,Stevenage,Rotherham United,1.0,1.0,Completed,f3564e65156b77e0c808477f93d07dd5,2025-04-27 09:00:00,2.14,3.1,BetOnline.ag,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.65,2.65,Bovada,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.5,2.75,FanDuel,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.55,2.75,DraftKings,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.55,2.63,BetRivers,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.5,2.7,BetMGM,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.62,2.83,LowVig.ag,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.62,2.83,BetOnline.ag,2025-04-26 23:39:52
+Liga MX,20250427.0,FC Juárez,Pumas,1.0,1.0,Completed,dd5b5dd0a1ddef83b5acc8d29b9968a5,2025-04-27 19:00:00,2.55,2.8,BetUS,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.0,3.55,Bovada,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,1.952,3.5,FanDuel,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.05,3.65,DraftKings,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,1.877,3.45,BetRivers,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.05,3.4,BetMGM,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.05,3.62,LowVig.ag,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.05,3.62,BetOnline.ag,2025-04-26 23:39:52
+Liga MX,20250427.0,Monterrey,Pachuca,1.0,2.0,Completed,3f90bba25ad011ded08a90f262eefd4d,2025-04-27 21:30:00,2.0,3.72,BetUS,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.0,1.541,Bovada,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.5,1.476,FanDuel,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.25,1.541,BetMGM,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.5,1.526,DraftKings,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.25,1.513,BetRivers,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.72,1.538,LowVig.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.72,1.538,BetOnline.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Angers,Lille,0.0,2.0,Completed,4939ee80f59ad0cc17bc81ec1e5d56e1,2025-04-27 09:00:00,6.75,1.526,BetUS,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.0,Bovada,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.417,6.5,FanDuel,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.5,6.0,BetMGM,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.0,DraftKings,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.0,BetRivers,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.4,LowVig.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.4,BetOnline.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Marseille,Brest,4.0,1.0,Completed,342583e3f4dc3884ebca35784e62c9fd,2025-04-27 14:45:00,1.476,6.0,BetUS,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.5,1.741,Bovada,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.4,1.69,FanDuel,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.4,1.741,BetMGM,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.6,1.741,DraftKings,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.5,1.746,BetRivers,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.85,1.741,LowVig.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.85,1.741,BetOnline.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Montpellier,Stade de Reims,0.0,0.0,Completed,75c7c61023f4be94def65bb3a50f910d,2025-04-27 11:15:00,4.5,1.741,BetUS,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.9,2.4,FanDuel,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.9,2.45,Bovada,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.88,2.45,BetMGM,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.95,2.5,DraftKings,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.9,2.4,BetRivers,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.96,2.55,BetOnline.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.96,2.55,LowVig.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,Nantes,Toulouse,0.0,0.0,Completed,7267064c7a26bb3a80d3d0538e4fe12f,2025-04-27 11:15:00,2.9,2.45,BetUS,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.541,5.6,Bovada,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.476,5.9,FanDuel,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.541,5.5,BetMGM,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.556,5.75,DraftKings,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.538,5.5,BetRivers,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.568,5.85,BetOnline.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.568,5.85,LowVig.ag,2025-04-26 23:39:52
+Ligue 1 - France,20250427.0,RC Lens,Auxerre,0.0,4.0,Completed,d29526d2e7145f43525ec0dcad7a62af,2025-04-27 11:15:00,1.505,5.86,BetUS,2025-04-26 23:39:52
+MMA,,Islam Makhachev,Arman Tsarukyan,,,,,2025-04-27 22:00:00,1.286,3.85,BetOnline.ag,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.746,2.14,FanDuel,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.769,2.1,DraftKings,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.769,2.1,Fanatics,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.781,2.12,LowVig.ag,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.769,2.1,BetOnline.ag,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.787,2.03,MyBookie.ag,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.775,2.08,BetRivers,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.769,2.1,Bovada,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.741,2.1,BetMGM,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.8,2.05,Caesars,2025-04-26 23:39:52
+NBA,20250427.0,Detroit Pistons,New York Knicks,93.0,94.0,Completed,97c436574586a603abfb5d3d649633a6,2025-04-27 13:00:00,1.8,2.05,BetUS,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.538,2.56,FanDuel,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.521,2.6,DraftKings,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.6,Fanatics,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.65,BetOnline.ag,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.66,LowVig.ag,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.55,BetMGM,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.513,2.63,BetRivers,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.521,2.54,MyBookie.ag,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.513,2.65,Bovada,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.58,Caesars,2025-04-26 23:39:52
+NBA,20250427.0,Milwaukee Bucks,Indiana Pacers,,,Unknown,d1b9fe3922bd203db8c1d44358c1fb30,2025-04-27 21:35:00,1.526,2.63,BetUS,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.676,2.24,DraftKings,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.641,2.32,FanDuel,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.667,2.25,Fanatics,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.645,2.3,BetRivers,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.69,2.28,LowVig.ag,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.671,2.22,MyBookie.ag,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.685,2.26,BetOnline.ag,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.69,2.2,BetMGM,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.69,2.25,Bovada,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.685,2.26,BetUS,2025-04-26 23:39:52
+NBA,20250427.0,Minnesota Timberwolves,Los Angeles Lakers,116.0,113.0,Completed,700aede8724030d06159df96613b775d,2025-04-27 15:35:00,1.69,2.22,Caesars,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.1,1.388,DraftKings,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.25,1.375,LowVig.ag,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.25,1.364,FanDuel,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.3,1.351,Fanatics,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.22,1.37,BetOnline.ag,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.2,1.364,BetMGM,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.28,1.351,Caesars,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.35,1.35,BetRivers,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.25,1.347,MyBookie.ag,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.4,1.345,Bovada,2025-04-26 23:39:52
+NBA,20250427.0,Orlando Magic,Boston Celtics,98.0,107.0,Completed,d3aa100c8b388c2759a377cbd2f4640f,2025-04-27 19:05:00,3.25,1.37,BetUS,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.741,2.14,DraftKings,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.741,2.15,BetMGM,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.69,2.14,MyBookie.ag,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.658,2.25,BetRivers,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.725,2.15,FanDuel,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.746,2.19,LowVig.ag,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.746,2.19,BetOnline.ag,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.69,2.2,Fanatics,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.714,2.2,BetUS,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.725,2.17,Bovada,2025-04-26 23:39:52
+NHL,20250427.0,Edmonton Oilers,Los Angeles Kings,,,Unknown,eac0c59ac093652ae658a49d324ca93d,2025-04-27 21:40:00,1.741,2.15,Caesars,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.98,1.847,DraftKings,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.952,1.87,BetMGM,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,2.02,1.87,LowVig.ag,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,2.0,1.826,BetRivers,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,2.0,1.833,FanDuel,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,2.02,1.87,BetOnline.ag,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.952,1.87,BetUS,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.943,1.833,MyBookie.ag,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.952,1.87,Caesars,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.952,1.87,Fanatics,2025-04-26 23:39:52
+NHL,20250427.0,Montréal Canadiens,Washington Capitals,2.0,5.0,Completed,a79130605a64579017692c7fe0ea21cb,2025-04-27 18:40:00,1.952,1.87,Bovada,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.5,1.556,DraftKings,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.43,1.571,BetRivers,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.45,1.571,BetMGM,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.42,1.581,FanDuel,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.42,1.571,MyBookie.ag,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.53,1.581,BetOnline.ag,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.53,1.581,LowVig.ag,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.5,1.556,Fanatics,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.55,1.556,BetUS,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.45,1.588,Bovada,2025-04-26 23:39:52
+NHL,20250427.0,New Jersey Devils,Carolina Hurricanes,2.0,5.0,Completed,9dac71a0c725d9f730c604de5386aaf0,2025-04-27 15:40:00,2.5,1.562,Caesars,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.14,1.741,DraftKings,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.1,1.758,BetRivers,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.06,1.781,FanDuel,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.17,1.763,LowVig.ag,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.17,1.763,BetOnline.ag,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.1,1.746,MyBookie.ag,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.15,1.741,BetMGM,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.1,1.769,BetUS,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.15,1.741,Caesars,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.15,1.714,Fanatics,2025-04-26 23:39:52
+NHL,20250427.0,St Louis Blues,Winnipeg Jets,5.0,1.0,Completed,f189a41a24e3214425795145c296cde8,2025-04-27 13:10:00,2.12,1.752,Bovada,2025-04-26 23:39:52
+NRL,20250427.0,Canberra Raiders,Dolphins,40.0,28.0,Completed,bb11991c6e8d56f97e22eba0b2c924c7,2025-04-27 00:00:00,1.476,2.76,Bovada,2025-04-26 23:39:52
+NRL,20250427.0,Canberra Raiders,Dolphins,40.0,28.0,Completed,bb11991c6e8d56f97e22eba0b2c924c7,2025-04-27 00:00:00,1.513,2.55,BetRivers,2025-04-26 23:39:52
+NRL,20250427.0,Canberra Raiders,Dolphins,40.0,28.0,Completed,bb11991c6e8d56f97e22eba0b2c924c7,2025-04-27 00:00:00,1.5,2.5,BetUS,2025-04-26 23:39:52
+NRL,20250427.0,Wests Tigers,Cronulla Sutherland Sharks,20.0,18.0,Completed,c2325f8df85cb30876e1421c4450dcd6,2025-04-27 02:05:00,2.76,1.476,Bovada,2025-04-26 23:39:52
+NRL,20250427.0,Wests Tigers,Cronulla Sutherland Sharks,20.0,18.0,Completed,c2325f8df85cb30876e1421c4450dcd6,2025-04-27 02:05:00,2.65,1.476,BetRivers,2025-04-26 23:39:52
+NRL,20250427.0,Wests Tigers,Cronulla Sutherland Sharks,20.0,18.0,Completed,c2325f8df85cb30876e1421c4450dcd6,2025-04-27 02:05:00,2.5,1.5,BetUS,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.062,25.0,FanDuel,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.077,25.0,Bovada,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.083,21.0,DraftKings,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.06,29.0,BetRivers,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.083,23.0,BetMGM,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.07,18.0,LowVig.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.07,18.0,BetOnline.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Benfica,AVS Futebol SAD,6.0,0.0,Completed,775a425c9273a453a842ff669fe25193,2025-04-27 13:00:00,1.062,25.93,BetUS,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,13.0,1.167,FanDuel,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,12.0,1.208,Bovada,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,12.0,1.2,DraftKings,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,13.0,1.189,BetRivers,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,12.0,1.2,BetMGM,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,9.7,1.2,LowVig.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,9.7,1.2,BetOnline.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Boavista Porto,Sporting Lisbon,0.0,5.0,Completed,9a9b3ac92c40ec417e873f757980122f,2025-04-27 15:30:00,12.0,1.208,BetUS,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.05,3.4,FanDuel,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.2,3.6,Bovada,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.2,3.7,DraftKings,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.12,3.6,BetRivers,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.15,3.6,BetMGM,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.19,3.4,BetOnline.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.19,3.4,LowVig.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Moreirense FC,Nacional,1.0,1.0,Completed,5ad2ea2c2b8d290b369eef6d6790a1f0,2025-04-27 10:30:00,2.2,3.6,BetUS,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.417,6.5,FanDuel,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.488,6.25,Bovada,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.488,6.5,DraftKings,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.513,5.75,BetRivers,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.5,6.0,BetMGM,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.481,6.4,LowVig.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.481,6.4,BetOnline.ag,2025-04-26 23:39:52
+Primeira Liga - Portugal,20250427.0,Vitória SC,Rio Ave FC,3.0,0.0,Completed,bc398401c7d19bc0b318987799bb6eea,2025-04-27 13:00:00,1.474,6.68,BetUS,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.588,6.0,FanDuel,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.588,6.25,Bovada,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.606,6.0,BetMGM,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.599,6.0,BetRivers,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.602,6.67,BetOnline.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.602,6.67,LowVig.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Independiente,Deportivo Riestra,0.0,0.0,Completed,6689f5ea66f917564ce1c3172e6d37f2,2025-04-27 20:15:00,1.606,6.5,DraftKings,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.769,4.5,FanDuel,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.833,4.6,Bovada,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.833,4.6,BetMGM,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.787,4.6,BetRivers,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.833,4.8,DraftKings,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.813,4.9,BetOnline.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Instituto de Córdoba,Sarmiento de Junin,1.0,1.0,Completed,3d88d8d1f6f829434f9253d39d168465,2025-04-27 18:00:00,1.813,4.9,LowVig.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.541,6.5,FanDuel,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.588,6.25,Bovada,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.571,6.25,BetMGM,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.571,6.5,DraftKings,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.538,6.75,BetRivers,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.575,6.75,LowVig.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,Lanus,San Martin de San Juan,1.0,0.0,Completed,3f3cf9a780da4b1f08fc7dccc5c4c89f,2025-04-27 18:00:00,1.575,6.75,BetOnline.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,1.87,4.3,FanDuel,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,1.952,4.3,Bovada,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,1.952,4.3,DraftKings,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,2.0,3.9,BetRivers,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,1.962,4.55,LowVig.ag,2025-04-26 23:39:52
+Primera División - Argentina,20250427.0,River Plate,Boca Juniors,2.0,1.0,Completed,6b921861d4c4361c96de1e9cbf116c92,2025-04-27 14:30:00,1.962,4.55,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.2,11.0,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.25,11.5,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.211,11.0,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.208,12.5,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.238,11.0,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.235,12.75,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.235,12.75,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Atalanta BC,Lecce,1.0,1.0,Completed,a1a97cc571b21a71810042c76b68ce7a,2025-04-27 14:45:00,1.225,12.18,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.769,4.5,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.847,4.5,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.833,4.2,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.806,4.5,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.833,4.5,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.855,4.51,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.847,4.83,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Como,Genoa,1.0,0.0,Completed,7869d854323fbf0154724f96209ed6bd,2025-04-27 06:30:00,1.847,4.83,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.8,4.7,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.833,4.6,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.8,4.3,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.787,4.7,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.833,4.9,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.893,4.6,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.893,4.6,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Fiorentina,Empoli,2.0,1.0,Completed,668b0d7cd48c7bd25343d3ccc1caac69,2025-04-27 09:00:00,1.833,4.53,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.714,4.8,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.769,4.5,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.741,4.5,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.758,4.7,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.769,4.6,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.781,4.73,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.781,4.73,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Inter Milan,AS Roma,0.0,1.0,Completed,c488abf117c2716713e497ce1fb891b8,2025-04-27 09:00:00,1.735,4.74,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.154,15.0,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.19,15.0,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.174,13.0,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.16,16.0,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.182,14.0,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.19,16.0,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.19,16.0,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Juventus,Monza,2.0,0.0,Completed,434f9ecb0d39cc891d483ea52da5017f,2025-04-27 12:00:00,1.168,15.9,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.357,8.0,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.426,8.0,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.392,8.0,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.364,8.5,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.4,8.0,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.408,9.28,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.408,9.28,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Napoli,Torino,2.0,0.0,Completed,5041db484ed6f655969de77b75966d77,2025-04-27 14:45:00,1.4,8.45,BetUS,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.8,1.69,FanDuel,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.6,1.714,BetMGM,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.5,1.667,DraftKings,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.75,1.645,BetRivers,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.8,1.667,Bovada,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,5.1,1.699,LowVig.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,5.1,1.699,BetOnline.ag,2025-04-26 23:39:52
+Serie A - Italy,20250427.0,Venezia,AC Milan,0.0,2.0,Completed,165068ca4d68fd7106ee573a6766c201,2025-04-27 06:30:00,4.85,1.667,BetUS,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.55,3.05,DraftKings,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.45,3.0,FanDuel,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.55,3.0,Bovada,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.55,2.9,BetMGM,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.47,3.0,LowVig.ag,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.47,3.0,BetOnline.ag,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.6,2.8,BetRivers,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,Südtirol,Juve Stabia,2.0,0.0,Completed,27b8120082d4421dcb730645b4cf1ff0,2025-04-27 09:00:00,2.52,3.05,BetUS,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.8,2.6,DraftKings,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.7,2.5,FanDuel,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.7,2.6,Bovada,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.75,2.5,BetMGM,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.75,2.5,BetOnline.ag,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.75,2.5,LowVig.ag,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.48,2.6,BetRivers,2025-04-26 23:39:52
+Serie B - Italy,20250427.0,US Catanzaro 1929,Palermo,1.0,3.0,Completed,a42918bfbdaf7babfaa0927cda463407,2025-04-27 09:00:00,2.85,2.53,BetUS,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.25,3.25,Bovada,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.2,3.2,FanDuel,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.3,3.35,DraftKings,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.25,3.25,BetMGM,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.25,3.25,BetUS,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.15,3.15,LowVig.ag,2025-04-26 23:39:52
+Super League - Greece,20250427.0,AEK Athens,Olympiakos Piraeus,0.0,2.0,Completed,9efe81b4d13be0a3999adb7ec636540d,2025-04-27 13:00:00,2.15,3.15,BetOnline.ag,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,2.0,3.65,Bovada,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,1.952,3.6,FanDuel,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,2.0,3.8,DraftKings,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,1.952,3.6,BetMGM,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,2.0,3.65,BetUS,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,1.99,3.2,LowVig.ag,2025-04-26 23:39:52
+Super League - Greece,20250427.0,PAOK Thessaloniki,Panathinaikos,2.0,1.0,Completed,eebbe4a2a45cee40b8765f42d59865d1,2025-04-27 13:00:00,1.99,3.2,BetOnline.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.0,1.4,FanDuel,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.5,1.455,DraftKings,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.0,1.455,Bovada,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.4,1.435,BetRivers,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.0,1.455,BetMGM,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,6.0,1.455,BetUS,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,5.6,1.461,BetOnline.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Eyüpspor,Galatasaray,1.0,5.0,Completed,d16f5bd1fa8b8f95d81ebd9c0ef8780c,2025-04-27 12:00:00,5.6,1.461,LowVig.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.1,3.2,FanDuel,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.25,3.3,DraftKings,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.25,3.15,Bovada,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.25,3.2,BetRivers,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.25,3.1,BetMGM,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.25,3.15,BetUS,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.21,3.1,BetOnline.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Kayserispor,Çaykur Rizespor,1.0,0.0,Completed,fdc6fd438882d3f256e19e35f83d978c,2025-04-27 12:00:00,2.21,3.1,LowVig.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.133,14.0,FanDuel,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.174,14.0,DraftKings,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.167,12.0,Bovada,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.149,14.0,BetRivers,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.182,13.5,BetMGM,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.167,12.0,BetUS,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.17,12.0,BetOnline.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Torku Konyaspor,Adana Demirspor,3.0,1.0,Completed,835b032b861b4946761423d22d3969f8,2025-04-27 09:00:00,1.17,12.0,LowVig.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.769,4.5,Bovada,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.769,4.33,BetMGM,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.69,4.8,FanDuel,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.769,4.6,DraftKings,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.735,4.25,BetRivers,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.769,4.5,BetUS,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.781,4.1,BetOnline.ag,2025-04-26 23:39:52
+Turkey Super League,20250427.0,Trabzonspor,Alanyaspor,4.0,3.0,Completed,0b68fc3518ac70710fbf00112a57a6a5,2025-04-27 09:00:00,1.781,4.1,LowVig.ag,2025-04-26 23:39:52
