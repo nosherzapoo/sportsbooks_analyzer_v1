@@ -1,0 +1,44 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250502,St Kilda Saints,Fremantle Dockers,94,33,Completed,25d571b7b2351d7492332a9a43744e30
+AFL,20250502,Western Bulldogs,Port Adelaide Power,,,Unknown,155e04bc831dd6d769da2d4ad45422d2
+Basketball Euroleague,20250502,Anadolu Efes,Panathinaikos,85,82,Completed,5828e8e0e6da361b3dc3190eee88af8e
+Basketball Euroleague,20250502,FC Barcelona Bàsquet,AS Monaco,79,72,Completed,0dba74068ab746e1420bb28910c433c0
+NBA,20250502,Golden State Warriors,Houston Rockets,,,Unknown,de0b04366a130a0ece7c2e89e616196e
+NHL,20250502,St Louis Blues,Winnipeg Jets,5,2,Completed,c1fea21b474c4a3d55d9934859e25ace
+NRL,20250502,Cronulla Sutherland Sharks,Parramatta Eels,28,18,Completed,842a047872514e1baf671e70b48a4cb3
+NRL,20250502,Sydney Roosters,Dolphins,36,26,Completed,3cefe2e0cd27354eeabbbe3e7ba6c1ba
+Primera División - Argentina,20250502,Argentinos Juniors,Estudiantes,4,0,Completed,ab4710c28f2ba88281edbd77758c206e
+Primera División - Argentina,20250502,Banfield,Central Córdoba,3,1,Completed,ae91333b142088c6c354ad4a0eec149e
+Primera División - Argentina,20250502,Independiente Rivadavia,Defensa y Justicia,3,2,Completed,8f442ec086290b3d517b1483269ff7b5
+Primera División - Argentina,20250502,Racing Club,Newells Old Boys,1,0,Completed,2a4f6f8b49c51654ad45f5a1021cf20f
+Primera División - Argentina,20250502,Union Santa Fe,Belgrano de Cordoba,1,1,Completed,6cda58b595903e3d6947b0299c9e1383
+A-League,20250502,Central Coast Mariners,Brisbane Roar,1,2,Completed,5e4bcaa05c0744b4ade60698ea3d5b1c
+A-League,20250502,Wellington Phoenix FC,Perth Glory,,,Unknown,91ce695bee721b16712bd8bc0c20c4ac
+Austrian Football Bundesliga,20250502,Grazer AK,Austria Klagenfurt,1,1,Completed,30b4ae625f91f6a1c6935431b9fffaa1
+Belgium First Div,20250502,Westerlo,Dender,4,2,Completed,811f6389d929f52d5e777edf99e47b80
+Denmark Superliga,20250502,Randers FC,FC Nordsjaelland,3,2,Completed,10fa7fd9a992a927c52ac417544fb8cb
+EPL,20250502,Manchester City,Wolverhampton Wanderers,1,0,Completed,ea24e32e0b08b6c1f987a40f4a976bf9
+Ligue 1 - France,20250502,Nice,Stade de Reims,1,0,Completed,3de62d3fb97469a5f6254a829d899698
+Ligue 2 - France,20250502,Grenoble,Troyes,3,1,Completed,0e734a61ad99f276644283b079cb304d
+Ligue 2 - France,20250502,AC Ajaccio,Lorient,2,1,Completed,1b80b9395661f9df79f3705e2e8139d5
+Ligue 2 - France,20250502,Amiens,Pau FC,4,2,Completed,45eb4d272f18dee29096e54c2b14cc3c
+Ligue 2 - France,20250502,Clermont,Annecy FC,3,2,Completed,34e51d6ae254bb209023a17eacb2a3f5
+Ligue 2 - France,20250502,Caen,Red Star,1,1,Completed,c6889aa200af0d719b0d3a1a4335e756
+Ligue 2 - France,20250502,FC Martigues,Paris FC,1,1,Completed,bec320f4698984d8dfa7117fff076f5e
+Ligue 2 - France,20250502,Guingamp,SC Bastia,2,2,Completed,3e75b988240a2392524f0e2af24dadef
+Ligue 2 - France,20250502,Metz,Rodez AF,3,3,Completed,69c446ccd5f1c9197a1c9845b4448c9d
+Ligue 2 - France,20250502,USL Dunkerque,Stade Lavallois,0,0,Completed,8d35408c6bc37f590b959142b6c353f8
+Bundesliga - Germany,20250502,1. FC Heidenheim,VfL Bochum,0,0,Completed,10278b1f5de328a2fa3222fcc4bbb3fa
+Bundesliga 2 - Germany,20250502,1. FC Magdeburg,SC Preußen Münster,0,5,Completed,8aec2ddf65b54b01dcda715875a92c25
+Bundesliga 2 - Germany,20250502,FC Schalke 04,SC Paderborn,0,2,Completed,e1401cce270e41db0cb5a772452e2346
+3. Liga - Germany,20250502,VfL Osnabrück,FC Viktoria Köln 1904,2,0,Completed,4b6a04c1abc14882599fff21d7cc1e63
+Serie A - Italy,20250502,Torino,Venezia,1,1,Completed,57e13c73b67225c7b68ac8b5cc926b28
+League of Ireland,20250502,Cork City,Shamrock Rovers,1,1,Completed,7da734cb82966c768aa037d79b15fc6a
+League of Ireland,20250502,St Patricks Athletic,Galway United,2,0,Completed,f238c344288bfb3419b442a2956fa2ce
+League of Ireland,20250502,Bohemians,Waterford FC,1,2,Completed,10c59d588b47b8e832592136f9e8a085
+League of Ireland,20250502,Derry City,Shelbourne Dublin,2,0,Completed,36c12a76d323d8ed03568b853545d683
+League of Ireland,20250502,Sligo Rovers,Drogheda United,2,2,Completed,35e819d2aa46ac7ca0b9e333a127737b
+Primeira Liga - Portugal,20250502,FC Porto,Moreirense FC,3,1,Completed,c93166a0aeeb4ec9f85b62491659b2f7
+La Liga - Spain,20250502,Rayo Vallecano,Getafe,1,0,Completed,7c1356c013bd5f0edf0b818a84dd0f4d
+La Liga 2 - Spain,20250502,Córdoba,Cádiz CF,4,2,Completed,b26bab9e0208633306a7241b5e41a6eb
+Turkey Super League,20250502,Antalyaspor,Torku Konyaspor,1,0,Completed,19a6bc0ea5597cbb9f8952050c505755
