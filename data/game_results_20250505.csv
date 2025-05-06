@@ -1,0 +1,22 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+NBA,20250505,Boston Celtics,New York Knicks,105,108,Completed,df2b12f9f194f39c1118cf888d54f5bf
+NBA,20250505,Oklahoma City Thunder,Denver Nuggets,,,Unknown,f6612a85d6a6fc48e5bca4120ce124e5
+NBA,20250505,Boston Celtics,New York Knicks,,,Unknown,5c25f7e8df3df0a81bbc8e82c06b3275
+NHL,20250505,Toronto Maple Leafs,Florida Panthers,5,4,Completed,2e62c56e4faf80bdb5568ef08d1425eb
+NHL,20250505,Toronto Maple Leafs,Florida Panthers,,,Unknown,f464cdc4f84223ee32ffe89a86c8bd00
+Denmark Superliga,20250505,SonderjyskE,AaB,2,2,Completed,aa7b1d74765cadaa556d8180e02d8951
+EPL,20250505,Crystal Palace,Nottingham Forest,1,1,Completed,c1ae8aa325f8d290000c18db5e158f94
+Super League - Greece,20250505,Athens Kallithea FC,Panetolikos Agrinio,0,0,Completed,7c56a556ab4274fc250a60995e7d001c
+Super League - Greece,20250505,Panserraikos FC,Volos FC,3,0,Completed,babd9bbb24686d0fe3394bd6d629348d
+Super League - Greece,20250505,PAS Lamia 1964,Levadiakos,2,3,Completed,a0993341be86252067d4542fc06cee7b
+Serie A - Italy,20250505,Genoa,AC Milan,1,2,Completed,9c5a3e787149ccfb4497617656a56a2f
+League of Ireland,20250505,Galway United,Bohemians,1,2,Completed,522b95552d99e9763d01acda19ad3cf7
+League of Ireland,20250505,Drogheda United,Cork City,3,2,Completed,3b3939d09aed921b214811144c108002
+League of Ireland,20250505,Shelbourne Dublin,Waterford FC,0,1,Completed,b4418e4c52e1029e5f400e88de642521
+League of Ireland,20250505,Shamrock Rovers,Sligo Rovers,2,0,Completed,cc51707e96c5694751abf8e77f20b184
+League of Ireland,20250505,Derry City,St Patricks Athletic,1,0,Completed,f0616e0bbbd8641687cec689ce16c685
+Primeira Liga - Portugal,20250505,Rio Ave FC,CF Estrela,2,0,Completed,f1cee5cf104bc8486a45cb7906d53802
+Primeira Liga - Portugal,20250505,AVS Futebol SAD,Boavista Porto,1,2,Completed,edce4e6a885c994e98335cc13643b717
+La Liga - Spain,20250505,Girona,Mallorca,1,0,Completed,8a5a27b073566c0d05c81b6557b5d588
+La Liga 2 - Spain,20250505,CD Castellón,Sporting Gijón,4,3,Completed,d9cf008ff27cfb5310ecae63a4fc5376
+Turkey Super League,20250505,Kasimpasa SK,Trabzonspor,1,1,Completed,38a8867763e4f18a47f3db0be054d9a6
