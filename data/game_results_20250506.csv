@@ -1,0 +1,14 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+Basketball Euroleague,20250506,AS Monaco,FC Barcelona Bàsquet,85,84,Completed,078e837ebedbbdeb468e58253e97f483
+Basketball Euroleague,20250506,Panathinaikos,Anadolu Efes,75,67,Completed,59d220f39db9a3bc285a7b2138a868a1
+NBA,20250506,Cleveland Cavaliers,Indiana Pacers,119,120,Completed,c9332faaae1e65f4235ea5cacfe1cdc1
+NBA,20250506,Minnesota Timberwolves,Golden State Warriors,,,Unknown,6c21d822a58fb471d674113df3b8af57
+NHL,20250506,Washington Capitals,Carolina Hurricanes,1,2,Completed,70a33eb5091fc0ecba887d1c12386841
+NHL,20250506,Vegas Golden Knights,Edmonton Oilers,,,Unknown,539c0fd64d174927a30d2ff7df9c35f2
+NHL,20250506,Washington Capitals,Carolina Hurricanes,,,Unknown,678e451004bce5832cacc6ad4db7ec60
+Copa Libertadores,20250506,Alianza Lima,Sao Paulo,0,2,Completed,6afdfc4ac5acbab06b51a095e02bab07
+Copa Libertadores,20250506,Atlético Bucaramanga,Racing Club,0,4,Completed,cb36b7c3fe7e1dfed9fc13cc53e44028
+Copa Libertadores,20250506,Carabobo FC,Botafogo,1,2,Completed,70062904e7b6eaffe867f346108c3f67
+Copa Libertadores,20250506,Fortaleza-EC,Colo Colo,4,0,Completed,935d88b2320ff0eb8107025a829e5b50
+Copa Libertadores,20250506,C.D. San Antonio Bulo Bulo,Peñarol Montevideo,,,Unknown,70d8574d327ba3f2caf0b2033340039d
+UEFA Champions League,20250506,Internazionale Milano,Barcelona,4,3,Completed,f00fa3716bc96169481227d1d9cca76f
