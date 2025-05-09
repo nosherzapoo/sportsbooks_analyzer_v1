@@ -1,0 +1,129 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,3,33.33,6,66.67,2
+Bovada,7,50.0,7,50.0,3
+BetUS,7,58.33,5,41.67,3
+BetMGM,4,57.14,3,42.86,2
+FanDuel,3,37.5,5,62.5,2
+BetRivers,5,45.45,6,54.55,3
+BetOnline.ag,5,41.67,7,58.33,3
+LowVig.ag,5,41.67,7,58.33,3
+Fanatics,1,50.0,1,50.0,1
+MyBookie.ag,1,50.0,1,50.0,1
+Caesars,1,50.0,1,50.0,1
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250508,Fremantle Dockers,Collingwood Magpies,83.0,97.0,Completed,4403258c11c4610c76181d9ffb8d5c96,2025-05-08 06:10:00,2.0,1.8,DraftKings,2025-05-07 23:44:27
+AFL,20250508,Fremantle Dockers,Collingwood Magpies,83.0,97.0,Completed,4403258c11c4610c76181d9ffb8d5c96,2025-05-08 06:10:00,1.909,1.833,Bovada,2025-05-07 23:44:27
+AFL,20250508,Fremantle Dockers,Collingwood Magpies,83.0,97.0,Completed,4403258c11c4610c76181d9ffb8d5c96,2025-05-08 06:10:00,1.769,2.0,BetUS,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.7,2.75,BetMGM,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.8,2.8,FanDuel,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.75,2.75,DraftKings,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.7,2.75,Bovada,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.75,2.75,BetRivers,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.76,2.7,BetOnline.ag,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.76,2.7,LowVig.ag,2025-05-07 23:44:27
+Championship,20250508,Bristol City,Sheffield United,0.0,3.0,Completed,cae2b85dfd6857c19b6ecf1462529a32,2025-05-08 15:00:00,2.7,2.75,BetUS,2025-05-07 23:44:27
+Copa Libertadores,20250508,Atlético Nacional S.A,Internacional-RS,3.0,1.0,Completed,9d15524f176a0a7766065667f239c62b,2025-05-08 20:30:00,2.32,3.15,BetRivers,2025-05-07 23:44:27
+Copa Libertadores,20250508,Atlético Nacional S.A,Internacional-RS,3.0,1.0,Completed,9d15524f176a0a7766065667f239c62b,2025-05-08 20:30:00,2.3,3.1,Bovada,2025-05-07 23:44:27
+Copa Libertadores,20250508,Atlético Nacional S.A,Internacional-RS,3.0,1.0,Completed,9d15524f176a0a7766065667f239c62b,2025-05-08 20:30:00,2.38,3.08,BetOnline.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Atlético Nacional S.A,Internacional-RS,3.0,1.0,Completed,9d15524f176a0a7766065667f239c62b,2025-05-08 20:30:00,2.38,3.08,LowVig.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Atlético Nacional S.A,Internacional-RS,3.0,1.0,Completed,9d15524f176a0a7766065667f239c62b,2025-05-08 20:30:00,2.3,3.1,BetUS,2025-05-07 23:44:27
+Copa Libertadores,20250508,Barcelona SC,River Plate,2.0,3.0,Completed,f20569065c7c4ade835617e8111e4a0c,2025-05-08 20:30:00,4.1,1.909,BetRivers,2025-05-07 23:44:27
+Copa Libertadores,20250508,Barcelona SC,River Plate,2.0,3.0,Completed,f20569065c7c4ade835617e8111e4a0c,2025-05-08 20:30:00,4.1,1.87,Bovada,2025-05-07 23:44:27
+Copa Libertadores,20250508,Barcelona SC,River Plate,2.0,3.0,Completed,f20569065c7c4ade835617e8111e4a0c,2025-05-08 20:30:00,4.0,1.98,BetOnline.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Barcelona SC,River Plate,2.0,3.0,Completed,f20569065c7c4ade835617e8111e4a0c,2025-05-08 20:30:00,4.0,1.98,LowVig.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Barcelona SC,River Plate,2.0,3.0,Completed,f20569065c7c4ade835617e8111e4a0c,2025-05-08 20:30:00,4.1,1.87,BetUS,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Atletico Talleres,Libertad Asuncion,0.0,0.0,Completed,c6bc2b21a305ed15f0f1eddf88327c35,2025-05-08 18:00:00,1.769,4.9,BetRivers,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Atletico Talleres,Libertad Asuncion,0.0,0.0,Completed,c6bc2b21a305ed15f0f1eddf88327c35,2025-05-08 18:00:00,1.833,4.7,Bovada,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Atletico Talleres,Libertad Asuncion,0.0,0.0,Completed,c6bc2b21a305ed15f0f1eddf88327c35,2025-05-08 18:00:00,1.84,4.9,LowVig.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Atletico Talleres,Libertad Asuncion,0.0,0.0,Completed,c6bc2b21a305ed15f0f1eddf88327c35,2025-05-08 18:00:00,1.84,4.9,BetOnline.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Atletico Talleres,Libertad Asuncion,0.0,0.0,Completed,c6bc2b21a305ed15f0f1eddf88327c35,2025-05-08 18:00:00,1.8,4.94,BetUS,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Universitario de Deportes,Independiente del Valle,,,Unknown,abb65813140b1367f1c4003ea2de5163,2025-05-08 22:00:00,2.23,3.55,BetRivers,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Universitario de Deportes,Independiente del Valle,,,Unknown,abb65813140b1367f1c4003ea2de5163,2025-05-08 22:00:00,2.2,3.6,Bovada,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Universitario de Deportes,Independiente del Valle,,,Unknown,abb65813140b1367f1c4003ea2de5163,2025-05-08 22:00:00,2.21,3.64,LowVig.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Universitario de Deportes,Independiente del Valle,,,Unknown,abb65813140b1367f1c4003ea2de5163,2025-05-08 22:00:00,2.21,3.64,BetOnline.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Club Universitario de Deportes,Independiente del Valle,,,Unknown,abb65813140b1367f1c4003ea2de5163,2025-05-08 22:00:00,2.2,3.6,BetUS,2025-05-07 23:44:27
+Copa Libertadores,20250508,Velez Sarsfield,Olimpia Asunción,1.0,1.0,Completed,0759de6bd9abd2f5d8fc9dcf5eaafef1,2025-05-08 18:00:00,1.676,5.4,BetRivers,2025-05-07 23:44:27
+Copa Libertadores,20250508,Velez Sarsfield,Olimpia Asunción,1.0,1.0,Completed,0759de6bd9abd2f5d8fc9dcf5eaafef1,2025-05-08 18:00:00,1.741,5.0,Bovada,2025-05-07 23:44:27
+Copa Libertadores,20250508,Velez Sarsfield,Olimpia Asunción,1.0,1.0,Completed,0759de6bd9abd2f5d8fc9dcf5eaafef1,2025-05-08 18:00:00,1.741,5.1,LowVig.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Velez Sarsfield,Olimpia Asunción,1.0,1.0,Completed,0759de6bd9abd2f5d8fc9dcf5eaafef1,2025-05-08 18:00:00,1.741,5.1,BetOnline.ag,2025-05-07 23:44:27
+Copa Libertadores,20250508,Velez Sarsfield,Olimpia Asunción,1.0,1.0,Completed,0759de6bd9abd2f5d8fc9dcf5eaafef1,2025-05-08 18:00:00,1.741,5.0,BetUS,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.1,2.2,FanDuel,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.15,2.2,Bovada,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.2,2.2,DraftKings,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.15,2.08,BetRivers,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.3,2.3,BetUS,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.1,2.2,BetMGM,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.32,2.28,BetOnline.ag,2025-05-07 23:44:27
+Liga MX,20250508,León,Cruz Azul,,,Unknown,4ec0895d49141c9c9d8eebb345d5f096,2025-05-08 23:10:00,3.32,2.28,LowVig.ag,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.85,2.45,FanDuel,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.75,2.5,Bovada,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.75,2.5,DraftKings,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.8,2.35,BetRivers,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.8,2.55,BetUS,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.75,2.45,BetMGM,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.87,2.6,BetOnline.ag,2025-05-07 23:44:27
+Liga MX,20250508,Necaxa,Tigres,0.0,0.0,Completed,d69b3bdba502615f5f47c1438f318059,2025-05-08 21:00:00,2.87,2.6,LowVig.ag,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.179,5.2,FanDuel,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.206,4.7,DraftKings,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.2,4.75,Fanatics,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.2,4.75,BetMGM,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.188,4.77,MyBookie.ag,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.202,4.8,BetOnline.ag,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.205,4.87,LowVig.ag,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.19,4.75,Bovada,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.2,4.8,BetRivers,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.182,5.0,Caesars,2025-05-07 23:44:27
+NBA,20250508,Minnesota Timberwolves,Golden State Warriors,117.0,93.0,Completed,22e737f4ba0084666d3393962b06c3b1,2025-05-08 20:30:00,1.202,4.87,BetUS,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.14,DraftKings,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.73,2.14,FanDuel,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.735,2.12,BetRivers,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.15,BetMGM,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.704,2.11,MyBookie.ag,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.2,BetOnline.ag,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.2,LowVig.ag,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.69,2.2,Fanatics,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.714,2.2,Bovada,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.15,Caesars,2025-05-07 23:44:27
+NHL,20250508,Vegas Golden Knights,Edmonton Oilers,,,Unknown,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-08 21:40:00,1.741,2.15,BetUS,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.14,1.73,FanDuel,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.18,1.752,BetOnline.ag,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.18,1.752,LowVig.ag,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.12,1.735,BetRivers,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.13,1.752,BetUS,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.15,1.741,BetMGM,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.08,1.73,MyBookie.ag,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.15,1.714,Fanatics,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.14,1.741,DraftKings,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.15,1.741,Bovada,2025-05-07 23:44:27
+NHL,20250508,Washington Capitals,Carolina Hurricanes,3.0,1.0,Completed,678e451004bce5832cacc6ad4db7ec60,2025-05-08 19:00:00,2.15,1.741,Caesars,2025-05-07 23:44:27
+NRL,20250508,Parramatta Eels,Dolphins,16.0,20.0,Completed,b6e04f31bf25ab28fe1fb78b5675a481,2025-05-08 05:50:00,1.769,2.16,Bovada,2025-05-07 23:44:27
+NRL,20250508,Parramatta Eels,Dolphins,16.0,20.0,Completed,b6e04f31bf25ab28fe1fb78b5675a481,2025-05-08 05:50:00,1.719,2.12,BetRivers,2025-05-07 23:44:27
+NRL,20250508,Parramatta Eels,Dolphins,16.0,20.0,Completed,b6e04f31bf25ab28fe1fb78b5675a481,2025-05-08 05:50:00,1.752,1.935,BetUS,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.133,16.0,FanDuel,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.138,18.0,LowVig.ag,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.138,18.0,BetOnline.ag,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.148,16.0,Bovada,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.154,16.0,DraftKings,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Chelsea,Djurgardens IF,1.0,0.0,Completed,58e78e24d7c93523f7a46e7b418d17b2,2025-05-08 15:00:00,1.143,14.0,BetMGM,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.25,3.0,FanDuel,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.28,3.04,BetOnline.ag,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.28,3.04,LowVig.ag,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.25,3.05,Bovada,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.3,3.05,DraftKings,2025-05-07 23:44:27
+UEFA Europa Conference League,20250508,Fiorentina,Real Betis,2.0,2.0,Completed,259c79740dcec5bed11023727bb1e192,2025-05-08 15:00:00,2.2,2.95,BetMGM,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.6,2.4,FanDuel,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.6,2.5,DraftKings,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.71,2.43,LowVig.ag,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.71,2.43,BetOnline.ag,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.6,2.4,Bovada,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.7,2.38,BetRivers,2025-05-07 23:44:27
+UEFA Europa League,20250508,Bodø/Glimt,Tottenham Hotspur,0.0,2.0,Completed,c489894346b2648ee11671555510793c,2025-05-08 15:00:00,2.6,2.4,BetUS,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.87,3.8,FanDuel,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.952,3.9,DraftKings,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.935,4.01,BetOnline.ag,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.935,4.01,LowVig.ag,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.909,3.9,Bovada,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.952,3.8,BetRivers,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.909,3.9,BetUS,2025-05-07 23:44:27
+UEFA Europa League,20250508,Manchester United,Athletic Bilbao,4.0,1.0,Completed,4040358cc1338045953f532e5c16a099,2025-05-08 15:00:00,1.87,4.0,BetMGM,2025-05-07 23:44:27
