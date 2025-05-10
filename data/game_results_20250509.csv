@@ -1,0 +1,40 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250509,St Kilda Saints,Carlton Blues,62,77,Completed,bf81b7ef27f44967b9f0e3a9b2bf3eeb
+AFL,20250509,Melbourne Demons,Hawthorn Hawks,,,Unknown,6eddf171efa1da2176fc2d99d84269ad
+NBA,20250509,Indiana Pacers,Cleveland Cavaliers,104,126,Completed,34e829d65b6a0cbb49573338a86772ec
+NBA,20250509,Denver Nuggets,Oklahoma City Thunder,,,Unknown,57675a019ab81bbf046093942697c7e1
+NBA,20250509,Indiana Pacers,Cleveland Cavaliers,,,Unknown,3aeb77299e031d5b0b35e26048a29c48
+NHL,20250509,Florida Panthers,Toronto Maple Leafs,5,4,Completed,e88a97a8ecd3785abe25c00c5a393484
+NHL,20250509,Winnipeg Jets,Dallas Stars,,,Unknown,ddec7c2e25102932bd886e837fc2b2ce
+NHL,20250509,Florida Panthers,Toronto Maple Leafs,,,Unknown,6cada66d468d55e85ee9628141e7ba4a
+MMA,20250509,Chris Mecate,Javier Reyes Rugeles,,,Unknown,0cbc5b80aa240f69be604b7ce4f78048
+NRL,20250509,Newcastle Knights,Gold Coast Titans,20,24,Completed,8230f30384936e2bea36ea74cd1256db
+NRL,20250509,South Sydney Rabbitohs,Brisbane Broncos,22,14,Completed,d2323650c78cbe76f639d391769f38f4
+A-League,20250509,Western United FC,Adelaide United,3,2,Completed,23611a365ccd0bdd5c3641beea70cf20
+Austrian Football Bundesliga,20250509,Sturm Graz,RB Salzburg,4,2,Completed,9fe36cb277c64817cad76d7986dbe9fa
+Belgium First Div,20250509,Charleroi,Westerlo,4,3,Completed,7b1bc283ce154fbf0e6091604f6ffb01
+Championship,20250509,Coventry City,Sunderland,1,2,Completed,00454471e7077c5f4d69de39af81aedd
+Bundesliga - Germany,20250509,VfL Wolfsburg,TSG Hoffenheim,2,2,Completed,7f3ff2604f89237d9151e0b9856cf465
+Bundesliga 2 - Germany,20250509,1. FC Nürnberg,1. FC Köln,1,2,Completed,30bc0daf1aaae4ca6cda826078f267ee
+Bundesliga 2 - Germany,20250509,SC Preußen Münster,Hertha Berlin,2,0,Completed,5ec237396e19f2bdc2cc3c21774c07e9
+3. Liga - Germany,20250509,Borussia Dortmund II,VfB Stuttgart II,0,1,Completed,8275f0e92d88ede2b9fc73a17f84705c
+Serie A - Italy,20250509,AC Milan,Bologna,3,1,Completed,1cc710db960a8dd999c4c0b8f0ecbc8a
+Serie B - Italy,20250509,Cittadella,Bari,3,1,Completed,e73641c7673ae11dea1269395f5548f0
+Serie B - Italy,20250509,Modena,Brescia,2,2,Completed,0eb88307d70501480768621ca5626f22
+Serie B - Italy,20250509,Mantova,Carrarese,2,1,Completed,61cb8fafd86f5324412f790fc8982bc1
+Serie B - Italy,20250509,Cosenza,Cesena FC,0,1,Completed,f16afc9f448fd28d184e7663363cdc37
+Serie B - Italy,20250509,Spezia,Cremonese,2,3,Completed,95a4fec6abc67884ea66a9586a92cac3
+Serie B - Italy,20250509,Palermo,Frosinone,2,0,Completed,fcec952b949528046ba41fd5f1ca2f27
+Serie B - Italy,20250509,Juve Stabia,Reggiana,1,2,Completed,bf9f540fa863865c56a2887b2f4bb169
+Serie B - Italy,20250509,Pisa,Südtirol,3,3,Completed,cf75160e4756f47f0a028482614595ad
+Serie B - Italy,20250509,Sampdoria,Salernitana,1,0,Completed,83878b47326f4e18b0a4a480c2dd2ed6
+Serie B - Italy,20250509,Sassuolo,US Catanzaro 1929,0,2,Completed,82807a5c492f1e1af6b3f88e0727f664
+League of Ireland,20250509,Cork City,Derry City,1,2,Completed,e293f97ce4b0dfccbcb27ecc40b208b9
+League of Ireland,20250509,Shelbourne Dublin,St Patricks Athletic,2,1,Completed,b93e9edecd25f8acbb532bca360270e8
+League of Ireland,20250509,Shamrock Rovers,Drogheda United,3,0,Completed,119c6ca0a9cedde70c3c1ce3daa9a310
+League of Ireland,20250509,Waterford FC,Galway United,1,0,Completed,88353ccd2fb648405360d021db445a02
+Dutch Eredivisie,20250509,Willem II,Heracles Almelo,1,2,Completed,1ffac73a66285a68a5e9475fa1487f53
+La Liga - Spain,20250509,Las Palmas,Rayo Vallecano,0,1,Completed,9792282020081c4896ed33405d63196b
+La Liga 2 - Spain,20250509,Cádiz CF,Almería,2,1,Completed,622d3b65ad55e8816a246322a85d0ec5
+Turkey Super League,20250509,Gazişehir Gaziantep,Alanyaspor,0,1,Completed,31649237f0091584364bebf9dc2a893a
+Turkey Super League,20250509,Basaksehir,Fenerbahce,1,4,Completed,566a189d052d8a743bfa40d6b3df0d2a
