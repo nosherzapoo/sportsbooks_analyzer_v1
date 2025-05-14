@@ -1,0 +1,181 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,4,50.0,4,50.0,1
+DraftKings,9,52.94,8,47.06,1
+Bovada,11,50.0,11,50.0,1
+BetUS,11,52.38,10,47.62,1
+BetRivers,10,47.62,11,52.38,1
+BetOnline.ag,11,50.0,11,50.0,1
+LowVig.ag,11,50.0,11,50.0,1
+BetMGM,8,47.06,9,52.94,1
+Fanatics,1,50.0,1,50.0,1
+MyBookie.ag,1,50.0,1,50.0,1
+Caesars,1,50.0,1,50.0,1
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.2,3.2,FanDuel,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.25,3.3,DraftKings,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.15,3.3,Bovada,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.15,3.3,BetUS,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.18,3.2,BetRivers,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.18,3.3,BetOnline.ag,2025-05-12 23:45:07
+Championship,20250513,Sunderland,Coventry City,1.0,1.0,Completed,0ba5cd93acf72aacc14ae8dadf0564b8,2025-05-13 15:00:00,2.18,3.3,LowVig.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Deportivo Táchira,Central Córdoba,1.0,2.0,Completed,af6b809886b998c0526e56b3e78edee2,2025-05-13 18:00:00,3.45,2.2,Bovada,2025-05-12 23:45:07
+Copa Libertadores,20250513,Deportivo Táchira,Central Córdoba,1.0,2.0,Completed,af6b809886b998c0526e56b3e78edee2,2025-05-13 18:00:00,3.4,2.17,BetRivers,2025-05-12 23:45:07
+Copa Libertadores,20250513,Deportivo Táchira,Central Córdoba,1.0,2.0,Completed,af6b809886b998c0526e56b3e78edee2,2025-05-13 18:00:00,3.34,2.15,LowVig.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Deportivo Táchira,Central Córdoba,1.0,2.0,Completed,af6b809886b998c0526e56b3e78edee2,2025-05-13 18:00:00,3.34,2.15,BetOnline.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Deportivo Táchira,Central Córdoba,1.0,2.0,Completed,af6b809886b998c0526e56b3e78edee2,2025-05-13 18:00:00,3.55,2.1,BetUS,2025-05-12 23:45:07
+Copa Libertadores,20250513,Fortaleza-EC,Atlético Bucaramanga,0.0,0.0,Completed,c2d406e767845f816aa6aa2eb5bdf076,2025-05-13 20:30:00,1.5,6.75,BetRivers,2025-05-12 23:45:07
+Copa Libertadores,20250513,Fortaleza-EC,Atlético Bucaramanga,0.0,0.0,Completed,c2d406e767845f816aa6aa2eb5bdf076,2025-05-13 20:30:00,1.5,7.0,Bovada,2025-05-12 23:45:07
+Copa Libertadores,20250513,Fortaleza-EC,Atlético Bucaramanga,0.0,0.0,Completed,c2d406e767845f816aa6aa2eb5bdf076,2025-05-13 20:30:00,1.49,7.0,BetUS,2025-05-12 23:45:07
+Copa Libertadores,20250513,Fortaleza-EC,Atlético Bucaramanga,0.0,0.0,Completed,c2d406e767845f816aa6aa2eb5bdf076,2025-05-13 20:30:00,1.49,7.0,LowVig.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Fortaleza-EC,Atlético Bucaramanga,0.0,0.0,Completed,c2d406e767845f816aa6aa2eb5bdf076,2025-05-13 20:30:00,1.49,7.0,BetOnline.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Sporting Cristal,Cerro Porteño,0.0,1.0,Completed,88de73ab1d80dc7e05edeca902bce80a,2025-05-13 20:30:00,2.55,2.7,Bovada,2025-05-12 23:45:07
+Copa Libertadores,20250513,Sporting Cristal,Cerro Porteño,0.0,1.0,Completed,88de73ab1d80dc7e05edeca902bce80a,2025-05-13 20:30:00,2.6,2.65,BetRivers,2025-05-12 23:45:07
+Copa Libertadores,20250513,Sporting Cristal,Cerro Porteño,0.0,1.0,Completed,88de73ab1d80dc7e05edeca902bce80a,2025-05-13 20:30:00,2.5,2.8,BetUS,2025-05-12 23:45:07
+Copa Libertadores,20250513,Sporting Cristal,Cerro Porteño,0.0,1.0,Completed,88de73ab1d80dc7e05edeca902bce80a,2025-05-13 20:30:00,2.48,2.78,LowVig.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Sporting Cristal,Cerro Porteño,0.0,1.0,Completed,88de73ab1d80dc7e05edeca902bce80a,2025-05-13 20:30:00,2.48,2.78,BetOnline.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Universidad de Chile,Carabobo FC,4.0,0.0,Completed,22039cd3e53555d376a4975452812610,2025-05-13 20:30:00,1.299,11.0,Bovada,2025-05-12 23:45:07
+Copa Libertadores,20250513,Universidad de Chile,Carabobo FC,4.0,0.0,Completed,22039cd3e53555d376a4975452812610,2025-05-13 20:30:00,1.299,10.0,BetRivers,2025-05-12 23:45:07
+Copa Libertadores,20250513,Universidad de Chile,Carabobo FC,4.0,0.0,Completed,22039cd3e53555d376a4975452812610,2025-05-13 20:30:00,1.299,10.05,BetUS,2025-05-12 23:45:07
+Copa Libertadores,20250513,Universidad de Chile,Carabobo FC,4.0,0.0,Completed,22039cd3e53555d376a4975452812610,2025-05-13 20:30:00,1.299,10.05,LowVig.ag,2025-05-12 23:45:07
+Copa Libertadores,20250513,Universidad de Chile,Carabobo FC,4.0,0.0,Completed,22039cd3e53555d376a4975452812610,2025-05-13 20:30:00,1.299,10.05,BetOnline.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.35,3.0,FanDuel,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.3,2.85,DraftKings,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.38,2.9,BetRivers,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.4,2.95,Bovada,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.4,3.0,BetUS,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.45,3.05,LowVig.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.45,3.05,BetOnline.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Real Sociedad,Celta Vigo,0.0,1.0,Completed,a65c78d0fbeae478ef93ca5ba804d962,2025-05-13 14:00:00,2.35,2.95,BetMGM,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.69,4.9,FanDuel,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.714,4.9,DraftKings,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.735,4.75,BetRivers,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.769,4.7,Bovada,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.769,4.85,BetUS,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.775,5.05,LowVig.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.775,5.05,BetOnline.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Sevilla,Las Palmas,1.0,0.0,Completed,17ad1e28151fe2db7aedba798c40a9b6,2025-05-13 15:30:00,1.769,4.6,BetMGM,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.5,1.571,FanDuel,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.0,1.588,DraftKings,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.4,1.571,BetRivers,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.2,1.606,Bovada,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.4,1.606,BetUS,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.65,1.654,LowVig.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.65,1.654,BetOnline.ag,2025-05-12 23:45:07
+La Liga - Spain,20250513,Valladolid,Girona,0.0,1.0,Completed,93e33eefbfac1075b828fadb4cc8cb18,2025-05-13 13:00:00,5.25,1.606,BetMGM,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.333,3.45,FanDuel,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.345,3.35,DraftKings,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.314,3.59,BetOnline.ag,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.317,3.62,LowVig.ag,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.308,3.5,Fanatics,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.333,3.4,BetMGM,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.326,3.36,MyBookie.ag,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.333,3.5,Bovada,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.328,3.45,BetRivers,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.312,3.5,Caesars,2025-05-12 23:45:07
+NBA,20250513,Cleveland Cavaliers,Indiana Pacers,105.0,114.0,Completed,c584e30b1f28d1442b0e65d2b74440d9,2025-05-13 19:00:00,1.317,3.58,BetUS,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.2,4.8,DraftKings,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.2,4.75,Fanatics,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.204,4.8,FanDuel,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.211,4.5,BetMGM,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.209,4.81,LowVig.ag,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.206,4.74,BetOnline.ag,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.18,4.93,MyBookie.ag,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.2,4.6,Bovada,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.208,4.7,BetRivers,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.208,4.6,Caesars,2025-05-12 23:45:07
+NBA,20250513,Oklahoma City Thunder,Denver Nuggets,,,Unknown,e2702a54a8a4edb4d21c090b7d79902e,2025-05-13 21:35:00,1.19,5.05,BetUS,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.676,2.24,DraftKings,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.658,2.26,FanDuel,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.658,2.25,BetRivers,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.699,2.27,LowVig.ag,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.699,2.27,BetOnline.ag,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.667,2.25,BetMGM,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.69,2.25,BetUS,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.649,2.2,MyBookie.ag,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.69,2.22,Caesars,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.69,2.25,Bovada,2025-05-12 23:45:07
+NHL,20250513,Dallas Stars,Winnipeg Jets,3.0,1.0,Completed,79f4363732fd9231371ddec90eae7758,2025-05-13 20:10:00,1.667,2.25,Fanatics,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.476,8.0,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.5,6.5,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.5,6.75,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.488,6.75,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.5,6.75,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.49,6.4,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Brescia,Reggiana,2.0,1.0,Completed,833d2ea7fe593d219fe7263dd2b9155f,2025-05-13 14:30:00,1.49,6.4,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.15,2.5,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.0,2.45,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.05,2.5,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.0,2.43,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.05,2.5,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.05,2.43,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Cittadella,Salernitana,0.0,2.0,Completed,76bec894963f8291b77d899f1f4c183a,2025-05-13 14:30:00,3.05,2.43,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.4,2.3,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.35,2.35,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.45,2.3,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.6,2.16,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.6,2.05,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.6,2.05,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Juve Stabia,Sampdoria,0.0,0.0,Completed,877e72dbf4d0c5bb591c99a7231a5210,2025-05-13 14:30:00,3.6,2.05,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.65,2.65,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.65,2.75,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.65,2.8,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.65,2.88,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.65,2.8,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.48,2.64,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Mantova,US Catanzaro 1929,0.0,0.0,Completed,de1b3d257b33bfd84d6627072d718d0a,2025-05-13 14:30:00,2.48,2.64,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.6,2.1,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.65,2.1,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.85,2.02,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.35,2.2,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.6,2.05,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.35,2.19,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Modena,Cesena FC,0.0,1.0,Completed,92d9b0d8928b225861b651ccb4f88751,2025-05-13 14:30:00,3.35,2.19,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.571,5.5,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.571,6.0,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.606,5.4,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.606,5.5,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.606,5.4,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.61,5.0,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Palermo,Carrarese,1.0,1.0,Completed,e209a89780fbfb563b5194dc90b010bf,2025-05-13 14:30:00,1.61,5.0,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.3,2.1,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.25,2.15,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.45,2.0,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.45,2.04,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.3,2.1,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.15,2.21,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Pisa,Cremonese,2.0,1.0,Completed,5f0242d39a273228fd96868b6c78e576,2025-05-13 14:30:00,3.15,2.21,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.0,2.35,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.1,2.35,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.15,2.35,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.25,2.35,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.15,2.35,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.05,2.29,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Sassuolo,Frosinone,0.0,1.0,Completed,bfeeb3ea1d3de62cb6754151472b6a8e,2025-05-13 14:30:00,3.05,2.29,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.364,8.0,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.364,8.5,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.385,7.0,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.377,7.5,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.385,7.0,BetUS,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.391,7.7,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Spezia,Cosenza,3.0,1.0,Completed,065117a7a4096a3bb4608d1757de08f7,2025-05-13 14:30:00,1.391,7.7,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,2.95,2.38,BetMGM,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,2.95,2.45,DraftKings,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,3.0,2.35,Bovada,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,3.1,2.43,BetRivers,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,2.87,2.44,BetOnline.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,2.87,2.44,LowVig.ag,2025-05-12 23:45:07
+Serie B - Italy,20250513,Südtirol,Bari,0.0,0.0,Completed,bfff4d009b6122e83356adbc8eccf09e,2025-05-13 14:30:00,2.87,2.44,BetUS,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.25,2.85,FanDuel,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.35,2.8,BetMGM,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.4,2.9,DraftKings,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.4,2.8,Bovada,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.4,2.8,BetUS,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.28,2.85,BetOnline.ag,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Sion,FC St Gallen,1.0,1.0,Completed,bcb0890ddcad67fa85465607890e9a21,2025-05-13 14:30:00,2.28,2.85,LowVig.ag,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.565,4.9,BetRivers,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.588,4.7,FanDuel,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.645,4.5,BetMGM,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.649,4.5,LowVig.ag,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.649,4.5,BetOnline.ag,2025-05-12 23:45:07
+Swiss Superleague,20250513,FC Zurich,FC Winterthur,4.0,1.0,Completed,dc983123d2f7cf2afbd4bf79df93731f,2025-05-13 14:30:00,1.645,4.4,Bovada,2025-05-12 23:45:07
