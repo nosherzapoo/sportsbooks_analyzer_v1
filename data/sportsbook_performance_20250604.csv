@@ -1,0 +1,33 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,0,0.0,1,100.0,1
+BetOnline.ag,0,0.0,1,100.0,1
+LowVig.ag,0,0.0,1,100.0,1
+BetRivers,0,0.0,1,100.0,1
+BetMGM,0,0.0,1,100.0,1
+BetUS,0,0.0,1,100.0,1
+FanDuel,0,0.0,1,100.0,1
+Caesars,0,0.0,1,100.0,1
+Fanatics,0,0.0,1,100.0,1
+Bovada,0,0.0,1,100.0,1
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.769,2.1,DraftKings,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.787,2.13,BetOnline.ag,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.787,2.13,LowVig.ag,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.758,2.1,BetRivers,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.769,2.1,BetMGM,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.769,2.1,BetUS,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.758,2.1,FanDuel,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.741,2.15,Caesars,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.769,2.1,Fanatics,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,4.0,3.0,Completed,deeff59e8e10bee3b14bca9dadeba97a,2025-06-04 20:10:00,1.725,2.17,Bovada,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.769,2.1,DraftKings,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.787,2.13,BetOnline.ag,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.787,2.13,LowVig.ag,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.758,2.1,BetRivers,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.769,2.1,BetMGM,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.769,2.1,BetUS,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.758,2.1,FanDuel,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.741,2.15,Caesars,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.769,2.1,Fanatics,2025-06-03 23:49:57
+NHL,20250604,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-04 20:10:00,1.725,2.17,Bovada,2025-06-03 23:49:57
