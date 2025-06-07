@@ -1,0 +1,57 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+Bovada,0,0.0,3,100.0,2
+DraftKings,0,0.0,1,100.0,2
+BetUS,0,0.0,1,100.0,2
+BetRivers,0,0.0,2,100.0,1
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250606.0,Adelaide Crows,Brisbane Lions,68.0,63.0,Completed,36e2d0d9c4ce7bf45624a691dbcc4a32,2025-06-06 05:40:00,1.571,2.35,Bovada,2025-06-05 23:49:43
+AFL,20250606.0,Adelaide Crows,Brisbane Lions,68.0,63.0,Completed,36e2d0d9c4ce7bf45624a691dbcc4a32,2025-06-06 05:40:00,1.541,2.45,DraftKings,2025-06-05 23:49:43
+AFL,20250606.0,Adelaide Crows,Brisbane Lions,68.0,63.0,Completed,36e2d0d9c4ce7bf45624a691dbcc4a32,2025-06-06 05:40:00,1.588,2.4,BetUS,2025-06-05 23:49:43
+AFL,20250606.0,Richmond Tigers,Sydney Swans,,,Unknown,6f1fad07540f80b7c6a72b40c283a6ce,2025-06-06 23:20:00,2.75,1.435,Bovada,2025-06-05 23:49:43
+AFL,20250606.0,Richmond Tigers,Sydney Swans,,,Unknown,6f1fad07540f80b7c6a72b40c283a6ce,2025-06-06 23:20:00,2.55,1.5,DraftKings,2025-06-05 23:49:43
+AFL,20250606.0,Richmond Tigers,Sydney Swans,,,Unknown,6f1fad07540f80b7c6a72b40c283a6ce,2025-06-06 23:20:00,2.65,1.5,BetUS,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.1,6.5,DraftKings,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.08,7.5,BetOnline.ag,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.08,8.0,BetUS,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.091,7.0,Bovada,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.08,7.5,LowVig.ag,2025-06-05 23:49:43
+Boxing,,Bryce Mills,Aaron Aponte,,,,,2025-06-06 18:00:00,1.087,6.4,FanDuel,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.056,9.0,DraftKings,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.01,19.0,BetOnline.ag,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.05,9.5,BetUS,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.05,10.0,Bovada,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.01,19.0,LowVig.ag,2025-06-05 23:49:43
+Boxing,,Da'Velle Smith,Antonio Todd,,,,,2025-06-06 18:00:00,1.056,8.2,FanDuel,2025-06-05 23:49:43
+Boxing,,Jesus Antonio Perez,Alex Martin,,,,,2025-06-06 20:00:00,1.174,5.0,DraftKings,2025-06-05 23:49:43
+Boxing,,Jesus Antonio Perez,Alex Martin,,,,,2025-06-06 20:00:00,1.133,5.2,FanDuel,2025-06-05 23:49:43
+Boxing,,Jesus Antonio Perez,Alex Martin,,,,,2025-06-06 20:00:00,1.133,5.75,LowVig.ag,2025-06-05 23:49:43
+Boxing,,Jesus Antonio Perez,Alex Martin,,,,,2025-06-06 20:00:00,1.133,5.75,BetOnline.ag,2025-06-05 23:49:43
+Boxing,,Jesus Antonio Perez,Alex Martin,,,,,2025-06-06 20:00:00,1.133,5.5,Bovada,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.25,3.9,DraftKings,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.267,3.69,BetOnline.ag,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.217,4.1,FanDuel,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.241,4.15,BetUS,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.267,3.69,LowVig.ag,2025-06-05 23:49:43
+Boxing,,Joseph Hicks,Wendy Toussaint,,,,,2025-06-06 20:30:00,1.26,3.65,Bovada,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.174,5.0,DraftKings,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.167,4.91,BetOnline.ag,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.154,5.1,FanDuel,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.154,5.25,BetUS,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.167,4.91,LowVig.ag,2025-06-05 23:49:43
+Boxing,,Joshua James Pagan,James Bernardin,,,,,2025-06-06 21:30:00,1.167,4.75,Bovada,2025-06-05 23:49:43
+MMA,,Chris de la Rocha,Randall Wallace,,,,,2025-06-06 21:00:00,1.5,2.6,BetOnline.ag,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.769,2.1,DraftKings,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.04,FanDuel,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.11,BetOnline.ag,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.11,LowVig.ag,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.741,2.15,Caesars,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.05,BetMGM,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.04,BetRivers,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.741,2.15,Bovada,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.769,2.1,BetUS,2025-06-05 23:49:43
+NHL,20250606.0,Edmonton Oilers,Florida Panthers,,,Unknown,e643c4706f496bd0d52a51d10d516032,2025-06-06 20:10:00,1.8,2.05,Fanatics,2025-06-05 23:49:43
+NRL,20250606.0,Dolphins,St George Illawarra Dragons,56.0,6.0,Completed,89daf3dc493cdf8e839bfb5380fee6ab,2025-06-06 06:00:00,1.476,2.63,BetRivers,2025-06-05 23:49:43
+NRL,20250606.0,Dolphins,St George Illawarra Dragons,56.0,6.0,Completed,89daf3dc493cdf8e839bfb5380fee6ab,2025-06-06 06:00:00,1.459,2.8,Bovada,2025-06-05 23:49:43
+NRL,20250606.0,Melbourne Storm,North Queensland Cowboys,38.0,14.0,Completed,6b659f1580fdc4f0fec572b323d1c770,2025-06-06 04:00:00,1.2,4.85,Bovada,2025-06-05 23:49:43
+NRL,20250606.0,Melbourne Storm,North Queensland Cowboys,38.0,14.0,Completed,6b659f1580fdc4f0fec572b323d1c770,2025-06-06 04:00:00,1.2,4.6,BetRivers,2025-06-05 23:49:43
