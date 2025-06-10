@@ -1,18 +1,38 @@
-
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+Bovada,0,0.0,3,100.0,1
+DraftKings,0,0.0,2,100.0,1
+FanDuel,0,0.0,1,100.0,1
+LowVig.ag,0,0.0,1,100.0,1
+Caesars,0,0.0,1,100.0,1
+BetMGM,0,0.0,1,100.0,1
+BetOnline.ag,0,0.0,1,100.0,1
+BetRivers,0,0.0,2,100.0,1
+Fanatics,0,0.0,1,100.0,1
+BetUS,0,0.0,2,100.0,1
 
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
-AFL,20250609,Melbourne Demons,Collingwood Magpies,,,Unknown,c5a44c9353bfe51c246ab73e390433d1,2025-06-09 01:20:00,3.9,1.23,Bovada,2025-06-08 23:54:40
-AFL,20250609,Melbourne Demons,Collingwood Magpies,,,Unknown,c5a44c9353bfe51c246ab73e390433d1,2025-06-09 01:20:00,3.5,1.303,DraftKings,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.704,2.2,DraftKings,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.725,2.15,FanDuel,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.2,LowVig.ag,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.645,2.3,Caesars,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.15,BetMGM,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.2,BetOnline.ag,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.709,2.2,BetRivers,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.714,2.15,Fanatics,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.15,BetUS,2025-06-08 23:54:40
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.725,2.17,Bovada,2025-06-08 23:54:40
-NRL,20250609,Canterbury Bulldogs,Parramatta Eels,,,Unknown,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.408,3.1,Bovada,2025-06-08 23:54:40
-NRL,20250609,Canterbury Bulldogs,Parramatta Eels,,,Unknown,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.408,2.85,BetRivers,2025-06-08 23:54:40
-NRL,20250609,Canterbury Bulldogs,Parramatta Eels,,,Unknown,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.429,2.68,BetUS,2025-06-08 23:54:40
+AFL,20250609,Melbourne Demons,Collingwood Magpies,71.0,72.0,Completed,c5a44c9353bfe51c246ab73e390433d1,2025-06-09 01:20:00,3.9,1.23,Bovada,2025-06-08 23:54:40
+AFL,20250609,Melbourne Demons,Collingwood Magpies,71.0,72.0,Completed,c5a44c9353bfe51c246ab73e390433d1,2025-06-09 01:20:00,3.5,1.303,DraftKings,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.704,2.2,DraftKings,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.725,2.15,FanDuel,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.2,LowVig.ag,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.645,2.3,Caesars,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.15,BetMGM,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.2,BetOnline.ag,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.709,2.2,BetRivers,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.714,2.15,Fanatics,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.741,2.15,BetUS,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,6.0,1.0,Completed,44a8b8e741f87e7e7b7fdce783a39a9d,2025-06-09 20:10:00,1.725,2.17,Bovada,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.704,2.2,DraftKings,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.725,2.15,FanDuel,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.741,2.2,LowVig.ag,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.645,2.3,Caesars,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.741,2.15,BetMGM,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.741,2.2,BetOnline.ag,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.709,2.2,BetRivers,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.714,2.15,Fanatics,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.741,2.15,BetUS,2025-06-08 23:54:40
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358,2025-06-09 20:10:00,1.725,2.17,Bovada,2025-06-08 23:54:40
+NRL,20250609,Canterbury Bulldogs,Parramatta Eels,30.0,12.0,Completed,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.408,3.1,Bovada,2025-06-08 23:54:40
+NRL,20250609,Canterbury Bulldogs,Parramatta Eels,30.0,12.0,Completed,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.408,2.85,BetRivers,2025-06-08 23:54:40
+NRL,20250609,Canterbury Bulldogs,Parramatta Eels,30.0,12.0,Completed,114f3f33b7fae63268c92f78436a039c,2025-06-09 02:00:00,1.429,2.68,BetUS,2025-06-08 23:54:40

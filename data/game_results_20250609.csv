@@ -1,4 +1,5 @@
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
-AFL,20250609,Melbourne Demons,Collingwood Magpies,,,Unknown,c5a44c9353bfe51c246ab73e390433d1
-NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,44a8b8e741f87e7e7b7fdce783a39a9d
-NRL,20250609,Canterbury Bulldogs,Parramatta Eels,,,Unknown,114f3f33b7fae63268c92f78436a039c
+AFL,20250609,Melbourne Demons,Collingwood Magpies,71,72,Completed,c5a44c9353bfe51c246ab73e390433d1
+NHL,20250609,Florida Panthers,Edmonton Oilers,6,1,Completed,44a8b8e741f87e7e7b7fdce783a39a9d
+NHL,20250609,Florida Panthers,Edmonton Oilers,,,Unknown,8818a6d6628e2990771939493a63d358
+NRL,20250609,Canterbury Bulldogs,Parramatta Eels,30,12,Completed,114f3f33b7fae63268c92f78436a039c
