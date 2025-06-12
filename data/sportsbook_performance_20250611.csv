@@ -1,0 +1,41 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,2,100.0,0,0.0,1
+BetMGM,1,100.0,0,0.0,0
+DraftKings,2,100.0,0,0.0,1
+Bovada,2,100.0,0,0.0,1
+LowVig.ag,2,100.0,0,0.0,1
+BetOnline.ag,2,100.0,0,0.0,1
+BetUS,2,100.0,0,0.0,1
+Fanatics,1,100.0,0,0.0,1
+Caesars,1,100.0,0,0.0,1
+BetRivers,1,100.0,0,0.0,1
+MyBookie.ag,1,100.0,0,0.0,1
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.4,2.75,FanDuel,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.4,2.75,BetMGM,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.45,2.85,DraftKings,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.5,2.75,Bovada,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.43,2.83,LowVig.ag,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.43,2.83,BetOnline.ag,2025-06-10 23:51:14
+La Liga 2 - Spain,20250611,Oviedo,Almería,1.0,1.0,Completed,124733830f32f8fa430fc8492d6b82a0,2025-06-11 15:00:00,2.5,2.75,BetUS,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.8,1.459,DraftKings,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.85,1.444,Fanatics,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.85,1.444,Bovada,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.8,1.455,Caesars,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.85,1.467,LowVig.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.83,1.465,BetOnline.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.84,1.455,FanDuel,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.7,1.476,BetRivers,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.78,1.45,MyBookie.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,116.0,107.0,Completed,fbb23bfdbb36b9582628067a17266910,2025-06-11 20:35:00,2.83,1.465,BetUS,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.8,1.459,DraftKings,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.85,1.444,Fanatics,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.85,1.444,Bovada,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.8,1.455,Caesars,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.85,1.467,LowVig.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.83,1.465,BetOnline.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.84,1.455,FanDuel,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.7,1.476,BetRivers,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.78,1.45,MyBookie.ag,2025-06-10 23:51:14
+NBA,20250611,Indiana Pacers,Oklahoma City Thunder,,,Unknown,b3341893e40e1357ab9fcd9c362d7401,2025-06-11 20:35:00,2.83,1.465,BetUS,2025-06-10 23:51:14
