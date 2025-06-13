@@ -1,0 +1,66 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+Bovada,1,25.0,3,75.0,0
+DraftKings,1,33.33,2,66.67,0
+BetUS,1,25.0,3,75.0,0
+BetMGM,1,50.0,1,50.0,2
+FanDuel,1,50.0,1,50.0,3
+LowVig.ag,1,50.0,1,50.0,0
+BetOnline.ag,1,50.0,1,50.0,3
+Caesars,1,100.0,0,0.0,0
+BetRivers,1,50.0,1,50.0,0
+Fanatics,1,100.0,0,0.0,0
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250612.0,St Kilda Saints,Western Bulldogs,60.0,132.0,Completed,26f1f790e298cb37b21d832d97dc7f6e,2025-06-12 05:30:00,3.55,1.278,Bovada,2025-06-11 23:50:17
+AFL,20250612.0,St Kilda Saints,Western Bulldogs,60.0,132.0,Completed,26f1f790e298cb37b21d832d97dc7f6e,2025-06-12 05:30:00,3.5,1.303,DraftKings,2025-06-11 23:50:17
+AFL,20250612.0,St Kilda Saints,Western Bulldogs,60.0,132.0,Completed,26f1f790e298cb37b21d832d97dc7f6e,2025-06-12 05:30:00,3.4,1.303,BetUS,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.05,3.3,BetMGM,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.0,3.5,FanDuel,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.05,3.45,DraftKings,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.1,3.5,LowVig.ag,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.1,3.5,BetOnline.ag,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.1,3.4,Bovada,2025-06-11 23:50:17
+La Liga 2 - Spain,20250612.0,CD Mirandés,Real Racing Club de Santander,4.0,1.0,Completed,f92ca0cf283f4f0b4a5b8f4f3b2a375a,2025-06-12 15:00:00,2.1,3.4,BetUS,2025-06-11 23:50:17
+MMA,,Alexei Pergande,Mike Bardsley,,,,,2025-06-12 20:00:00,1.111,7.0,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Alexei Pergande,Mike Bardsley,,,,,2025-06-12 20:00:00,1.118,6.2,FanDuel,2025-06-11 23:50:17
+MMA,,Alexei Pergande,Mike Bardsley,,,,,2025-06-12 20:00:00,1.1,7.25,BetMGM,2025-06-11 23:50:17
+MMA,,Asael Adjoudj,Yves Landu,,,,,2025-06-12 18:00:00,1.435,2.95,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Jason Danner,Nathan Gilmore,,,,,2025-06-12 20:00:00,1.333,3.5,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Jason Danner,Nathan Gilmore,,,,,2025-06-12 20:00:00,1.294,3.4,FanDuel,2025-06-11 23:50:17
+MMA,,Jason Danner,Nathan Gilmore,,,,,2025-06-12 20:00:00,1.333,3.4,BetMGM,2025-06-11 23:50:17
+MMA,20250612.0,Jason Jackson,Thad Jean,,,Unknown,522d5669119653be7ec8db6715fc08d0,2025-06-12 20:00:00,1.667,2.3,BetOnline.ag,2025-06-11 23:50:17
+MMA,20250612.0,Jason Jackson,Thad Jean,,,Unknown,522d5669119653be7ec8db6715fc08d0,2025-06-12 20:00:00,1.575,2.38,FanDuel,2025-06-11 23:50:17
+MMA,20250612.0,Jason Jackson,Thad Jean,,,Unknown,522d5669119653be7ec8db6715fc08d0,2025-06-12 20:00:00,1.625,2.35,BetMGM,2025-06-11 23:50:17
+MMA,,Jeremy Kennedy,Adam Borics,,,,,2025-06-12 20:00:00,2.15,1.741,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Jeremy Kennedy,Adam Borics,,,,,2025-06-12 20:00:00,2.22,1.649,FanDuel,2025-06-11 23:50:17
+MMA,,Jeremy Kennedy,Adam Borics,,,,,2025-06-12 20:00:00,2.2,1.69,BetMGM,2025-06-11 23:50:17
+MMA,20250612.0,Jesus Pinedo,Gabriel Alves Braga,,,Unknown,ab44b72f3b099634b335a4a7fa3a7b6c,2025-06-12 20:00:00,1.385,3.2,BetOnline.ag,2025-06-11 23:50:17
+MMA,20250612.0,Jesus Pinedo,Gabriel Alves Braga,,,Unknown,ab44b72f3b099634b335a4a7fa3a7b6c,2025-06-12 20:00:00,1.37,3.0,FanDuel,2025-06-11 23:50:17
+MMA,,Joseph Luciano,Sarek Shields,,,,,2025-06-12 20:00:00,1.417,3.05,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Joseph Luciano,Sarek Shields,,,,,2025-06-12 20:00:00,1.385,2.92,FanDuel,2025-06-11 23:50:17
+MMA,,Joseph Luciano,Sarek Shields,,,,,2025-06-12 20:00:00,1.444,2.85,BetMGM,2025-06-11 23:50:17
+MMA,20250612.0,Logan Storley,Masayuki Kikuiri,,,Unknown,7fa4e0e06a3e760c23e7c3c494b1b472,2025-06-12 20:00:00,1.111,7.0,BetOnline.ag,2025-06-11 23:50:17
+MMA,20250612.0,Logan Storley,Masayuki Kikuiri,,,Unknown,7fa4e0e06a3e760c23e7c3c494b1b472,2025-06-12 20:00:00,1.105,6.4,FanDuel,2025-06-11 23:50:17
+MMA,20250612.0,Logan Storley,Masayuki Kikuiri,,,Unknown,7fa4e0e06a3e760c23e7c3c494b1b472,2025-06-12 20:00:00,1.1,7.25,BetMGM,2025-06-11 23:50:17
+MMA,,Magomed Umalatov,Anthony Ivy,,,,,2025-06-12 20:00:00,1.03,15.0,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Magomed Umalatov,Anthony Ivy,,,,,2025-06-12 20:00:00,1.04,11.5,BetMGM,2025-06-11 23:50:17
+MMA,,Magomed Umalatov,Anthony Ivy,,,,,2025-06-12 20:00:00,1.056,10.2,FanDuel,2025-06-11 23:50:17
+MMA,,Movlid Khaybulaev,Tae Kyun Kim,,,,,2025-06-12 20:00:00,1.495,2.72,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Movlid Khaybulaev,Tae Kyun Kim,,,,,2025-06-12 20:00:00,1.455,2.72,FanDuel,2025-06-11 23:50:17
+MMA,,Movlid Khaybulaev,Tae Kyun Kim,,,,,2025-06-12 20:00:00,1.455,2.8,BetMGM,2025-06-11 23:50:17
+MMA,,Mukhamed Berkhamov,Kendly St. Louis,,,,,2025-06-12 20:00:00,1.355,3.42,BetOnline.ag,2025-06-11 23:50:17
+MMA,,Mukhamed Berkhamov,Kendly St. Louis,,,,,2025-06-12 20:00:00,1.385,2.98,FanDuel,2025-06-11 23:50:17
+MMA,,Mukhamed Berkhamov,Kendly St. Louis,,,,,2025-06-12 20:00:00,1.364,3.2,BetMGM,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.676,2.24,DraftKings,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.625,2.35,Caesars,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.667,2.25,BetMGM,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.68,2.31,LowVig.ag,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.68,2.31,BetOnline.ag,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.645,2.3,BetRivers,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.658,2.26,FanDuel,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.69,2.25,BetUS,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.69,2.25,Bovada,2025-06-11 23:50:17
+NHL,20250612.0,Florida Panthers,Edmonton Oilers,4.0,5.0,Completed,8818a6d6628e2990771939493a63d358,2025-06-12 20:10:00,1.625,2.3,Fanatics,2025-06-11 23:50:17
+NRL,20250612.0,Cronulla Sutherland Sharks,St George Illawarra Dragons,30.0,18.0,Completed,64dd163440a8dfcdaa364b95391821e1,2025-06-12 05:50:00,1.278,3.7,Bovada,2025-06-11 23:50:17
+NRL,20250612.0,Cronulla Sutherland Sharks,St George Illawarra Dragons,30.0,18.0,Completed,64dd163440a8dfcdaa364b95391821e1,2025-06-12 05:50:00,1.299,3.4,BetRivers,2025-06-11 23:50:17
+NRL,20250612.0,Cronulla Sutherland Sharks,St George Illawarra Dragons,30.0,18.0,Completed,64dd163440a8dfcdaa364b95391821e1,2025-06-12 05:50:00,1.3,3.18,BetUS,2025-06-11 23:50:17
