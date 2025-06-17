@@ -1,25 +1,35 @@
-
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,1,33.33,2,66.67,0
+BetRivers,1,33.33,2,66.67,0
+Bovada,1,33.33,2,66.67,0
+BetMGM,1,33.33,2,66.67,0
+BetUS,1,33.33,2,66.67,0
+DraftKings,1,33.33,2,66.67,0
+BetOnline.ag,0,0.0,1,100.0,0
+LowVig.ag,0,0.0,1,100.0,0
+Caesars,0,0.0,1,100.0,0
+Fanatics,0,0.0,1,100.0,0
 
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.4,1.769,FanDuel,2025-06-15 23:55:35
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.5,1.787,BetRivers,2025-06-15 23:55:35
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.3,1.8,Bovada,2025-06-15 23:55:35
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.2,1.769,BetMGM,2025-06-15 23:55:35
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.3,1.8,BetUS,2025-06-15 23:55:35
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.5,1.833,DraftKings,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.25,3.2,FanDuel,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.3,3.1,Bovada,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.23,3.2,BetRivers,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.25,3.0,BetMGM,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.3,3.1,BetUS,2025-06-15 23:55:35
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.4,3.05,DraftKings,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.263,4.0,DraftKings,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.25,4.15,FanDuel,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.222,4.33,BetMGM,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.233,4.37,BetOnline.ag,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.236,4.42,LowVig.ag,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.26,3.9,BetRivers,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.227,4.35,Caesars,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.238,4.15,Bovada,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.235,4.3,Fanatics,2025-06-15 23:55:35
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.238,4.3,BetUS,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.4,1.769,FanDuel,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.5,1.787,BetRivers,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.3,1.8,Bovada,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.2,1.769,BetMGM,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.3,1.8,BetUS,2025-06-15 23:55:35
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756,2025-06-16 14:45:00,4.5,1.833,DraftKings,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.25,3.2,FanDuel,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.3,3.1,Bovada,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.23,3.2,BetRivers,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.25,3.0,BetMGM,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.3,3.1,BetUS,2025-06-15 23:55:35
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce,2025-06-16 14:45:00,2.4,3.05,DraftKings,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.263,4.0,DraftKings,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.25,4.15,FanDuel,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.222,4.33,BetMGM,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.233,4.37,BetOnline.ag,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.236,4.42,LowVig.ag,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.26,3.9,BetRivers,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.227,4.35,Caesars,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.238,4.15,Bovada,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.235,4.3,Fanatics,2025-06-15 23:55:35
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50,2025-06-16 20:35:00,1.238,4.3,BetUS,2025-06-15 23:55:35

@@ -1,4 +1,4 @@
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
-NBA,20250616,Oklahoma City Thunder,Indiana Pacers,,,Unknown,aa4b036621875e4870ae8bdbca0dfc50
-League of Ireland,20250616,Drogheda United,Shamrock Rovers,,,Unknown,79300ed679dbeb793d532f402bd83756
-League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,,,Unknown,4a41c2fa0fc3600230f8bc571cb059ce
+NBA,20250616,Oklahoma City Thunder,Indiana Pacers,120,109,Completed,aa4b036621875e4870ae8bdbca0dfc50
+League of Ireland,20250616,St Patricks Athletic,Shelbourne Dublin,0,1,Completed,4a41c2fa0fc3600230f8bc571cb059ce
+League of Ireland,20250616,Drogheda United,Shamrock Rovers,1,2,Completed,79300ed679dbeb793d532f402bd83756
