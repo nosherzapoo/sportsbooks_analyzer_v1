@@ -1,0 +1,25 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,0,0.0,1,100.0,1
+BetMGM,0,0.0,1,100.0,0
+Caesars,0,0.0,1,100.0,0
+LowVig.ag,0,0.0,1,100.0,0
+BetOnline.ag,0,0.0,1,100.0,0
+FanDuel,0,0.0,1,100.0,0
+BetUS,0,0.0,1,100.0,0
+BetRivers,0,0.0,1,100.0,1
+Bovada,0,0.0,1,100.0,0
+Fanatics,0,0.0,1,100.0,0
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.645,2.3,DraftKings,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.645,2.3,BetMGM,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.667,2.26,Caesars,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.69,2.29,LowVig.ag,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.69,2.29,BetOnline.ag,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.685,2.22,FanDuel,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.667,2.29,BetUS,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.658,2.28,BetRivers,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.667,2.3,Bovada,2025-06-16 23:51:16
+NHL,20250617,Florida Panthers,Edmonton Oilers,5.0,1.0,Completed,e2d1ccdfa2939c1c1f228356ad4969cf,2025-06-17 20:10:00,1.625,2.3,Fanatics,2025-06-16 23:51:16
+Test Matches,20250617,Sri Lanka,Bangladesh,,,Unknown,1966b1ab033625a8608c28737fb4645f,2025-06-17 00:30:00,1.538,6.5,BetRivers,2025-06-16 23:51:16
+Test Matches,20250617,Sri Lanka,Bangladesh,,,Unknown,1966b1ab033625a8608c28737fb4645f,2025-06-17 00:30:00,1.606,6.0,DraftKings,2025-06-16 23:51:16
