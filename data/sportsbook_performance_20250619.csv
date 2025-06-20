@@ -1,0 +1,42 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,1,50.0,1,50.0,0
+Bovada,1,50.0,1,50.0,0
+BetUS,1,50.0,1,50.0,0
+LowVig.ag,1,100.0,0,0.0,0
+BetOnline.ag,1,100.0,0,0.0,0
+FanDuel,1,100.0,0,0.0,0
+BetMGM,1,100.0,0,0.0,0
+BetRivers,1,100.0,0,0.0,1
+Fanatics,1,100.0,0,0.0,0
+Caesars,1,100.0,0,0.0,0
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250619.0,Fremantle Dockers,Essendon Bombers,104.0,63.0,Completed,70185b5012cbc406dad649b3acd5ecb5,2025-06-19 06:10:00,1.143,5.5,DraftKings,2025-06-18 23:51:33
+AFL,20250619.0,Fremantle Dockers,Essendon Bombers,104.0,63.0,Completed,70185b5012cbc406dad649b3acd5ecb5,2025-06-19 06:10:00,1.111,6.0,Bovada,2025-06-18 23:51:33
+AFL,20250619.0,Fremantle Dockers,Essendon Bombers,104.0,63.0,Completed,70185b5012cbc406dad649b3acd5ecb5,2025-06-19 06:10:00,1.143,5.5,BetUS,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.182,4.8,DraftKings,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.167,5.0,BetUS,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.154,5.0,Bovada,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.16,5.0,LowVig.ag,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.16,5.0,BetOnline.ag,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.154,5.1,FanDuel,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.2,5.0,BetMGM,2025-06-18 23:51:33
+Boxing,,Brian Norman Jr,Jin Sasaki,,,,,2025-06-19 04:00:00,1.189,4.3,BetRivers,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.658,2.12,BetRivers,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.714,2.06,FanDuel,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.667,2.17,LowVig.ag,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.667,2.2,BetUS,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.667,2.15,Bovada,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.667,2.17,BetOnline.ag,2025-06-18 23:51:33
+Boxing,,Christian Araneta,Thanongsak Simsri,,,,,2025-06-19 04:00:00,1.667,2.2,DraftKings,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.1,1.388,DraftKings,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.1,1.392,FanDuel,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.0,1.4,Fanatics,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.1,1.385,Caesars,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.0,1.417,Bovada,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.1,1.403,LowVig.ag,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.07,1.4,BetOnline.ag,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.0,1.4,BetMGM,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.0,1.408,BetRivers,2025-06-18 23:51:33
+NBA,20250619.0,Indiana Pacers,Oklahoma City Thunder,108.0,91.0,Completed,97df12d0f134e8f46273fdd584d361c6,2025-06-19 20:35:00,3.1,1.4,BetUS,2025-06-18 23:51:33
+Test Matches,20250619.0,Sri Lanka,Bangladesh,,,Unknown,ae4dd3bd512d1cde8d5f850648a7f33a,2025-06-19 00:15:00,8.5,4.5,BetRivers,2025-06-18 23:51:33
