@@ -1,0 +1,99 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,4,66.67,2,33.33,3
+Bovada,4,57.14,3,42.86,2
+BetUS,4,57.14,3,42.86,2
+BetRivers,3,50.0,3,50.0,2
+BetMGM,3,60.0,2,40.0,0
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250620.0,Carlton Blues,North Melbourne Kangaroos,,,Unknown,a48c74cb70ab84ca59e94f7290b9bec6,2025-06-20 23:20:00,1.278,3.7,DraftKings,2025-06-19 23:50:20
+AFL,20250620.0,Carlton Blues,North Melbourne Kangaroos,,,Unknown,a48c74cb70ab84ca59e94f7290b9bec6,2025-06-20 23:20:00,1.182,4.5,Bovada,2025-06-19 23:50:20
+AFL,20250620.0,Carlton Blues,North Melbourne Kangaroos,,,Unknown,a48c74cb70ab84ca59e94f7290b9bec6,2025-06-20 23:20:00,1.263,3.8,BetUS,2025-06-19 23:50:20
+AFL,20250620.0,Geelong Cats,Brisbane Lions,51.0,92.0,Completed,ece53efd2cdfbc77dec989c17e891123,2025-06-20 05:40:00,1.417,2.85,DraftKings,2025-06-19 23:50:20
+AFL,20250620.0,Geelong Cats,Brisbane Lions,51.0,92.0,Completed,ece53efd2cdfbc77dec989c17e891123,2025-06-20 05:40:00,1.351,3.1,Bovada,2025-06-19 23:50:20
+AFL,20250620.0,Geelong Cats,Brisbane Lions,51.0,92.0,Completed,ece53efd2cdfbc77dec989c17e891123,2025-06-20 05:40:00,1.417,3.0,BetUS,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.556,2.45,DraftKings,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.571,2.45,BetUS,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.5,2.53,BetOnline.ag,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.649,2.16,FanDuel,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.5,2.53,LowVig.ag,2025-06-19 23:50:20
+Boxing,,David Stevens,Petr Khamukov,,,,,2025-06-20 21:00:00,1.526,2.45,Bovada,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.04,12.0,DraftKings,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.03,13.0,BetOnline.ag,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.03,13.0,LowVig.ag,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.03,13.0,Bovada,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.04,10.0,BetUS,2025-06-19 23:50:20
+Boxing,,Leonardo Rubalcava,Dorian Mendez,,,,,2025-06-20 18:00:00,1.042,9.1,FanDuel,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.04,10.5,DraftKings,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.05,9.5,BetUS,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.04,12.0,BetOnline.ag,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.05,8.3,FanDuel,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.04,12.0,LowVig.ag,2025-06-19 23:50:20
+Boxing,20250620.0,Leonardo Ruiz,Jarrod Tennant,,,Unknown,b8ee2bde13eedab371b607bd8860b97f,2025-06-20 19:00:00,1.036,12.0,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Drogheda United,Sligo Rovers,1.0,0.0,Completed,76e79fad1f2ad35d8376359ac1d0209e,2025-06-20 14:45:00,1.741,4.5,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Drogheda United,Sligo Rovers,1.0,0.0,Completed,76e79fad1f2ad35d8376359ac1d0209e,2025-06-20 14:45:00,1.735,4.6,BetRivers,2025-06-19 23:50:20
+League of Ireland,20250620.0,Drogheda United,Sligo Rovers,1.0,0.0,Completed,76e79fad1f2ad35d8376359ac1d0209e,2025-06-20 14:45:00,1.741,4.5,BetUS,2025-06-19 23:50:20
+League of Ireland,20250620.0,Drogheda United,Sligo Rovers,1.0,0.0,Completed,76e79fad1f2ad35d8376359ac1d0209e,2025-06-20 14:45:00,1.741,4.7,DraftKings,2025-06-19 23:50:20
+League of Ireland,20250620.0,Drogheda United,Sligo Rovers,1.0,0.0,Completed,76e79fad1f2ad35d8376359ac1d0209e,2025-06-20 14:45:00,1.69,4.4,BetMGM,2025-06-19 23:50:20
+League of Ireland,20250620.0,Galway United,St Patricks Athletic,3.0,1.0,Completed,c8dda8325000097328430b7af17f25c1,2025-06-20 14:45:00,2.85,2.5,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Galway United,St Patricks Athletic,3.0,1.0,Completed,c8dda8325000097328430b7af17f25c1,2025-06-20 14:45:00,2.7,2.6,BetRivers,2025-06-19 23:50:20
+League of Ireland,20250620.0,Galway United,St Patricks Athletic,3.0,1.0,Completed,c8dda8325000097328430b7af17f25c1,2025-06-20 14:45:00,2.85,2.5,BetUS,2025-06-19 23:50:20
+League of Ireland,20250620.0,Galway United,St Patricks Athletic,3.0,1.0,Completed,c8dda8325000097328430b7af17f25c1,2025-06-20 14:45:00,2.85,2.55,DraftKings,2025-06-19 23:50:20
+League of Ireland,20250620.0,Galway United,St Patricks Athletic,3.0,1.0,Completed,c8dda8325000097328430b7af17f25c1,2025-06-20 14:45:00,2.75,2.4,BetMGM,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shamrock Rovers,Cork City,4.0,1.0,Completed,68c50d78b0eaac2fe0abb6b19f1d6d46,2025-06-20 15:00:00,1.278,9.5,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shamrock Rovers,Cork City,4.0,1.0,Completed,68c50d78b0eaac2fe0abb6b19f1d6d46,2025-06-20 15:00:00,1.267,11.0,BetRivers,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shamrock Rovers,Cork City,4.0,1.0,Completed,68c50d78b0eaac2fe0abb6b19f1d6d46,2025-06-20 15:00:00,1.278,9.5,BetUS,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shamrock Rovers,Cork City,4.0,1.0,Completed,68c50d78b0eaac2fe0abb6b19f1d6d46,2025-06-20 15:00:00,1.286,10.5,DraftKings,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shamrock Rovers,Cork City,4.0,1.0,Completed,68c50d78b0eaac2fe0abb6b19f1d6d46,2025-06-20 15:00:00,1.267,9.75,BetMGM,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shelbourne Dublin,Derry City,0.0,1.0,Completed,e427dd8a23fcbe5c3cdf2d12820e299f,2025-06-20 14:45:00,2.55,2.9,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shelbourne Dublin,Derry City,0.0,1.0,Completed,e427dd8a23fcbe5c3cdf2d12820e299f,2025-06-20 14:45:00,2.5,2.8,BetRivers,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shelbourne Dublin,Derry City,0.0,1.0,Completed,e427dd8a23fcbe5c3cdf2d12820e299f,2025-06-20 14:45:00,2.55,2.9,BetUS,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shelbourne Dublin,Derry City,0.0,1.0,Completed,e427dd8a23fcbe5c3cdf2d12820e299f,2025-06-20 14:45:00,2.6,2.9,DraftKings,2025-06-19 23:50:20
+League of Ireland,20250620.0,Shelbourne Dublin,Derry City,0.0,1.0,Completed,e427dd8a23fcbe5c3cdf2d12820e299f,2025-06-20 14:45:00,2.5,2.8,BetMGM,2025-06-19 23:50:20
+League of Ireland,20250620.0,Waterford FC,Bohemians,2.0,1.0,Completed,9eacde1f0c73273bc9996f215ff75970,2025-06-20 14:45:00,3.75,1.909,Bovada,2025-06-19 23:50:20
+League of Ireland,20250620.0,Waterford FC,Bohemians,2.0,1.0,Completed,9eacde1f0c73273bc9996f215ff75970,2025-06-20 14:45:00,3.85,1.847,BetRivers,2025-06-19 23:50:20
+League of Ireland,20250620.0,Waterford FC,Bohemians,2.0,1.0,Completed,9eacde1f0c73273bc9996f215ff75970,2025-06-20 14:45:00,3.9,1.909,DraftKings,2025-06-19 23:50:20
+League of Ireland,20250620.0,Waterford FC,Bohemians,2.0,1.0,Completed,9eacde1f0c73273bc9996f215ff75970,2025-06-20 14:45:00,3.75,1.909,BetUS,2025-06-19 23:50:20
+League of Ireland,20250620.0,Waterford FC,Bohemians,2.0,1.0,Completed,9eacde1f0c73273bc9996f215ff75970,2025-06-20 14:45:00,3.7,1.847,BetMGM,2025-06-19 23:50:20
+MMA,,Alfie Davis,Brent Primus,,,,,2025-06-20 20:35:00,2.35,1.645,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Alfie Davis,Brent Primus,,,,,2025-06-20 20:35:00,2.4,1.602,FanDuel,2025-06-19 23:50:20
+MMA,,Alfie Davis,Brent Primus,,,,,2025-06-20 20:35:00,2.45,1.571,BetMGM,2025-06-19 23:50:20
+MMA,,Archie Colgan,Mansour Barnaoui,,,,,2025-06-20 21:25:00,1.236,4.24,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Archie Colgan,Mansour Barnaoui,,,,,2025-06-20 21:25:00,1.278,3.9,FanDuel,2025-06-19 23:50:20
+MMA,,Archie Colgan,Mansour Barnaoui,,,,,2025-06-20 21:25:00,1.25,4.1,BetMGM,2025-06-19 23:50:20
+MMA,,Beatriz Mesquita,Sierra Dinwoodie,,,,,2025-06-20 23:20:00,1.317,3.65,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Darragh Kelly,Mike Hamel,,,,,2025-06-20 18:25:00,1.4,3.1,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Darragh Kelly,Mike Hamel,,,,,2025-06-20 18:25:00,1.392,3.1,FanDuel,2025-06-19 23:50:20
+MMA,,Darragh Kelly,Mike Hamel,,,,,2025-06-20 18:25:00,1.4,3.0,BetMGM,2025-06-19 23:50:20
+MMA,,Farman Hasanov,Marc Lewis,,,,,2025-06-20 17:00:00,1.111,7.0,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Gadzhi Rabadanov,Kevin Lee,,,,,2025-06-20 22:20:00,1.05,11.0,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Gadzhi Rabadanov,Kevin Lee,,,,,2025-06-20 22:20:00,1.071,9.3,FanDuel,2025-06-19 23:50:20
+MMA,,Gadzhi Rabadanov,Kevin Lee,,,,,2025-06-20 22:20:00,1.05,11.0,BetMGM,2025-06-19 23:50:20
+MMA,,Ilara Joanne,Saray Orozco,,,,,2025-06-20 18:00:00,1.735,2.16,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Ilara Joanne,Saray Orozco,,,,,2025-06-20 18:00:00,1.685,2.24,FanDuel,2025-06-19 23:50:20
+MMA,,Ilara Joanne,Saray Orozco,,,,,2025-06-20 18:00:00,1.625,2.35,BetMGM,2025-06-19 23:50:20
+MMA,,Jacobi Jones,Shovkhal Churchaev,,,,,2025-06-20 22:00:00,1.299,3.75,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Jena Bishop,Katerina Shakalova,,,,,2025-06-20 19:40:00,1.847,1.98,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Jena Bishop,Katerina Shakalova,,,,,2025-06-20 19:40:00,1.746,2.14,FanDuel,2025-06-19 23:50:20
+MMA,,Justin Wetzell,Mando Gutierrez,,,,,2025-06-20 20:10:00,1.541,2.6,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Justin Wetzell,Mando Gutierrez,,,,,2025-06-20 20:10:00,1.505,2.66,FanDuel,2025-06-19 23:50:20
+MMA,,Justin Wetzell,Mando Gutierrez,,,,,2025-06-20 20:10:00,1.5,2.65,BetMGM,2025-06-19 23:50:20
+MMA,,Liz Carmouche,Elora Dana,,,,,2025-06-20 21:50:00,1.125,6.5,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Liz Carmouche,Elora Dana,,,,,2025-06-20 21:50:00,1.139,6.2,FanDuel,2025-06-19 23:50:20
+MMA,,Liz Carmouche,Elora Dana,,,,,2025-06-20 21:50:00,1.16,5.5,BetMGM,2025-06-19 23:50:20
+MMA,,Magomed Magomedov,Sarvarjon Hamidov,,,,,2025-06-20 17:00:00,1.833,2.02,FanDuel,2025-06-19 23:50:20
+MMA,,Marcirley Alves da Silva,Jake Hadley,,,,,2025-06-20 21:00:00,2.45,1.588,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Marcirley Alves da Silva,Jake Hadley,,,,,2025-06-20 21:00:00,2.42,1.595,FanDuel,2025-06-19 23:50:20
+MMA,,Matheus Mattos,Lazaro Dayron,,,,,2025-06-20 17:00:00,2.55,1.526,BetMGM,2025-06-19 23:50:20
+MMA,,Nick Meck,Alan Domínguez,,,,,2025-06-20 17:35:00,1.556,2.55,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Nick Meck,Alan Domínguez,,,,,2025-06-20 17:35:00,1.5,2.68,FanDuel,2025-06-19 23:50:20
+MMA,,Phumi Nkuta,Cody Davis,,,,,2025-06-20 22:50:00,1.167,5.25,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Roberto Hernandez,Ernie Juarez,,,,,2025-06-20 22:00:00,1.476,2.7,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Vinicius Cenci,Antonio Caruso,,,,,2025-06-20 18:50:00,1.741,2.15,BetOnline.ag,2025-06-19 23:50:20
+MMA,,Vinicius Cenci,Antonio Caruso,,,,,2025-06-20 18:50:00,1.82,2.04,FanDuel,2025-06-19 23:50:20
+NRL,20250620.0,Wests Tigers,Canberra Raiders,12.0,16.0,Completed,5c4be637db4dc7a7ff5f7633fc06d232,2025-06-20 06:00:00,3.4,1.333,Bovada,2025-06-19 23:50:20
+NRL,20250620.0,Wests Tigers,Canberra Raiders,12.0,16.0,Completed,5c4be637db4dc7a7ff5f7633fc06d232,2025-06-20 06:00:00,2.96,1.35,BetUS,2025-06-19 23:50:20
+NRL,20250620.0,Wests Tigers,Canberra Raiders,12.0,16.0,Completed,5c4be637db4dc7a7ff5f7633fc06d232,2025-06-20 06:00:00,3.35,1.317,BetRivers,2025-06-19 23:50:20
+Test Matches,20250620.0,England,India,,,Unknown,2265a9738ca4d7e00d5a5d746ce44f63,2025-06-20 06:00:00,1.645,2.8,DraftKings,2025-06-19 23:50:20
+Test Matches,20250620.0,England,India,,,Unknown,2265a9738ca4d7e00d5a5d746ce44f63,2025-06-20 06:00:00,1.667,2.7,BetRivers,2025-06-19 23:50:20
+Test Matches,20250620.0,Sri Lanka,Bangladesh,,,Unknown,cd49f79317434521cc39b218ba346266,2025-06-20 00:30:00,3.05,14.0,BetRivers,2025-06-19 23:50:20
