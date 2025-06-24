@@ -1,44 +1,52 @@
-
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+FanDuel,5,100.0,0,0.0,0
+BetRivers,5,100.0,0,0.0,1
+Bovada,5,100.0,0,0.0,0
+BetUS,5,100.0,0,0.0,0
+BetMGM,5,100.0,0,0.0,0
+DraftKings,5,100.0,0,0.0,0
+LowVig.ag,5,100.0,0,0.0,0
+BetOnline.ag,5,100.0,0,0.0,0
 
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.1,FanDuel,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.35,2.06,BetRivers,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.15,Bovada,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.15,BetUS,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.1,BetMGM,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.45,2.15,DraftKings,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.2,LowVig.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Bohemians,Shamrock Rovers,,,Unknown,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.2,BetOnline.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.85,2.4,FanDuel,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.7,2.45,BetRivers,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.8,2.5,Bovada,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.8,2.5,BetUS,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.75,2.38,BetMGM,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.75,2.55,DraftKings,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.67,2.47,LowVig.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Cork City,Drogheda United,,,Unknown,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.67,2.47,BetOnline.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.2,FanDuel,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,3.05,2.25,BetRivers,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,Bovada,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,BetUS,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,BetMGM,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,3.05,2.3,DraftKings,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.89,2.28,LowVig.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Sligo Rovers,Galway United,,,Unknown,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.89,2.28,BetOnline.ag,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.25,3.1,FanDuel,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.28,3.0,BetRivers,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.1,Bovada,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.1,BetUS,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.2,3.1,BetMGM,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.25,DraftKings,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.29,3.0,LowVig.ag,2025-06-22 23:57:48
-League of Ireland,20250623,St Patricks Athletic,Derry City,,,Unknown,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.29,3.0,BetOnline.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.5,FanDuel,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.75,2.4,BetRivers,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,Bovada,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,BetUS,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.6,2.45,BetMGM,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,DraftKings,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.57,2.54,LowVig.ag,2025-06-22 23:57:48
-League of Ireland,20250623,Waterford FC,Shelbourne Dublin,,,Unknown,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.57,2.54,BetOnline.ag,2025-06-22 23:57:48
-Test Matches,20250623,England,India,,,Unknown,0724808dd7572ddd543c4d573afbd034,2025-06-23 06:00:00,2.4,2.23,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.1,FanDuel,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.35,2.06,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.15,Bovada,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.3,2.15,BetUS,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.1,BetMGM,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.45,2.15,DraftKings,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.2,LowVig.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Bohemians,Shamrock Rovers,2.0,0.0,Completed,edd87146a2985cb65c196aa5076e6daf,2025-06-23 14:45:00,3.25,2.2,BetOnline.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.85,2.4,FanDuel,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.7,2.45,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.8,2.5,Bovada,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.8,2.5,BetUS,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.75,2.38,BetMGM,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.75,2.55,DraftKings,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.67,2.47,LowVig.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Cork City,Drogheda United,1.0,1.0,Completed,4cf79d6017b2e39ecafe84412b8ac303,2025-06-23 14:45:00,2.67,2.47,BetOnline.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.2,FanDuel,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,3.05,2.25,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,Bovada,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,BetUS,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.95,2.25,BetMGM,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,3.05,2.3,DraftKings,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.89,2.28,LowVig.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Sligo Rovers,Galway United,2.0,1.0,Completed,a644460b2d84c261490ecf5155c062c2,2025-06-23 14:45:00,2.89,2.28,BetOnline.ag,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.25,3.1,FanDuel,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.28,3.0,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.1,Bovada,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.1,BetUS,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.2,3.1,BetMGM,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.3,3.25,DraftKings,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.29,3.0,LowVig.ag,2025-06-22 23:57:48
+League of Ireland,20250623,St Patricks Athletic,Derry City,0.0,1.0,Completed,0a25ce9217e889223493c8bfa570f5bc,2025-06-23 14:45:00,2.29,3.0,BetOnline.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.5,FanDuel,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.75,2.4,BetRivers,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,Bovada,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,BetUS,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.6,2.45,BetMGM,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.7,2.55,DraftKings,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.57,2.54,LowVig.ag,2025-06-22 23:57:48
+League of Ireland,20250623,Waterford FC,Shelbourne Dublin,2.0,2.0,Completed,a5a8ed442bfe6c6bb81f07194b478231,2025-06-23 14:45:00,2.57,2.54,BetOnline.ag,2025-06-22 23:57:48
+Test Matches,20250623,England,India,,,Unknown,d6d18f740f8de3dd30dbfd02edd5d6d0,2025-06-23 06:00:00,2.4,2.23,BetRivers,2025-06-22 23:57:48
