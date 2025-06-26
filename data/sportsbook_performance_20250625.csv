@@ -1,19 +1,19 @@
 
 
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
-Boxing,20250625,Liam Paro,Jonathan Navarro,,,Unknown,82dbfef8b80e34fbd304edec5e6b6d35,2025-06-25 05:00:00,1.03,13.0,Bovada,2025-06-24 23:54:07
-Boxing,20250625,Liam Paro,Jonathan Navarro,,,Unknown,82dbfef8b80e34fbd304edec5e6b6d35,2025-06-25 05:00:00,1.02,12.43,BetOnline.ag,2025-06-24 23:54:07
-Boxing,20250625,Liam Paro,Jonathan Navarro,,,Unknown,82dbfef8b80e34fbd304edec5e6b6d35,2025-06-25 05:00:00,1.02,12.43,LowVig.ag,2025-06-24 23:54:07
-Boxing,20250625,Liam Paro,Jonathan Navarro,,,Unknown,82dbfef8b80e34fbd304edec5e6b6d35,2025-06-25 05:00:00,1.05,9.5,BetUS,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.167,5.0,DraftKings,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.167,5.0,BetUS,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.167,4.75,Bovada,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.154,5.1,FanDuel,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.19,4.54,LowVig.ag,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.19,4.54,BetOnline.ag,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.2,5.0,BetMGM,2025-06-24 23:54:07
-Boxing,20250625,Liam Wilson,Ayrton Osmar Gimenez,,,Unknown,e946918eea4f82b428fffd72695e1721,2025-06-25 06:00:00,1.16,4.9,BetRivers,2025-06-24 23:54:07
-Test Matches,20250625,Sri Lanka,Bangladesh,,,Unknown,ba4ecda64d151ddfc8df4b9b72aae7df,2025-06-25 00:30:00,2.2,8.5,DraftKings,2025-06-24 23:54:07
-Test Matches,20250625,Sri Lanka,Bangladesh,,,Unknown,ba4ecda64d151ddfc8df4b9b72aae7df,2025-06-25 00:30:00,2.28,8.5,BetRivers,2025-06-24 23:54:07
-Test Matches,20250625,West Indies,Australia,,,Unknown,dfe4ea12879b6c7bb6747974589c3cd3,2025-06-25 10:00:00,5.5,1.357,DraftKings,2025-06-24 23:54:07
-Test Matches,20250625,West Indies,Australia,,,Unknown,dfe4ea12879b6c7bb6747974589c3cd3,2025-06-25 10:00:00,5.5,1.317,BetRivers,2025-06-24 23:54:07
+Boxing,,Liam Paro,Jonathan Navarro,,,,,2025-06-25 05:00:00,1.03,13.0,Bovada,2025-06-24 23:54:07
+Boxing,,Liam Paro,Jonathan Navarro,,,,,2025-06-25 05:00:00,1.02,12.43,BetOnline.ag,2025-06-24 23:54:07
+Boxing,,Liam Paro,Jonathan Navarro,,,,,2025-06-25 05:00:00,1.02,12.43,LowVig.ag,2025-06-24 23:54:07
+Boxing,,Liam Paro,Jonathan Navarro,,,,,2025-06-25 05:00:00,1.05,9.5,BetUS,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.167,5.0,DraftKings,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.167,5.0,BetUS,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.167,4.75,Bovada,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.154,5.1,FanDuel,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.19,4.54,LowVig.ag,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.19,4.54,BetOnline.ag,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.2,5.0,BetMGM,2025-06-24 23:54:07
+Boxing,,Liam Wilson,Ayrton Osmar Gimenez,,,,,2025-06-25 06:00:00,1.16,4.9,BetRivers,2025-06-24 23:54:07
+Test Matches,20250625.0,Sri Lanka,Bangladesh,,,Unknown,79d626cb9bb1a908ab5b284cf2e2163b,2025-06-25 00:30:00,2.2,8.5,DraftKings,2025-06-24 23:54:07
+Test Matches,20250625.0,Sri Lanka,Bangladesh,,,Unknown,79d626cb9bb1a908ab5b284cf2e2163b,2025-06-25 00:30:00,2.28,8.5,BetRivers,2025-06-24 23:54:07
+Test Matches,20250625.0,West Indies,Australia,,,Unknown,165e07447f6d077a51d385f0a94debbd,2025-06-25 10:00:00,5.5,1.357,DraftKings,2025-06-24 23:54:07
+Test Matches,20250625.0,West Indies,Australia,,,Unknown,165e07447f6d077a51d385f0a94debbd,2025-06-25 10:00:00,5.5,1.317,BetRivers,2025-06-24 23:54:07
