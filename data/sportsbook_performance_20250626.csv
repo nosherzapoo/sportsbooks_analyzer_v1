@@ -1,0 +1,11 @@
+Bookmaker,Underdog Wins,Underdog Win %,Favorite Wins,Favorite Win %,Unknown Games
+DraftKings,0,0.0,1,100.0,0
+Bovada,1,100.0,0,0.0,0
+BetRivers,1,100.0,0,0.0,2
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250626,Port Adelaide Power,Carlton Blues,110.0,60.0,Completed,8287c291212af8b09938ba45d0e88222,2025-06-26 05:30:00,1.69,2.15,DraftKings,2025-06-25 23:52:04
+NRL,20250626,Penrith Panthers,Canterbury Bulldogs,8.0,6.0,Completed,c8c51a4784935e4e0bead6614de4ada3,2025-06-26 05:50:00,2.22,1.725,Bovada,2025-06-25 23:52:04
+NRL,20250626,Penrith Panthers,Canterbury Bulldogs,8.0,6.0,Completed,c8c51a4784935e4e0bead6614de4ada3,2025-06-26 05:50:00,2.15,1.699,BetRivers,2025-06-25 23:52:04
+Test Matches,20250626,Sri Lanka,Bangladesh,,,Unknown,e97d6fcee123cfbeee89cec1984d99f7,2025-06-26 00:15:00,1.719,10.0,BetRivers,2025-06-25 23:52:04
+Test Matches,20250626,West Indies,Australia,,,Unknown,5334079a677ac797a87228fe704db047,2025-06-26 10:00:00,4.2,1.25,BetRivers,2025-06-25 23:52:04
