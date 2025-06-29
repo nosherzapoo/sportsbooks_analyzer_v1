@@ -1,0 +1,33 @@
+
+
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID,Match Date_time,Home Team Odds,Away Team Odds,Bookmaker,Compiled_At
+AFL,20250629,Fremantle Dockers,St Kilda Saints,,,Unknown,fad890be3f0a4ea54e3a419a91d9608a,2025-06-29 03:10:00,1.25,3.9,DraftKings,2025-06-28 23:59:21
+AFL,20250629,Fremantle Dockers,St Kilda Saints,,,Unknown,fad890be3f0a4ea54e3a419a91d9608a,2025-06-29 03:10:00,1.222,4.0,Bovada,2025-06-28 23:59:21
+AFL,20250629,Fremantle Dockers,St Kilda Saints,,,Unknown,fad890be3f0a4ea54e3a419a91d9608a,2025-06-29 03:10:00,1.278,3.6,BetUS,2025-06-28 23:59:21
+AFL,20250629,Richmond Tigers,Adelaide Crows,,,Unknown,79fafee5f0257a307178b137c8ede50a,2025-06-29 01:15:00,7.0,1.083,DraftKings,2025-06-28 23:59:21
+AFL,20250629,Richmond Tigers,Adelaide Crows,,,Unknown,79fafee5f0257a307178b137c8ede50a,2025-06-29 01:15:00,8.5,1.062,Bovada,2025-06-28 23:59:21
+Boxing,20250629,Jake Paul,Julio César Chávez Jr.,,,Unknown,0fb22f110c8532f32f952b3052efd50d,2025-06-29 00:30:00,1.167,5.5,Bovada,2025-06-28 23:59:21
+Boxing,20250629,Jake Paul,Julio César Chávez Jr.,,,Unknown,0fb22f110c8532f32f952b3052efd50d,2025-06-29 00:30:00,1.143,5.5,BetUS,2025-06-28 23:59:21
+Boxing,20250629,Jake Paul,Julio César Chávez Jr.,,,Unknown,0fb22f110c8532f32f952b3052efd50d,2025-06-29 00:30:00,1.14,5.3,BetRivers,2025-06-28 23:59:21
+Boxing,20250629,Jake Paul,Julio César Chávez Jr.,,,Unknown,0fb22f110c8532f32f952b3052efd50d,2025-06-29 00:30:00,1.167,5.2,FanDuel,2025-06-28 23:59:21
+Boxing,20250629,Jake Paul,Julio César Chávez Jr.,,,Unknown,0fb22f110c8532f32f952b3052efd50d,2025-06-29 00:30:00,1.174,5.0,DraftKings,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.364,3.35,BetOnline.ag,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.4,3.05,FanDuel,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.408,2.95,BetRivers,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.377,3.15,DraftKings,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.364,3.2,BetMGM,2025-06-28 23:59:21
+MMA,20250629,Alexandre Pantoja,Kai Kara-France,,,Unknown,223920707add0304981d26f3ee1b0e3e,2025-06-29 00:10:00,1.377,3.15,Caesars,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.22,4.55,BetOnline.ag,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.247,4.2,FanDuel,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.227,4.4,DraftKings,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.25,3.95,BetRivers,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.25,4.1,BetMGM,2025-06-28 23:59:21
+MMA,20250629,Ilia Topuria,Charles Oliveira,,,Unknown,0b8977531fbe74978cbd912847f6ba70,2025-06-29 00:45:00,1.25,4.1,Caesars,2025-06-28 23:59:21
+MMA,20250629,Ray Cooper III,Dante Schiro,,,Unknown,f00b99b12ccbd225544774eb5d9562b7,2025-06-29 11:00:00,1.69,2.25,BetOnline.ag,2025-06-28 23:59:21
+NRL,20250629,Gold Coast Titans,North Queensland Cowboys,,,Unknown,6ebabf8c54d8acd01e62c2e23efd453a,2025-06-29 02:00:00,2.39,1.617,Bovada,2025-06-28 23:59:21
+NRL,20250629,Gold Coast Titans,North Queensland Cowboys,,,Unknown,6ebabf8c54d8acd01e62c2e23efd453a,2025-06-29 02:00:00,2.23,1.629,BetRivers,2025-06-28 23:59:21
+NRL,20250629,Gold Coast Titans,North Queensland Cowboys,,,Unknown,6ebabf8c54d8acd01e62c2e23efd453a,2025-06-29 02:00:00,2.16,1.641,BetUS,2025-06-28 23:59:21
+NRL,20250629,Melbourne Storm,Cronulla Sutherland Sharks,,,Unknown,33f078e58e24553e09dbe79927dcd22f,2025-06-29 00:01:00,1.328,3.45,Bovada,2025-06-28 23:59:21
+NRL,20250629,Melbourne Storm,Cronulla Sutherland Sharks,,,Unknown,33f078e58e24553e09dbe79927dcd22f,2025-06-29 00:01:00,1.29,3.5,BetRivers,2025-06-28 23:59:21
+NRL,20250629,Melbourne Storm,Cronulla Sutherland Sharks,,,Unknown,33f078e58e24553e09dbe79927dcd22f,2025-06-29 00:01:00,1.321,3.07,BetUS,2025-06-28 23:59:21
+Test Matches,20250629,Zimbabwe,South Africa,,,Unknown,ef820524ad2d533d78a8990bfa2bc4f0,2025-06-29 04:00:00,18.0,1.05,BetRivers,2025-06-28 23:59:21
