@@ -1,0 +1,11 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250704,Carlton Blues,Collingwood Magpies,59,115,Completed,7eb0aba335ec467e5455dd418c6e3391
+AFL,20250704,West Coast Eagles,Greater Western Sydney Giants,52,111,Completed,4da72458ba583d88575bd579f868effc
+AFL,20250704,Essendon Bombers,Gold Coast Suns,,,Unknown,16e5b33fd8a3990567523575f88efa7e
+Test Matches,20250704,England,India,,,Unknown,f58deeade49ac5236eed48ce9793fc1d
+Test Matches,20250704,West Indies,Australia,,,Unknown,dc54add94cba77dfb826414d07e9cd9b
+NRL,20250704,Canterbury Bulldogs,Brisbane Broncos,18,22,Completed,d98a0bac741584665b552a058dbfa872
+League of Ireland,20250704,St Patricks Athletic,Bohemians,0,0,Completed,797706a9e5ae82b4c5a2bd960e1535b5
+League of Ireland,20250704,Shelbourne Dublin,Cork City,3,1,Completed,24862d30c18c081ce27879f4888d17c7
+League of Ireland,20250704,Derry City,Waterford FC,7,2,Completed,a5650dfff7b1c27764c1fb0b6c75121b
+League of Ireland,20250704,Drogheda United,Galway United,1,0,Completed,3ddd67c9aae93d15c2ad67155a666b64
