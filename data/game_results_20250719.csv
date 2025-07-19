@@ -1,0 +1,71 @@
+Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
+AFL,20250719,Sydney Swans,North Melbourne Kangaroos,,,Unknown,0fe4bee7078fe73788f138ae205cdde9
+AFL,20250719,Carlton Blues,Melbourne Demons,,,Unknown,d9acf1a9ec88cebf264b55feabadd611
+AFL,20250719,West Coast Eagles,Richmond Tigers,,,Unknown,e78966b77a372b2cf93ff96ad2a25f36
+AFL,20250719,Geelong Cats,St Kilda Saints,,,Unknown,08ae3580412c76e3e1b824e4111db712
+Boxing,20250719,Aadam Hamed,Ezequiel Gregores,,,Unknown,cef8882962445e028cb0f89598eb8e18
+Boxing,20250719,Daniel Lapin,Lewis Edmondson,,,Unknown,b13f9eb5c549d78f24bed1ea6adf8f18
+Boxing,20250719,Lasha Guruli,James Francis,,,Unknown,644ffa591cb148022a0ac2611a8d8f3d
+Boxing,20250719,Lawrence Okolie,Kevin Lerena,,,Unknown,ff764a1b1c111cca43f229a18a707ee2
+Boxing,20250719,Vladyslav Sirenko,Solomon Dacres,,,Unknown,c45f85cd69b3e6736a4dadf207a16340
+Boxing,20250719,Oleksandr Usyk,Daniel Dubois,,,Unknown,55116528004cfc44a95b79fb10ec32f8
+Boxing,20250719,Mark Magsayo,Jorge Mata Cuellar,,,Unknown,e46fbfc875aaf8f11e1468b174b94314
+Boxing,20250719,Nishant Dev,LaQuan Evans,,,Unknown,207ebe98f5cb43aa9abe31a583d1f9c3
+Boxing,20250719,Eumir Marcial,Bernard Joseph,,,Unknown,47a16b24d454b8e3049a6f99b7d76bfb
+Boxing,20250719,Brandon Figueroa,Joet Gonzalez,,,Unknown,ef6ada71b3ad0fdaec01d4aa472d3242
+Boxing,20250719,Gary Russell Jr.,Hugo Castaneda,,,Unknown,976760bd9b0300188fe91178b4d796e4
+Boxing,20250719,Omari Jones,Alfredo Rodolfo Blanco,,,Unknown,69a532d557206d5cbd0aee3ac660a3f0
+Boxing,20250719,Hector Beltran,Edgar Gutierrez,,,Unknown,ce10cf47f7e899a1ccb345f701c1fd8c
+Boxing,20250719,Pablo Valdez,Robert Redmond Jr.,,,Unknown,dfa4e841c4727de2b7ebaed9fc7bbd76
+Boxing,20250719,David Picasso,Kyonosuke Kameda,,,Unknown,1f2b3ba8540155f8826cc53a2c258e94
+Boxing,20250719,Isaac Cruz,Omar Salcido Gamez,,,Unknown,34dc2d1fca39c004adef452ca7e6bc4d
+Boxing,20250719,Mario Barrios,Manny Pacquiao,,,Unknown,d399f99e41f93499369a64d8e58de3f0
+Boxing,20250719,Sebastian Fundora,Tim Tszyu,,,Unknown,f56769ec79eee6a16eeb64871cc82644
+Boxing,20250719,Diego Pacheco,Trevor McCrumby,,,Unknown,cabe9dfb206df705219d6ed4469e38e0
+Boxing,20250719,Jesse Rodriguez,Phumelele Cafu,,,Unknown,b044c76435a14a9d19bf23378b6bcad2
+MMA,20250719,Wojciech Kazieczko,Dawid Kareta,,,Unknown,10de1e7c2d56cd5247628d675ae53b80
+MMA,20250719,Dawid Kuczmarski,Michal Guzik,,,Unknown,3480f92bc98a075b5502b9053f8052e3
+MMA,20250719,Abdoullah Kane,Joffie Houlton,,,Unknown,831c76f9a7d10690d93fffb73153b162
+MMA,20250719,Abraham Bably,Paul-Emmanuel Gnaze,,,Unknown,f08521aeb60e765f6ac76c551eb6bb66
+MMA,20250719,Asiashu Tshitamba,Karim Henniene,,,Unknown,d99fc10a2b32c7951ad85e2c61b86ccd
+MMA,20250719,Shannon van Tonder,Boule Godogo,,,Unknown,ef1670f629ea5cd4aa70f851ad69462a
+MMA,20250719,Juliet Ukah,Ceileigh Niedermayr,,,Unknown,dcb06b1588a8e64234c43cdec2b6d45a
+MMA,20250719,Simbarashe Hokonya,Frans Mlambo,,,Unknown,d91276238b669e36461351ac88abdfc7
+MMA,20250719,Jashell Ticha Awa,Justin Clarke,,,Unknown,b0e713ab203e37a01dce5279eaff0e31
+MMA,20250719,Nkosi Ndebele,Mahmoud Atef,,,Unknown,0efade262ba5fe75f16364df8f96c3f0
+MMA,20250719,Maxwell Djantou Nana,Mickaël Groguhe,,,Unknown,2132770d9a1ecac80cc25d7c7d55276e
+MMA,20250719,Adam Niedzwiedz,Adrian Zielinski,,,Unknown,d55737455eea15e05ebd77a75e0f3c1a
+MMA,20250719,Leo Brichta,Adam Soldaev,,,Unknown,db5d8e992c04348366f1ed67f3ee2a55
+MMA,20250719,Wiktoria Czyżewska,Bianca Sattelmayer,,,Unknown,cea9083824dd083279f933a1236c8792
+MMA,20250719,Grzegorz Stabach,Karol Durszlewicz,,,Unknown,d253f37d5e3410f77a6caa58991691d6
+MMA,20250719,Ibragim Chuzhigaev,Marcin Wojcik,,,Unknown,4220f5b738ec0d5f7186e42cf0a979bf
+MMA,20250719,Denis Goltsov,Corey Anderson,,,Unknown,255da1a9af760e1d1450dede9744954c
+MMA,20250719,Akhmed Magomedov,AJ McKee,,,Unknown,27c08c8ec0941c885119a2bce22d96d4
+MMA,20250719,Sumiko Inaba,Dakota Ditcheva,,,Unknown,41243d76bc56226b66ff8732ed0a1c4c
+MMA,20250719,Costello Van Steenis,Johnny Eblen,,,Unknown,40c9caaacc39cec0fa83f113d8de17b3
+MMA,20250719,Lorenz Larkin,Randall Wallace,,,Unknown,9abad1375c19ea6b087d036dd050e049
+MMA,20250719,Brunno Ferreira,Jackson McVey,,,Unknown,3579c9ba987a912407bc934647a941b7
+MMA,20250719,Carli Judice,Nicolle Caliari,,,Unknown,4180efcaa4d09732bb0cf7eb41f9b3f5
+MMA,20250719,Francisco Prado,Nikolay Veretennikov,,,Unknown,7671cdf68cb69599732f86094a0c7a2c
+MMA,20250719,Kyler Phillips,Vinicius Oliveira,,,Unknown,54dd634d8f5623dd6a8a82c4910e9e23
+MMA,20250719,Ryan Spann,Lukasz Brzeski,,,Unknown,450b25a30b862d05ce54d4cfe6558210
+MMA,20250719,Jim Crute,Marcin Prachnio,,,Unknown,95478437bf2e91bd424fd0681a89262b
+MMA,20250719,Islam Dulatov,Adam Fugitt,,,Unknown,f909cfa1bea814ca8375929ed9fabcb3
+MMA,20250719,Ateba Gautier,Robert Valentin,,,Unknown,25c7552b34cf3247c3420825e70f18ba
+MMA,20250719,Brendan Allen,Marvin Vettori,,,Unknown,60b6535bdc734268e583fed7ac574fd3
+MMA,20250719,Dan Ige,Patricio Freire,,,Unknown,44934495ec7de068d5e3afe7539be82f
+MMA,20250719,Kevin Holland,Daniel Rodriguez,,,Unknown,c9da39b87c82b9abf1c55501f19a0a70
+MMA,20250719,Michael Johnson,Daniel Zellhuber,,,Unknown,0fa5d494286e9aa66ebdddf7b1d63616
+MMA,20250719,Dan Ige,Patricio Pitbull,,,Unknown,c3d6e3531c374c44475f692153875fdb
+MMA,20250719,Paulo Henrique Costa,Roman Kopylov,,,Unknown,c82b3b96172a461ad8d51f5963a0688f
+NRL,20250719,Canberra Raiders,Parramatta Eels,,,Unknown,fab8db914e21f62795180fea6cdbfd96
+NRL,20250719,Canterbury Bulldogs,St George Illawarra Dragons,,,Unknown,e2725e5dffda77f27ccab241db34ac22
+NRL,20250719,Melbourne Storm,Manly Warringah Sea Eagles,,,Unknown,c30c3461c6d54a52700b913c94700c22
+Primera División - Argentina,20250719,San Lorenzo,Gimnasia La Plata,,,Unknown,78c2d27a05bfb17691a709c58684d8a1
+Primera División - Argentina,20250719,Lanus,Rosario Central,,,Unknown,3566f70f44d175c7e3e573f6193aad82
+Primera División - Argentina,20250719,Godoy Cruz,Sarmiento de Junin,,,Unknown,f109bcdbffc3fab08e62102d1d604331
+Primera División - Argentina,20250719,Platense,Velez Sarsfield BA,,,Unknown,235ce21eff42d336d55d4de43974bbb8
+Primera División - Argentina,20250719,Instituto de Córdoba,River Plate,,,Unknown,08cefa324ece826e9d73df93b42377e5
+Liga MX,20250719,Tigres,FC Juárez,,,Unknown,94d1e954df2f077d44dd7d022ecc5feb
+Liga MX,20250719,León,Guadalajara,,,Unknown,680c1cd91b98b2be014edcc5a11747e6
+Liga MX,20250719,Atlas,Cruz Azul,,,Unknown,97cead5598b5e41277e75731f07b57f5
