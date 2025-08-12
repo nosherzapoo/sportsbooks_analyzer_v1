@@ -1,10 +1,10 @@
 Sport,Match Date,Home Team,Away Team,Home Score,Away Score,Status,Game ID
-Primera División - Argentina,20250811,Defensa y Justicia,Deportivo Riestra,,,Unknown,1734e6b0ca4fb5409e4d058e3ecf7339
-Denmark Superliga,20250811,OB Odense BK,Randers FC,,,Unknown,500a2d60925e0d79f3f4b55f5fbe3e41
-Ligue 2 - France,20250811,Amiens,Stade de Reims,,,Unknown,334eb636db4f9dd7a9d9a2eefe172e81
-Liga MX,20250811,León,Monterrey,,,Unknown,f41393963e0fd3cbec0d58c5c5c1219b
+Primera División - Argentina,20250811,Defensa y Justicia,Deportivo Riestra,1,0,Completed,1734e6b0ca4fb5409e4d058e3ecf7339
+Denmark Superliga,20250811,OB Odense BK,Randers FC,3,2,Completed,500a2d60925e0d79f3f4b55f5fbe3e41
+Ligue 2 - France,20250811,Amiens,Stade de Reims,2,2,Completed,334eb636db4f9dd7a9d9a2eefe172e81
+Liga MX,20250811,León,Monterrey,1,3,Completed,f41393963e0fd3cbec0d58c5c5c1219b
 Liga MX,20250811,FC Juárez,Toluca,,,Unknown,34fdcd2c198fe5dc039b1457a3a5a720
 Liga MX,20250811,Atlético San Luis,Cruz Azul,,,Unknown,7d891620fc0ae96eb51796c266eaf8f7
-Primeira Liga - Portugal,20250811,Estoril,CF Estrela,,,Unknown,31db97eb2a08604a75ff146c23958574
-Primeira Liga - Portugal,20250811,FC Porto,Vitória SC,,,Unknown,1792739b3f81089a48e177dc2ded7b08
-Turkey Super League,20250811,Trabzonspor,Kocaelispor,,,Unknown,cad9816261274a90b13a0afb45a57670
+Primeira Liga - Portugal,20250811,Estoril,CF Estrela,1,1,Completed,31db97eb2a08604a75ff146c23958574
+Primeira Liga - Portugal,20250811,FC Porto,Vitória SC,3,0,Completed,1792739b3f81089a48e177dc2ded7b08
+Turkey Super League,20250811,Trabzonspor,Kocaelispor,1,0,Completed,cad9816261274a90b13a0afb45a57670
